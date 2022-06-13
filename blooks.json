@@ -1,5 +1,6 @@
 {
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
+  "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{type}/{box}/{id}.{type}",
   "blooks": {
     "Old Boot": {
       "id": "oldBoot",
