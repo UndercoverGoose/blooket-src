@@ -1,7 +1,83 @@
 {
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.{type}",
   "blooks": {
-    
+    "Old Boot": {
+      "id": "oldBoot",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5
+    },
+    "Jellyfish": {
+      "id": "jellyfish",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5
+    },
+    "Clownfish": {
+      "id": "clownfish",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5
+    },
+    "Frog": {
+      "id": "frog",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5
+    },
+    "Crab": {
+      "id": "crab",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5
+    },
+    "Pufferfish": {
+      "id": "pufferFish",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "sellValue": 20
+    },
+    "Blobfish": {
+      "id": "blobfish",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "sellValue": 20
+    },
+    "Octopus": {
+      "id": "octopus",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "sellValue": 20
+    },
+    "Narwhal": {
+      "id": "narwhal",
+      "box": "aquatic",
+      "rarity": "Epic",
+      "chance": 3.9,
+      "sellValue": 75
+    },
+    "Baby Shark": {
+      "id": "babyShark",
+      "box": "aquatic",
+      "rarity": "Legendary",
+      "chance": 0.5,
+      "sellValue": 200
+    },
+    "Megalodon": {
+      "id": "megalodon",
+      "box": "aquatic",
+      "rarity": "Legendary",
+      "chance": 0.2,
+      "sellValue": 250
+    }
   },
   "sorted": {
     "aquatic": {
@@ -83,5 +159,13 @@
         "sellValue": 250
       }
     }
+  },
+  "rarity": {
+    "Uncommon": {},
+    "Rare": {},
+    "Epic": {},
+    "Legendary": {},
+    "Chroma": {},
+    "Mystical": {}
   }
 }
