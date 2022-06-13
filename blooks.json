@@ -78,7 +78,7 @@
       "Megalodon": {
         "id": "megalodon",
         "box": "aquatic",
-        "rarity": "Chroma",
+        "rarity": "Legendary",
         "chance": 0.2,
         "sellValue": 250
       }
