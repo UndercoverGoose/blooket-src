@@ -9,6 +9,8 @@ Easy to use JSON file listing every single blook, along side each of there id's 
 {
   "sourceUrl": "...",
   "imageUrl": "...",
+  "obtainableBlooks": 118,
+  "eventObtainedBlooks": 12,
   "blooks": {
     "Baby Shark": { // Example blook
       "id": "babyShark",
@@ -46,7 +48,9 @@ Easy to use JSON file listing every single blook, along side each of there id's 
     "Epic": [ ... ],
     "Legendary": [ ... ],
     "Mystical": [ ... ]
-  }
+  },
+  "obtainable": [ ... ],
+  "eventBlooks": [ ... ]
 }
 ```
 
@@ -57,6 +61,12 @@ Easy to use JSON file listing every single blook, along side each of there id's 
 - `.imageUrl` - the url to fetch the blook SVG or PNG from this Github
   - replace `{type}` with the type of file you want, only accepts: `png` and `svg` currently
   - replace `{box}` and `{id}` with the same values as previously
+- `.obtainableBlooks` and `.obtainable`
+  - The first key contains the total number of obtainable blooks through boxes and events
+  - The `.obtained` array lists every obtainable blook
+- `.eventObtainedBlooks` and `.eventBlooks`
+  - The first key contains the total number of blooks only obtainable through limit time events
+  - The `.eventBlooks` array lists every event blook
 - `.blooks`
   - Every key in `.blooks` refers to the display name of the blook
   - `box` may not be an actual box, as many blooks are not apart of any boxes
