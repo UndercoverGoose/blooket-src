@@ -886,6 +886,7 @@
     "Pizza": {
       "id": "pizza",
       "box": "foods",
+      "obtainedBox": "breakfast",
       "rarity": "Epic",
       "chance": 2,
       "sellValue": 75,
