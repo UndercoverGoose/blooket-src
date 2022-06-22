@@ -2224,7 +2224,7 @@
     "Spaceship",
     "Astronaut"
   ],
-  obtainableRarities: {
+  "obtainableRarities": {
     "Common": [],
     "Uncommon": [
       "Old Boot",
