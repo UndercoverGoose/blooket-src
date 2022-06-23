@@ -278,7 +278,7 @@
     },
     "Rainbow Panda": {
       "id": "rainbowPanda",
-      "box": "bonus/safari",
+      "box": "safari",
       "rarity": "Chroma",
       "chance": 0.02,
       "sellValue": 300,
