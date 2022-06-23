@@ -247,7 +247,6 @@
     "Haunted Pumpkin": {
       "id": "hauntedPumpkin",
       "box": "bonus/halloween",
-      "obtainedBox": "halloween",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -280,7 +279,6 @@
     "Rainbow Panda": {
       "id": "rainbowPanda",
       "box": "bonus/safari",
-      "obtainedBox": "safari",
       "rarity": "Chroma",
       "chance": 0.02,
       "sellValue": 300,
