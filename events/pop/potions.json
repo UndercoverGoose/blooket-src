@@ -1,0 +1,482 @@
+{
+  "Bottle Of Expectation": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BottleOfExpectation.png",
+    "ingredients": ["Fetty", "Theddium", "Krelgac"],
+    "price": 450
+  },
+  "Bottle Of Insanity": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BottleOfInsanity.png",
+    "ingredients": ["Milkweed", "Sleet", "Plubead", "Nocries", "Slorn"],
+    "price": 1500
+  },
+  "Brew Of Ignorance": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BrewOfIgnorance.png",
+    "ingredients": ["Slorn", "Iafloss", "Evlosmoot"],
+    "price": 150
+  },
+  "Brew Of Lies": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BrewOfLies.png",
+    "ingredients": ["Chorkorn", "Bianna", "Smine"],
+    "price": 300
+  },
+  "Brew Of The Ancients": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BrewOfTheAncients.png",
+    "ingredients": ["Vletta", "Zeflia", "Ishina", "Iriwood", "Fleplore", "Epruthoo"],
+    "price": 2000
+  },
+  "Clutch Of Justice": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ClutchOfJustice.png",
+    "ingredients": ["Ovliros", "Fyoom", "Crislolla", "Aatrender", "Iriwood"],
+    "price": 1400
+  },
+  "Crawler's Grasp": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Crawler'sGrasp.png",
+    "ingredients": ["Uslard", "Ikros", "Clampire", "Drunow", "Edrip"],
+    "price": 1300
+  },
+  "Death's Wish": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Death'sWish.png",
+    "ingredients": ["Shade Pepper", "Vigip", "Uzemmium", "Plubead", "Milfoil", "Lover's Leaf"],
+    "price": 2400
+  },
+  "Draught Of Bloodlust": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfBloohlust.png", // misspell
+    "ingredients": ["Todgotus", "Ooslade", "Krelgac"],
+    "price": 450
+  },
+  "Draught Of Deliriousness": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfDeliriousness.png",
+    "ingredients": ["Epruthoo", "Tremmort"],
+    "price": 80
+  },
+  "Draught Of Focus": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfFocus.png",
+    "ingredients": ["Snowdrop", "Waire"],
+    "price": 50
+  },
+  "Draught Of Petrification": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfPetrification.png",
+    "ingredients": ["Aayizet", "Kless", "Drament", "Clampire"],
+    "price": 700
+  },
+  "Draught Of Spellpower": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfSpellpower.png",
+    "ingredients": ["Eiklorn", "Vlolla", "Iteek"],
+    "price": 350
+  },
+  "Draught Of The Titans": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfTheTitans.png",
+    "ingredients": ["Woundwort", "Vebore", "Plomegon", "Prow", "Clakdush", "Azoom"],
+    "price": 1800
+  },
+  "Elixir Of Darkness": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfDarkness.png",
+    "ingredients": ["Shade Pepper", "Shilnum", "Nocries", "Odosie"],
+    "price": 900
+  },
+  "Elixir Of Illusion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfIllusion.png",
+    "ingredients": ["Shore", "Garget", "Crille"],
+    "price": 200
+  },
+  "Elixir Of Stupidity": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfStupidity.png",
+    "ingredients": ["Axow", "Todgotus"],
+    "price": 50
+  },
+  "Elixir Of Taste": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfTaste.png",
+    "ingredients": ["Aatrender", "Waire", "Edrip"],
+    "price": 150
+  },
+  "Elixir Of The Berserker": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfTheBerserker.png",
+    "ingredients": ["Ostrush", "Evlosmoot", "Chroil", "Veet", "Aatrender"],
+    "price": 1200
+  },
+  "Everfall Brew": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/EverfallBrew.png",
+    "ingredients": ["Edrip", "Aatrender"],
+    "price": 50
+  },
+  "Eyedrops Of Phantoms": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/EyedropsOfPhantoms.png",
+    "ingredients": ["Nocries", "Odosie", "Eiklorn", "Scanor"],
+    "price": 1000
+  },
+  "Fake Health Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FakeHealthPotion.png",
+    "ingredients": ["Prow", "Axow", "Wivitte"],
+    "price": 200
+  },
+  "Fake Mana Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FakeManaPotion.png",
+    "ingredients": ["Garget", "Shilnum", "Zedil"],
+    "price": 200
+  },
+  "Flask From Below": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskFromBelow.png",
+    "ingredients": ["Smine", "Oblax", "Glusmard"],
+    "price": 500
+  },
+  "Flask Of Betrayal": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfBetrayal.png",
+    "ingredients": ["Otrolla", "Shore", "Tansy", "Ekretta"],
+    "price": 800
+  },
+  "Flask Of Concentration": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfConcentration.png",
+    "ingredients": ["Iafloss", "Friyow"],
+    "price": 40
+  },
+  "Flask Of Greed": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfGreed.png",
+    "ingredients": ["Theddium", "Heaf", "Ostrush"],
+    "price": 150
+  },
+  "Flask Of Growth": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfGrowth.png",
+    "ingredients": ["Shore", "Ooknove", "Fyoom"],
+    "price": 200
+  },
+  "Flask Of Rainbows": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfRainbows.png",
+    "ingredients": ["Roo", "Vlolla", "Efanium", "Uzemmium"],
+    "price": 850
+  },
+  "Flask Of The Dimensions": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheDimensions.png",
+    "ingredients": ["Vigip", "Itrozlel", "Osloblover", "Shredfoil", "Edrip"],
+    "price": 1500
+  },
+  "Flask Of The Fire": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheFire.png",
+    "ingredients": ["Shret", "Gallberry", "Drament"],
+    "price": 400
+  },
+  "Flask Of The Harvester": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheHarvester.png",
+    "ingredients": ["Shredfoil", "Hogweed"],
+    "price": 70
+  },
+  "Flask Of The Mountain": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheMountain.png",
+    "ingredients": ["Woundwort", "Roo"],
+    "price": 70
+  },
+  "Flask Of The Tides": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheTides.png",
+    "ingredients": ["Pachrite", "Shilnum"],
+    "price": 60
+  },
+  "Flask Of Warmth": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfWarmth.png",
+    "ingredients": ["Uplard", "Friyow"],
+    "price": 40
+  },
+  "Gift Of The Phoenix": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GiftOfThePhoenix.png",
+    "ingredients": ["Fleplore", "Aatrender", "Wivitte", "Uplard", "Slorn", "Namire"],
+    "price": 2200
+  },
+  "Greater Health Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GreaterHealthPotion.png",
+    "ingredients": ["Blershary", "Sleet", "Crille"],
+    "price": 300
+  },
+  "Greater Mana Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GreaterManaPotion.png",
+    "ingredients": ["Snowdrop", "Ikros", "Iknover"],
+    "price": 300
+  },
+  "Greater Stamina Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GreaterStaminaPotion.png",
+    "ingredients": ["Heaf", "Chorkorn", "Plomegon"],
+    "price": 300
+  },
+  "Health Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/HealthPotion.png",
+    "ingredients": ["Prow", "Axow"],
+    "price": 50
+  },
+  "Love Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/LovePotion.png",
+    "ingredients": ["Lover's Leaf", "Vletta", "Waire", "Akroncower", "Otrolla"],
+    "price": 1500
+  },
+  "Mana Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ManaPotion.png",
+    "ingredients": ["Garget", "Shilnum"],
+    "price": 50
+  },
+  "Oomanoa": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Oomanoa.png",
+    "ingredients": ["Milkweed", "Wailing Nettle", "Todgotus", "Ooknove", "Ishina", "Mogdoot"],
+    "price": 2500
+  },
+  "Phial Of The Archer": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhialOfTheArcher.png",
+    "ingredients": ["Sleet", "Garget"],
+    "price": 60
+  },
+  "Phial Of Trust": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhialOfTrust.png",
+    "ingredients": ["Iriwood", "Fleplore"],
+    "price": 70
+  },
+  "Philter Of Camoflage": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfCamoflage.png",
+    "ingredients": ["Zedil", "Shore", "Kless"],
+    "price": 200
+  },
+  "Philter Of Hatred": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfHatred.png",
+    "ingredients": ["Osloblover", "Ooslade", "Thriper", "Shrivline"],
+    "price": 600
+  },
+  "Philter Of Influence": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfInfluence.png",
+    "ingredients": ["Ostrush", "Oblax", "Friyow"],
+    "price": 200
+  },
+  "Philter Of Reversed Time": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfReversedTime.png",
+    "ingredients": ["Zeflia", "Iriwood", "Vebore", "Epruthoo", "Kless", "Fyoom"],
+    "price": 2300
+  },
+  "Philter Of The Paragon": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfTheParagon.png",
+    "ingredients": ["Snowdrop", "Smequin", "Wailing Nettle", "Chroil", "Evlosmoot", "Ikros"],
+    "price": 1800
+  },
+  "Philter Of Thunder": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfThunder.png",
+    "ingredients": ["Wivitte", "Gallberry", "Glaisy"],
+    "price": 300
+  },
+  "Philter Of Victory": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfVictory.png",
+    "ingredients": ["Stammerwort", "Namire"],
+    "price": 60
+  },
+  "Potion Of Arcane Enhancement": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfArcaneEnhancement.png",
+    "ingredients": ["Scanor", "Hogweed", "Clakdush"],
+    "price": 400
+  },
+  "Potion Of Clairvoyance": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfClairvoyance.png",
+    "ingredients": ["Chroil", "Azoom"],
+    "price": 80
+  },
+  "Potion Of Damage Enhancement": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfDamageEnhancement.png",
+    "ingredients": ["Uplard", "Shredfoil"],
+    "price": 40
+  },
+  "Potion Of Determination": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfDetermination.png",
+    "ingredients": ["Glusmard", "Prow", "Shret"],
+    "price": 100
+  },
+  "Potion Of Evasion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfEvasion.png",
+    "ingredients": ["Shore", "Knoot"],
+    "price": 60
+  },
+  "Potion Of Everlasting Breath": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfEverlastingBreath.png",
+    "ingredients": ["Shilnum", "Drament", "Dripedil", "Ozeed"],
+    "price": 700
+  },
+  "Potion Of Farsight": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfFarsight.png",
+    "ingredients": ["Drunow", "Ekretta", "Aayizet"],
+    "price": 300
+  },
+  "Potion Of Fortification": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfFortification.png",
+    "ingredients": ["Thriper", "Efanium", "Scanor", "Knoot"],
+    "price": 500
+  },
+  "Potion Of Imbalance": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfImbalance.png",
+    "ingredients": ["Todgotus", "Prow", "Akroncower"],
+    "price": 400
+  },
+  "Potion Of Imperfection": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfImperfection.png",
+    "ingredients": ["Fetty", "Drament", "Uslard"],
+    "price": 300
+  },
+  "Potion Of Jealousy": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfJealousy.png",
+    "ingredients": ["Lover's Leaf", "Chroil", "Dripedil"],
+    "price": 200
+  },
+  "Potion Of Lava Walking": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfLavaWalking.png",
+    "ingredients": ["Drunow", "Edrip"],
+    "price": 50
+  },
+  "Potion Of Levitation": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfLevitation.png",
+    "ingredients": ["Aatrender", "Smine", "Tansy", "Krelgac", "Woundwort"],
+    "price": 1100
+  },
+  "Potion Of Masking": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfMasking.png",
+    "ingredients": ["Vlolla", "Smequin"],
+    "price": 70
+  },
+  "Potion Of Professions": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfProfessions.png",
+    "ingredients": ["Ovliros", "Crislolla"],
+    "price": 40
+  },
+  "Potion Of Purification": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfPurification.png",
+    "ingredients": ["Iafloss", "Oblax", "Namire"],
+    "price": 200
+  },
+  "Potion Of Regeneration": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfRegeneration.png",
+    "ingredients": ["Otrolla", "Ekretta"],
+    "price": 70
+  },
+  "Potion Of Resistance": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfResistance.png",
+    "ingredients": ["Waire", "Aconite"],
+    "price": 60
+  },
+  "Potion Of Restriction": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfRestriction.png",
+    "ingredients": ["Aconite", "Milfoil", "Eiklorn"],
+    "price": 100
+  },
+  "Potion Of Stealth": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfStealth.png",
+    "ingredients": ["Roo", "Prow", "Tansy"],
+    "price": 130
+  },
+  "Potion Of Summoning": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfSummoning.png",
+    "ingredients": ["Wailing Nettle", "Plomegon", "Nocries", "Kless"],
+    "price": 600
+  },
+  "Potion Of The Beginning": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfTheBeginning.png",
+    "ingredients": ["Itrozlel", "Iteek", "Theddium", "Waire", "Vletta"],
+    "price": 1400
+  },
+  "Potion Of Water Walking": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfWaterWalking.png",
+    "ingredients": ["Iknover", "Garget"],
+    "price": 70
+  },
+  "Stamina Potion": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/StaminaPotion.png",
+    "ingredients": ["Waire", "Axow"],
+    "price": 60
+  },
+  "The Needle": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TheNeedle.png",
+    "ingredients": ["Shade Pepper", "Shrivline", "Vletta", "Crille", "Efanium", "Ostrush"],
+    "price": 2500
+  },
+  "Tonic Of Joy": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TonicOfJoy.png",
+    "ingredients": ["Blershary", "Itrozlel"],
+    "price": 50
+  },
+  "Tonic Of Poison Resistance": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TonicOfPoisonResistance.png",
+    "ingredients": ["Scanor", "Blakmel", "Sleet"],
+    "price": 200
+  },
+  "Tonic Of Wind": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TonicOfWind.png",
+    "ingredients": ["Blakmel", "Shore"],
+    "price": 40
+  },
+  "Urn Of Excitement": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/UrnOfExcitement.png",
+    "ingredients": ["Veet", "Plubead"],
+    "price": 60
+  },
+  "Vial Of Clarity": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfClarity.png",
+    "ingredients": ["Heaf", "Ishina", "Friyow"],
+    "price": 200
+  },
+  "Vial Of Depressions": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfDepressions.png",
+    "ingredients": ["Bianna", "Aconite", "Smequin", "Tremmort"],
+    "price": 900
+  },
+  "Vial Of Disabling": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfDisabling.png",
+    "ingredients": ["Slorn", "Krelgac", "Glaisy"],
+    "price": 200
+  },
+  "Vial Of Experimentation": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfExperimentation.png",
+    "ingredients": ["Ekretta", "Azoom"],
+    "price": 70
+  },
+  "Vial Of Feather Weight": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfFeaterWeight.png", // misspell
+    "ingredients": ["Iteek", "Evlosmoot", "Namire"],
+    "price": 300
+  },
+  "Vial Of Haste": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfHaste.png",
+    "ingredients": ["Clampire", "Thriper"],
+    "price": 70
+  },
+  "Vial Of Knowledge": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfKnowledge.png",
+    "ingredients": ["Snowdrop", "Dripedil", "Smequin"],
+    "price": 200
+  },
+  "Vial Of Luck": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfLuck.png",
+    "ingredients": ["Iafloss", "Aconite", "Aayizet", "Ozeed"],
+    "price": 600
+  },
+  "Vial Of Neglect": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfNeglect.png",
+    "ingredients": ["Vigip", "Otrolla", "Fleplore"],
+    "price": 200
+  },
+  "Vial Of Shielding": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfShielding.png",
+    "ingredients": ["Mogdoot", "Woundwort", "Drament"],
+    "price": 300
+  },
+  "Vial Of Sleep": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfSleep.png",
+    "ingredients": ["Zedil", "Chorkorn"],
+    "price": 60
+  },
+  "Vial Of Speed": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfSpeed.png",
+    "ingredients": ["Waire", "Ostrush"],
+    "price": 70
+  },
+  "Vial Of Spores": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfSpores.png",
+    "ingredients": ["Ooknove", "Stammerwort", "Hogweed", "Uplard"],
+    "price": 1000
+  },
+  "Vial Of The Seer": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfTheSeer.png",
+    "ingredients": ["Iafloss", "Iriwood", "Ooknove", "Osloblover", "Odosie"],
+    "price": 1400
+  },
+  "Witch's Tangle": {
+    "img": "https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Witch'sTangle.png",
+    "ingredients": ["Zeflia", "Uzemmium", "Plomegon", "Pachrite", "Itrozlel"],
+    "price": 1500
+  }
+}
