@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
   "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{type}/{box}/{id}.{type}",
-  "packImageUrl": "https://undercovergoose.github.io/blooket-src/market/{type}/{pack}.{type}",
+  "packImageUrl": "https://undercovergoose.github.io/blooket-src/userInterface/market/{type}/{pack}.{type}",
   "obtainableBlooks": 118,
   "eventObtainedBlooks": 12,
   "blooks": {
