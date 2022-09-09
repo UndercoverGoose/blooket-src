@@ -1,0 +1,747 @@
+{
+  "imageUrl": "https://undercovergoose.github.io/blooket-src/towerOfDoom/{type}/{card}.{type}",
+  "enemies": {
+    "Chicken": {
+      "maxLife": 25,
+      "deckBlooks": ["Chick", "Chick", "Chicken", "Chicken", "Duck", "Duck", "Cow", "Pig", "Jester", "Cheshire Cat"],
+      "type": "small"
+    },
+    "Pig": {
+      "maxLife": 40,
+      "deckBlooks": ["Pig", "Pig", "Cow", "Cow", "Goat", "Walrus", "Sheep", "Horse", "Slime Monster", "Dormouse"],
+      "type": "small"
+    },
+    "Dog": {
+      "maxLife": 28,
+      "deckBlooks": ["Dog", "Dog", "Puppy", "Puppy", "Bear", "Goldfish", "Turtle", "Moose", "Walrus", "Gingerbread Man", "Eat Me", "Two of Spades"],
+      "type": "small"
+    },
+    "Cat": {
+      "maxLife": 30,
+      "deckBlooks": ["Cat", "Cat", "Kitten", "Kitten", "Rabbit", "Hamster", "Turtle", "Tiger", "Panther", "Unicorn", "Cheshire Cat"],
+      "type": "small"
+    },
+    "Bear": {
+      "maxLife": 43,
+      "deckBlooks": ["Bear", "Bear", "Polar Bear", "Penguin", "Orangutan", "Moose", "Fox", "Tiger", "Dragon", "Queen of Hearts"],
+      "type": "small"
+    },
+    "Raccoon": {
+      "maxLife": 27,
+      "deckBlooks": ["Raccoon", "Raccoon", "Raccoon", "Fox", "Squirrel", "Owl", "Hedgehog", "Anaconda", "Goldfish", "Jester", "Cheshire Cat"],
+      "type": "small"
+    },
+    "Tiger": {
+      "maxLife": 33,
+      "deckBlooks": ["Tiger", "Tiger", "Orangutan", "Panther", "Jaguar", "Toucan", "Macaw", "Horse", "Walrus", "Queen of Hearts"],
+      "type": "small"
+    },
+    "Parrot": {
+      "maxLife": 32,
+      "deckBlooks": ["Parrot", "Parrot", "Macaw", "Toucan", "Cockatoo", "Cockatoo", "Owl", "Snowy Owl", "Tiger", "Wizard", "Mad Hatter"],
+      "type": "small"
+    },
+    "Arctic Fox": {
+      "maxLife": 30,
+      "deckBlooks": ["Arctic Fox", "Arctic Fox", "Fox", "Penguin", "Snowy Owl", "Polar Bear", "Baby Penguin", "Arctic Hare", "Seal", "Walrus", "Walrus", "Fairy", "Drink Me", "Alice"],
+      "type": "small"
+    },
+    "Panther": {
+      "maxLife": 35,
+      "deckBlooks": ["Panther", "Panther", "Tiger", "Orangutan", "Owl", "Raccoon", "Cow", "Baby Penguin", "Penguin", "Kitten", "Puppy", "Witch", "Dormouse"],
+      "type": "small"
+    },
+    "Rabbit": {
+      "maxLife": 41,
+      "deckBlooks": ["Rabbit", "Rabbit", "Hamster", "Arctic Hare", "Baby Penguin", "Raccoon", "Fox", "Puppy", "White Rabbit", "Squirrel", "Cheshire Cat"],
+      "type": "small"
+    },
+    "Orangutan": {
+      "maxLife": 48,
+      "deckBlooks": ["Orangutan", "Orangutan", "Orangutan", "Orangutan", "Orangutan", "Orangutan", "Orangutan", "Orangutan", "King of Hearts"],
+      "type": "small"
+    },
+    "Witch": {
+      "maxLife": 65,
+      "deckBlooks": ["Witch", "Witch", "Wizard", "Wizard", "Fairy", "Dragon", "White Rabbit", "Caterpillar", "Turtle", "Owl", "Snowy Owl", "Horse"],
+      "type": "big"
+    },
+    "Slime Monster": {
+      "maxLife": 73,
+      "deckBlooks": ["Slime Monster", "Slime Monster", "Bear", "Walrus", "Tiger", "Hedgehog", "Wizard", "Dragon", "Dormouse", "Queen of Hearts"],
+      "type": "big"
+    },
+    "Dragon": {
+      "maxLife": 67,
+      "deckBlooks": ["Dragon", "Dragon", "Jester", "Wizard", "Elf", "Moose", "Jaguar", "Tiger", "Dormouse", "Queen of Hearts", "Eat Me"],
+      "type": "big"
+    },
+    "Gingerbread Man": {
+      "maxLife": 63,
+      "deckBlooks": ["Gingerbread Man", "Gingerbread Man", "Snow Globe", "Holiday Gift", "Hot Chocolate", "Holiday Wreath", "Gingerbread House", "Gingerbread House", "Snowy Owl", "Penguin", "Cheshire Cat", "Walrus", "Polar Bear"],
+      "type": "big"
+    },
+    "Elf": {
+      "maxLife": 56,
+      "deckBlooks": ["Elf", "Elf", "Fairy", "Slime Monster", "Dragon", "Anaconda", "Turtle", "Capuchin", "Witch", "Two of Spades", "Wizard", "White Rabbit"],
+      "type": "big"
+    },
+    "Jester": {
+      "maxLife": 58,
+      "deckBlooks": ["Jester", "Jester", "Chick", "Parrot", "Macaw", "Slime Monster", "Mad Hatter", "Cheshire Cat", "Eat Me", "Drink Me", "Queen of Hearts"],
+      "type": "big"
+    },
+    "Alice": {
+      "maxLife": 54,
+      "deckBlooks": ["Alice", "Alice", "Cheshire Cat", "Drink Me", "Eat Me", "Two of Spades", "Dormouse", "White Rabbit", "Unicorn", "Parrot", "Macaw", "Seal"],
+      "type": "big"
+    },
+    "Unicorn": {
+      "maxLife": 70,
+      "deckBlooks": ["Unicorn", "Unicorn", "Witch", "Wizard", "Dragon", "Queen", "White Rabbit", "Cheshire Cat", "Jester", "Caterpillar", "Snowman", "Horse", "Jaguar", "Tiger", "Orangutan"],
+      "type": "boss"
+    },
+    "Santa Claus": {
+      "maxLife": 90,
+      "deckBlooks": ["Santa Claus", "Santa Claus", "Snowman", "Snowman", "Gingerbread Man", "Gingerbread Man", "Gingerbread House", "Holiday Wreath", "Hot Chocolate", "Holiday Gift", "Snow Globe", "Penguin", "White Rabbit", "Eat Me", "Walrus"],
+      "type": "boss"
+    },
+    "King": {
+      "maxLife": 130,
+      "deckBlooks": ["King", "King", "King of Hearts", "King of Hearts", "Caterpillar", "Unicorn", "Santa Claus", "Jester", "Dragon", "Elf", "Witch", "Wizard", "Slime Monster", "White Rabbit", "Cheshire Cat", "Alice", "Queen", "Two of Spades", "Fairy"],
+      "type": "boss"
+    }
+  },
+  "enemyTypes": {
+    "small": ["Chicken", "Pig", "Dog", "Cat", "Bear", "Raccoon", "Tiger", "Parrot", "Arctic Fox", "Panther", "Rabbit", "Orangutan"],
+	  "big": ["Witch", "Slime Monster", "Dragon", "Gingerbread Man", "Elf", "Jester", "Alice"],
+	  "boss": ["Unicorn", "Santa Claus", "King"]
+  },
+  "artifacts": {
+    "Medical Kit": {
+      "desc": "Heal for +3 health after combat",
+      "icon": "fas fa-medkit",
+      "color": "#33cc33",
+      "rarity": "Rare",
+      "url": "medkit"
+    },
+    "Fury Relic": {
+      "desc": "x2 ALL damage in combat turn 1",
+      "icon": "fas fa-angry",
+      "color": "#b30000",
+      "rarity": "Common",
+      "url": "angry"
+    },
+    "Survival Guide": {
+      "desc": "Heal for +3 health at the start of combat",
+      "icon": "fas fa-book-medical",
+      "color": "#66ff99",
+      "rarity": "Rare",
+      "url": "book-medical"
+    },
+    "Steel Socks": {
+      "desc": "Attack for 2 damage each time you take damage",
+      "icon": "fas fa-socks",
+      "color": "#8ea0a4",
+      "rarity": "Common",
+      "url": "socks"
+    },
+    "Piggy Bank": {
+      "desc": "+6 coins each time you gain coins",
+      "icon": "fas fa-piggy-bank",
+      "color": "#f6a9cb",
+      "rarity": "Common",
+      "url": "piggy-bank"
+    },
+    "Lucky Feather": {
+      "desc": "Increase your odds to get lucky in ? stages",
+      "icon": "fas fa-feather",
+      "color": "#ffe6cc",
+      "rarity": "Uncommon",
+      "url": "feather-alt"
+    },
+    "Coupon": {
+      "desc": "+10% off items in the shop",
+      "icon": "fas fa-ticket-alt",
+      "color": "#4dc3ff",
+      "rarity": "Uncommon",
+      "url": "ticket-alt"
+    },
+    "Cheese": {
+      "desc": "Heal for +5 health after visiting a shop",
+      "icon": "fas fa-cheese",
+      "color": "#ffcd05",
+      "rarity": "Rare",
+      "url": "cheese"
+    },
+    "Tasty Egg": {
+      "desc": "Heal for +7 when recovering in a Rest stage",
+      "icon": "fas fa-egg",
+      "color": "#f2f2f2",
+      "rarity": "Common",
+      "url": "egg"
+    },
+    "Training Weights": {
+      "desc": "+2 stats when upgrading a card in a Rest stage",
+      "icon": "fas fa-dumbbell",
+      "color": "#999999",
+      "rarity": "Common",
+      "url": "dumbbell"
+    },
+    "Mighty Shield": {
+      "desc": "Block the first damage you would take every combat",
+      "icon": "fas fa-shield-alt",
+      "color": "#3366ff",
+      "rarity": "Epic",
+      "url": "shield-alt"
+    },
+    "Toxic Waste": {
+      "desc": "x2 ALL damage in combat",
+      "icon": "fas fa-skull-crossbones",
+      "color": "#33ff33",
+      "rarity": "Epic",
+      "url": "skull-crossbones"
+    },
+    "Lifeline Totem": {
+      "desc": "Attack with x2 damage when you're below 20 health",
+      "icon": "fas fa-heartbeat",
+      "color": "#ff3333",
+      "rarity": "Uncommon",
+      "url": "heartbeat"
+    },
+    "Cursed Hourglass": {
+      "desc": "At the start of combat, take 3 and deal 10 damage",
+      "icon": "fas fa-hourglass-half",
+      "color": "#730099",
+      "rarity": "Common",
+      "url": "hourglass-half"
+    },
+    "Band-Aid": {
+      "desc": "Heal for +15 health before boss battles",
+      "icon": "fas fa-band-aid",
+      "color": "#f5b575",
+      "rarity": "Uncommon",
+      "url": "band-aid"
+    },
+    "Elder Coins": {
+      "desc": "On pick up, gain 100 coins",
+      "icon": "fas fa-coins",
+      "color": "#e6c97e",
+      "rarity": "Epic",
+      "url": "coins"
+    },
+    "Captain's Anchor": {
+      "desc": "When you take damage, take 1 less",
+      "icon": "fas fa-anchor",
+      "color": "#7575a3",
+      "rarity": "Epic",
+      "url": "anchor"
+    },
+    "Chess Pieces": {
+      "desc": "Deal 4 damage to the enemy when you tie",
+      "icon": "fas fa-chess",
+      "color": "#e0e0eb",
+      "rarity": "Uncommon",
+      "url": "chess"
+    },
+    "Pink Hippo": {
+      "desc": "+2 Strength for your cards, but card select only has 2 options",
+      "icon": "fas fa-hippo",
+      "color": "#ffb3ff",
+      "rarity": "Legendary",
+      "url": "hippo"
+    },
+    "Anorak's Wizard Cap": {
+      "desc": "+2 Wisdom for your cards, but you skip over rest stages",
+      "icon": "fas fa-hat-wizard",
+      "color": "#5c85d6",
+      "rarity": "Legendary",
+      "url": "hat-wizard"
+    },
+    "Dave's Doggo": {
+      "desc": "+2 Charisma for your cards, but ? stages are always bad",
+      "icon": "fas fa-dog",
+      "color": "#994d00",
+      "rarity": "Legendary",
+      "url": "dog"
+    },
+    "Anubis' Obelisk": {
+      "desc": "-1 to ALL enemy attributes, but no more gaining gold",
+      "icon": "fas fa-monument",
+      "color": "#d8b470",
+      "rarity": "Legendary",
+      "url": "monument"
+    },
+    "Farm Tractor": {
+      "desc": "For your attributes, +1 to 🌽, but -1 to 🌴 Blooks",
+      "icon": "fas fa-tractor",
+      "color": "#367c2b",
+      "rarity": "Common",
+      "url": "tractor"
+    },
+    "Magic Seedling": {
+      "desc": "For your attributes, +1 to 🌲 & 🌴, but -1 to 🌽 & 🐾 Blooks",
+      "icon": "fas fa-seedling",
+      "color": "#60b649",
+      "rarity": "Rare",
+      "url": "seedling"
+    },
+    "Just A Bone": {
+      "desc": "For your attributes, +1 to 🐾, but -1 to 🌲 Blooks",
+      "icon": "fas fa-bone",
+      "color": "#f2f2f2",
+      "rarity": "Common",
+      "url": "bone"
+    },
+    "Cozy Igloo": {
+      "desc": "For your attributes, +1 to ❄️ & ☃️, but -1 to ⚔️ & 🏰 Blooks",
+      "icon": "fas fa-igloo",
+      "color": "#d6ecef",
+      "rarity": "Rare",
+      "url": "igloo"
+    },
+    "King's Crown": {
+      "desc": "For your attributes, +1 to ⚔️, but -1 to 🏰 Blooks",
+      "icon": "fas fa-crown",
+      "color": "#ffd700",
+      "rarity": "Common",
+      "url": "crown"
+    },
+    "Sacred Scroll": {
+      "desc": "For your attributes, +1 to 🏰, but -1 to ⚔️ Blooks",
+      "icon": "fas fa-scroll",
+      "color": "#d7bb93",
+      "rarity": "Common",
+      "url": "scroll"
+    }
+  },
+  "blooksByRarity": {
+    "common": ["Chick", "Chicken", "Cow", "Goat", "Horse", "Pig", "Sheep", "Duck", "Dog", "Cat", "Rabbit", "Goldfish", "Hamster", "Turtle", "Kitten", "Puppy", "Bear", "Moose", "Fox", "Raccoon", "Squirrel", "Owl", "Hedgehog", "Baby Penguin", "Penguin", "Arctic Fox", "Snowy Owl", "Polar Bear", "Arctic Hare", "Seal", "Walrus", "Tiger", "Panther", "Cockatoo", "Orangutan", "Anaconda", "Macaw", "Jaguar", "Capuchin", "Toucan", "Parrot"],
+    "uncommon": ["Elf", "Witch", "Wizard", "Fairy", "Slime Monster", "Snow Globe", "Holiday Gift", "Hot Chocolate", "Holiday Wreath", "Two of Spades", "Eat Me", "Drink Me", "Alice", "Queen of Hearts"],
+    "rare": ["Jester", "Dragon", "Queen", "Gingerbread Man", "Gingerbread House", "Dormouse", "White Rabbit", "Cheshire Cat"],
+    "epic": ["Unicorn", "Snowman", "Caterpillar", "Mad Hatter"],
+    "legendary": ["King", "Santa Claus", "King of Hearts"]
+  },
+  "cards": {
+    "Chick": {
+      "strength": 1,
+      "charisma": 16,
+      "wisdom": 5,
+      "class": "🌽"
+    },
+    "Chicken": {
+      "strength": 4,
+      "charisma": 10,
+      "wisdom": 10,
+      "class": "🌽"
+    },
+    "Cow": {
+      "strength": 12,
+      "charisma": 6,
+      "wisdom": 6,
+      "class": "🌽"
+    },
+    "Goat": {
+      "strength": 10,
+      "charisma": 6,
+      "wisdom": 6,
+      "class": "🌽"
+    },
+    "Horse": {
+      "strength": 9,
+      "charisma": 6,
+      "wisdom": 12,
+      "class": "🌽"
+    },
+    "Pig": {
+      "strength": 12,
+      "charisma": 8,
+      "wisdom": 5,
+      "class": "🌽"
+    },
+    "Sheep": {
+      "strength": 7,
+      "charisma": 11,
+      "wisdom": 7,
+      "class": "🌽"
+    },
+    "Duck": {
+      "strength": 4,
+      "charisma": 8,
+      "wisdom": 12,
+      "class": "🌽"
+    },
+    "Dog": {
+      "strength": 9,
+      "charisma": 8,
+      "wisdom": 9,
+      "class": "🌽"
+    },
+    "Cat": {
+      "strength": 7,
+      "charisma": 7,
+      "wisdom": 9,
+      "class": "🐾"
+    },
+    "Rabbit": {
+      "strength": 6,
+      "charisma": 9,
+      "wisdom": 8,
+      "class": "🐾"
+    },
+    "Goldfish": {
+      "strength": 4,
+      "charisma": 15,
+      "wisdom": 3,
+      "class": "🐾"
+    },
+    "Hamster": {
+      "strength": 5,
+      "charisma": 11,
+      "wisdom": 7,
+      "class": "🐾"
+    },
+    "Turtle": {
+      "strength": 5,
+      "charisma": 7,
+      "wisdom": 12,
+      "class": "🐾"
+    },
+    "Kitten": {
+      "strength": 5,
+      "charisma": 14,
+      "wisdom": 4,
+      "class": "🐾"
+    },
+    "Puppy": {
+      "strength": 5,
+      "charisma": 15,
+      "wisdom": 3,
+      "class": "🐾"
+    },
+    "Bear": {
+      "strength": 13,
+      "charisma": 6,
+      "wisdom": 9,
+      "class": "🌲"
+    },
+    "Moose": {
+      "strength": 11,
+      "charisma": 7,
+      "wisdom": 9,
+      "class": "🌲"
+    },
+    "Fox": {
+      "strength": 10,
+      "charisma": 8,
+      "wisdom": 8,
+      "class": "🌲"
+    },
+    "Raccoon": {
+      "strength": 6,
+      "charisma": 4,
+      "wisdom": 12,
+      "class": "🌲"
+    },
+    "Squirrel": {
+      "strength": 4,
+      "charisma": 15,
+      "wisdom": 6,
+      "class": "🌲"
+    },
+    "Owl": {
+      "strength": 6,
+      "charisma": 2,
+      "wisdom": 15,
+      "class": "🌲"
+    },
+    "Hedgehog": {
+      "strength": 11,
+      "charisma": 6,
+      "wisdom": 7,
+      "class": "🌲"
+    },
+    "Baby Penguin": {
+      "strength": 4,
+      "charisma": 14,
+      "wisdom": 6,
+      "class": "❄️"
+    },
+    "Penguin": {
+      "strength": 14,
+      "charisma": 6,
+      "wisdom": 6,
+      "class": "❄️"
+    },
+    "Arctic Fox": {
+      "strength": 9,
+      "charisma": 7,
+      "wisdom": 9,
+      "class": "❄️"
+    },
+    "Snowy Owl": {
+      "strength": 7,
+      "charisma": 4,
+      "wisdom": 13,
+      "class": "❄️"
+    },
+    "Polar Bear": {
+      "strength": 12,
+      "charisma": 7,
+      "wisdom": 9,
+      "class": "❄️"
+    },
+    "Arctic Hare": {
+      "strength": 8,
+      "charisma": 7,
+      "wisdom": 7,
+      "class": "❄️"
+    },
+    "Seal": {
+      "strength": 7,
+      "charisma": 11,
+      "wisdom": 8,
+      "class": "❄️"
+    },
+    "Walrus": {
+      "strength": 15,
+      "charisma": 6,
+      "wisdom": 5,
+      "class": "❄️"
+    },
+    "Tiger": {
+      "strength": 15,
+      "charisma": 7,
+      "wisdom": 8,
+      "class": "🌴"
+    },
+    "Panther": {
+      "strength": 14,
+      "charisma": 9,
+      "wisdom": 6,
+      "class": "🌴"
+    },
+    "Cockatoo": {
+      "strength": 4,
+      "charisma": 10,
+      "wisdom": 10,
+      "class": "🌴"
+    },
+    "Orangutan": {
+      "strength": 12,
+      "charisma": 8,
+      "wisdom": 9,
+      "class": "🌴"
+    },
+    "Anaconda": {
+      "strength": 11,
+      "charisma": 5,
+      "wisdom": 8,
+      "class": "🌴"
+    },
+    "Macaw": {
+      "strength": 5,
+      "charisma": 12,
+      "wisdom": 8,
+      "class": "🌴"
+    },
+    "Jaguar": {
+      "strength": 13,
+      "charisma": 7,
+      "wisdom": 7,
+      "class": "🌴"
+    },
+    "Capuchin": {
+      "strength": 7,
+      "charisma": 7,
+      "wisdom": 7,
+      "class": "🌴"
+    },
+    "Toucan": {
+      "strength": 6,
+      "charisma": 10,
+      "wisdom": 9,
+      "class": "🌴"
+    },
+    "Parrot": {
+      "strength": 5,
+      "charisma": 14,
+      "wisdom": 9,
+      "class": "🌴"
+    },
+    "Elf": {
+      "strength": 10,
+      "charisma": 12,
+      "wisdom": 14,
+      "class": "⚔️"
+    },
+    "Witch": {
+      "strength": 9,
+      "charisma": 8,
+      "wisdom": 15,
+      "class": "⚔️"
+    },
+    "Wizard": {
+      "strength": 9,
+      "charisma": 10,
+      "wisdom": 17,
+      "class": "⚔️"
+    },
+    "Fairy": {
+      "strength": 8,
+      "charisma": 11,
+      "wisdom": 16,
+      "class": "⚔️"
+    },
+    "Slime Monster": {
+      "strength": 14,
+      "charisma": 10,
+      "wisdom": 10,
+      "class": "⚔️"
+    },
+    "Jester": {
+      "strength": 12,
+      "charisma": 18,
+      "wisdom": 12,
+      "class": "⚔️"
+    },
+    "Dragon": {
+      "strength": 18,
+      "charisma": 10,
+      "wisdom": 16,
+      "class": "⚔️"
+    },
+    "Unicorn": {
+      "strength": 16,
+      "charisma": 17,
+      "wisdom": 16,
+      "class": "⚔️"
+    },
+    "Queen": {
+      "strength": 10,
+      "charisma": 16,
+      "wisdom": 16,
+      "class": "⚔️"
+    },
+    "King": {
+      "strength": 18,
+      "charisma": 16,
+      "wisdom": 18,
+      "class": "⚔️"
+    },
+    "Snow Globe": {
+      "strength": 8,
+      "charisma": 15,
+      "wisdom": 11,
+      "class": "☃️"
+    },
+    "Holiday Gift": {
+      "strength": 7,
+      "charisma": 16,
+      "wisdom": 8,
+      "class": "☃️"
+    },
+    "Hot Chocolate": {
+      "strength": 10,
+      "charisma": 10,
+      "wisdom": 13,
+      "class": "☃️"
+    },
+    "Gingerbread Man": {
+      "strength": 10,
+      "charisma": 18,
+      "wisdom": 13,
+      "class": "☃️"
+    },
+    "Gingerbread House": {
+      "strength": 11,
+      "charisma": 17,
+      "wisdom": 12,
+      "class": "☃️"
+    },
+    "Holiday Wreath": {
+      "strength": 7,
+      "charisma": 13,
+      "wisdom": 12,
+      "class": "☃️"
+    },
+    "Snowman": {
+      "strength": 14,
+      "charisma": 18,
+      "wisdom": 16,
+      "class": "☃️"
+    },
+    "Santa Claus": {
+      "strength": 16,
+      "charisma": 19,
+      "wisdom": 17,
+      "class": "☃️"
+    },
+    "Two of Spades": {
+      "strength": 7,
+      "charisma": 10,
+      "wisdom": 16,
+      "class": "🏰"
+    },
+    "Eat Me": {
+      "strength": 12,
+      "charisma": 12,
+      "wisdom": 12,
+      "class": "🏰"
+    },
+    "Drink Me": {
+      "strength": 10,
+      "charisma": 13,
+      "wisdom": 11,
+      "class": "🏰"
+    },
+    "Alice": {
+      "strength": 8,
+      "charisma": 16,
+      "wisdom": 8,
+      "class": "🏰"
+    },
+    "Queen of Hearts": {
+      "strength": 14,
+      "charisma": 6,
+      "wisdom": 12,
+      "class": "🏰"
+    },
+    "Dormouse": {
+      "strength": 16,
+      "charisma": 10,
+      "wisdom": 14,
+      "class": "🏰"
+    },
+    "White Rabbit": {
+      "strength": 11,
+      "charisma": 14,
+      "wisdom": 17,
+      "class": "🏰"
+    },
+    "Cheshire Cat": {
+      "strength": 10,
+      "charisma": 17,
+      "wisdom": 15,
+      "class": "🏰"
+    },
+    "Caterpillar": {
+      "strength": 13,
+      "charisma": 14,
+      "wisdom": 18,
+      "class": "🏰"
+    },
+    "Mad Hatter": {
+      "strength": 12,
+      "charisma": 18,
+      "wisdom": 15,
+      "class": "🏰"
+    },
+    "King of Hearts": {
+      "strength": 17,
+      "charisma": 19,
+      "wisdom": 16,
+      "class": "🏰"
+    }
+  }
+}

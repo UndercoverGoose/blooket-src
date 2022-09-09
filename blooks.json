@@ -1,0 +1,2392 @@
+{
+  "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
+  "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{type}/{box}/{id}.{type}",
+  "packImageUrl": "https://undercovergoose.github.io/blooket-src/market/{type}/{pack}.{type}",
+  "obtainableBlooks": 118,
+  "eventObtainedBlooks": 12,
+  "blooks": {
+    "Old Boot": {
+      "id": "oldBoot",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#995b3c"
+    },
+    "Jellyfish": {
+      "id": "jellyfish",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#c385b9"
+    },
+    "Clownfish": {
+      "id": "clownfish",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#f7941d"
+    },
+    "Frog": {
+      "id": "frog",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#a7d054"
+    },
+    "Crab": {
+      "id": "crab",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#cf1f3d"
+    },
+    "Pufferfish": {
+      "id": "pufferFish",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "sellValue": 20,
+      "color": "#ddc4a6"
+    },
+    "Blobfish": {
+      "id": "blobfish",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "sellValue": 20,
+      "color": "#f3c1da"
+    },
+    "Octopus": {
+      "id": "octopus",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "sellValue": 20,
+      "color": "#a15095"
+    },
+    "Narwhal": {
+      "id": "narwhal",
+      "box": "aquatic",
+      "rarity": "Epic",
+      "chance": 3.9,
+      "sellValue": 75,
+      "color": "#dae6f5"
+    },
+    "Baby Shark": {
+      "id": "babyShark",
+      "box": "aquatic",
+      "rarity": "Legendary",
+      "chance": 0.5,
+      "sellValue": 200,
+      "color": "#5588b7"
+    },
+    "Megalodon": {
+      "id": "megalodon",
+      "box": "aquatic",
+      "rarity": "Legendary",
+      "chance": 0.2,
+      "sellValue": 250,
+      "color": "#3d5d80"
+    },
+    "Arctic Fox": {
+      "id": "arcticFox",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7ca1d5"
+    },
+    "Arctic Hare": {
+      "id": "arcticHare",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7ca1d5"
+    },
+    "Baby Penguin": {
+      "id": "babyPenguin",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#414042"
+    },
+    "Penguin": {
+      "id": "penguin",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#fb8640"
+    },
+    "Polar Bear": {
+      "id": "polarBear",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7ca1d5"
+    },
+    "Seal": {
+      "id": "seal",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7ca1d5"
+    },
+    "Snowy Owl": {
+      "id": "snowyOwl",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#feda3f"
+    },
+    "Walrus": {
+      "id": "walrus",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7d4f33"
+    },
+    "Blizzard Clownfish": {
+      "id": "blizzardClownfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#dae6f5"
+    },
+    "Crimson Octopus": {
+      "id": "crimsonOctopus",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#b3303b"
+    },
+    "Donut Blobfish": {
+      "id": "donutBlobfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#f3c1da"
+    },
+    "Lemon Crab": {
+      "id": "lemonCrab",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#f7d959"
+    },
+    "Lovely Frog": {
+      "id": "lovelyFrog",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#f38db6"
+    },
+    "Lucky Frog": {
+      "id": "luckyFrog",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#4eb151"
+    },
+    "Pirate Pufferfish": {
+      "id": "piratePufferfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#8b5aa5"
+    },
+    "Poison Dart Frog": {
+      "id": "poisonDartFrog",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#ffcb29"
+    },
+    "Rainbow Jellyfish": {
+      "id": "rainbowJellyfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#c9d6ed"
+    },
+    "Rainbow Narwhal": {
+      "id": "rainbowNarwhal",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#cfe8e9"
+    },
+    "Spring Frog": {
+      "id": "springFrog",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#f2bd8c"
+    },
+    "Haunted Pumpkin": {
+      "id": "hauntedPumpkin",
+      "box": "bonus/halloween",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#939385"
+    },
+    "Spooky Ghost": {
+      "id": "spookyGhost",
+      "box": "bonus/halloween",
+      "rarity": "Mystical",
+      "chance": -1,
+      "sellValue": 1000,
+      "color": "#66f59b",
+      "count": 2
+    },
+    "Spooky Mummy": {
+      "id": "spookyMummy",
+      "box": "bonus/halloween",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 350,
+      "color": "#66f59b",
+      "count": 10
+    },
+    "Spooky Pumpkin": {
+      "id": "spookyPumpkin",
+      "box": "bonus/halloween",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#66f59b",
+      "count": 30
+    },
+    "Rainbow Panda": {
+      "id": "rainbowPanda",
+      "box": "safari",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "sellValue": 300,
+      "color": "#2f2c38"
+    },
+    "Tiger Zebra": {
+      "id": "tigerZebra",
+      "box": "bonus/safari",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#f18221",
+      "count": 125
+    },
+    "White Peacock": {
+      "id": "whitePeacock",
+      "box": "bonus/safari",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#69c1d3",
+      "count": 625
+    },
+    "Red Astronaut": {
+      "id": "redAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Friday",
+      "color": "#ee2324"
+    },
+    "Orange Astronaut": {
+      "id": "orangeAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Thursday",
+      "color": "#f79320"
+    },
+    "Yellow Astronaut": {
+      "id": "yellowAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Tuesday",
+      "color": "#edcb1f"
+    },
+    "Lime Astronaut": {
+      "id": "limeAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#61b446",
+      "count": 3
+    },
+    "Green Astronaut": {
+      "id": "greenAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Sunday",
+      "color": "#197b42"
+    },
+    "Cyan Astronaut": {
+      "id": "cyanAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#74cbcb",
+      "count": 10
+    },
+    "Blue Astronaut": {
+      "id": "blueAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#2867b1"
+    },
+    "Purple Astronaut": {
+      "id": "purpleAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#9068ad"
+    },
+    "Pink Astronaut": {
+      "id": "pinkAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Monday",
+      "color": "#e573ac"
+    },
+    "Brown Astronaut": {
+      "id": "brownAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Saturday",
+      "color": "#9e5a3a"
+    },
+    "Black Astronaut": {
+      "id": "blackAstronaut",
+      "box": "bonus/space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "awardDay": "Wednesday",
+      "color": "#413f56"
+    },
+    "Rainbow Astronaut": {
+      "id": "rainbowAstronaut",
+      "box": "bonus/space",
+      "rarity": "Mystical",
+      "chance": -1,
+      "sellValue": 1000,
+      "color": "#9068ad",
+      "count": 25
+    },
+    "Tim the Alien": {
+      "id": "timTheAlien",
+      "box": "bonus/space",
+      "rarity": "Mystical",
+      "chance": -1,
+      "sellValue": 1000,
+      "color": "#8dc63f",
+      "count": 2
+    },
+    "Agent Owl": {
+      "id": "agentOwl",
+      "box": "bonus/td",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#32da4e",
+      "count": 626
+    },
+    "Master Elf": {
+      "id": "masterElf",
+      "box": "bonus/td",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 350,
+      "color": "#3a3a3a",
+      "count": 126
+    },
+    "Phantom King": {
+      "id": "phantomKing",
+      "box": "bonus/td",
+      "rarity": "Mystical",
+      "chance": -1,
+      "sellValue": 1000,
+      "color": "#2cf4e1",
+      "count": 51
+    },
+    "Frost Wreath": {
+      "id": "frostWreath",
+      "box": "bonus/winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.03,
+      "sellValue": 300,
+      "color": "#2086df"
+    },
+    "Tropical Globe": {
+      "id": "tropicalGlobe",
+      "box": "bonus/winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "sellValue": 300,
+      "color": "#fb7c2f"
+    },
+    "Lil Bot": {
+      "id": "lilBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#3e564a"
+    },
+    "Lovely Bot": {
+      "id": "lovelyBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#f179af"
+    },
+    "Angry Bot": {
+      "id": "angryBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#f1613a"
+    },
+    "Happy Bot": {
+      "id": "happyBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#51ba6b"
+    },
+    "Watson": {
+      "id": "watson",
+      "box": "bots",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#d69b5a"
+    },
+    "Buddy Bot": {
+      "id": "buddyBot",
+      "box": "bots",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#9dc6ea"
+    },
+    "Brainy Bot": {
+      "id": "brainyBot",
+      "box": "bots",
+      "rarity": "Epic",
+      "chance": 3.7,
+      "sellValue": 75,
+      "color": "#9ecf7a"
+    },
+    "Mega Bot": {
+      "id": "megaBot",
+      "box": "bots",
+      "rarity": "Legendary",
+      "chance": 0.3,
+      "sellValue": 200,
+      "color": "#d71f27"
+    },
+    "Toast": {
+      "id": "toast",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "sellValue": 5,
+      "color": "#e9a058"
+    },
+    "Cereal": {
+      "id": "cereal",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "sellValue": 5,
+      "color": "#2fa04a"
+    },
+    "Yogurt": {
+      "id": "yogurt",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "sellValue": 5,
+      "color": "#00aeef"
+    },
+    "Breakfast Combo": {
+      "id": "breakfastCombo",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "sellValue": 5,
+      "color": "#c3d8ea"
+    },
+    "Orange Juice": {
+      "id": "orangeJuice",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "sellValue": 5,
+      "color": "#f7941d"
+    },
+    "Milk": {
+      "id": "milk",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "sellValue": 5,
+      "color": "#77c6e2"
+    },
+    "Waffle": {
+      "id": "waffle",
+      "box": "breakfast",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#f9a241"
+    },
+    "Pancakes": {
+      "id": "pancakes",
+      "box": "breakfast",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#f9a241"
+    },
+    "French Toast": {
+      "id": "frenchToast",
+      "box": "breakfast",
+      "rarity": "Epic",
+      "chance": 5,
+      "sellValue": 75,
+      "color": "#f9a241"
+    },
+    "Baby Blue": {
+      "id": "babyBlueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#99ccff"
+    },
+    "Black": {
+      "id": "blackBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#3a3a3a"
+    },
+    "Blue": {
+      "id": "blueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#005ce6"
+    },
+    "Brown": {
+      "id": "brownBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#86592d"
+    },
+    "Burgandy": {
+      "id": "burgandyBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#99254d"
+    },
+    "Dull Blue": {
+      "id": "dullBlueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#666699"
+    },
+    "Dust": {
+      "id": "dustBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#999966"
+    },
+    "Gray": {
+      "id": "grayBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#999999"
+    },
+    "Green": {
+      "id": "greenBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#2ca02c"
+    },
+    "Light Blue": {
+      "id": "lightBlueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#0bc2cf"
+    },
+    "Lime": {
+      "id": "limeBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#b3dc23"
+    },
+    "Maroon": {
+      "id": "maroonBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#800000"
+    },
+    "Mint": {
+      "id": "mintBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#aaf0d1"
+    },
+    "Orange": {
+      "id": "orangeBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ff7f0f"
+    },
+    "Pink": {
+      "id": "pinkBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#e377c2"
+    },
+    "Purple": {
+      "id": "purpleBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#9a49aa"
+    },
+    "Red": {
+      "id": "redBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#d62728"
+    },
+    "Salmon": {
+      "id": "salmonColorBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#fa8072"
+    },
+    "Tan": {
+      "id": "tanBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#d2b48c"
+    },
+    "Teal": {
+      "id": "tealBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#007788"
+    },
+    "Yellow": {
+      "id": "yellowBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ffff4d"
+    },
+    "Amber": {
+      "id": "amber",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#f7913f"
+    },
+    "Brontosaurus": {
+      "id": "brontosaurus",
+      "box": "dinos",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#416eb5"
+    },
+    "Dino Egg": {
+      "id": "dinoEgg",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#d69b5a"
+    },
+    "Dino Fossil": {
+      "id": "dinoFossil",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#a46735"
+    },
+    "Stegosaurus": {
+      "id": "stegosaurus",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#6c9355"
+    },
+    "Triceratops": {
+      "id": "triceratops",
+      "box": "dinos",
+      "rarity": "Epic",
+      "chance": 3.7,
+      "sellValue": 75,
+      "color": "#f1613a"
+    },
+    "Tyrannosaurus Rex": {
+      "id": "tyrannosaurusRex",
+      "box": "dinos",
+      "rarity": "Legendary",
+      "chance": 0.3,
+      "sellValue": 200,
+      "color": "#6c9355"
+    },
+    "Velociraptor": {
+      "id": "velociraptor",
+      "box": "dinos",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#cf1f3d"
+    },
+    "Chick": {
+      "id": "chick",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ffcd05"
+    },
+    "Chicken": {
+      "id": "chicken",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ed1c24"
+    },
+    "Cow": {
+      "id": "cow",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#58595b"
+    },
+    "Pig": {
+      "id": "pig",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f6a9cb"
+    },
+    "Sheep": {
+      "id": "sheep",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#414042"
+    },
+    "Duck": {
+      "id": "duck",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#4ab96d"
+    },
+    "Goat": {
+      "id": "goat",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#c59a74"
+    },
+    "Horse": {
+      "id": "horse",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#995b3c"
+    },
+    "Pizza": {
+      "id": "pizza",
+      "box": "foods",
+      "obtainedBox": "breakfast",
+      "rarity": "Epic",
+      "chance": 2,
+      "sellValue": 75,
+      "color": "#fdb913"
+    },
+    "Sandwich": {
+      "id": "sandwich",
+      "box": "foods",
+      "rarity": "Epic",
+      "chance": -1,
+      "sellValue": 75,
+      "color": "#8cbd40"
+    },
+    "Bear": {
+      "id": "bear",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#995b3c"
+    },
+    "Fox": {
+      "id": "fox",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f49849"
+    },
+    "Hedgehog": {
+      "id": "hedgehog",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#3f312b"
+    },
+    "Moose": {
+      "id": "moose",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#995b3c"
+    },
+    "Owl": {
+      "id": "owl",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#594a42"
+    },
+    "Raccoon": {
+      "id": "raccoon",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#6d6e71"
+    },
+    "Squirrel": {
+      "id": "squirrel",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#d25927"
+    },
+    "Frankenstein": {
+      "id": "frankenstein",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "sellValue": 5,
+      "color": "#56884b"
+    },
+    "Pumpkin": {
+      "id": "pumpkin",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "sellValue": 5,
+      "color": "#f7941d"
+    },
+    "Swamp Monster": {
+      "id": "swampMonster",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "sellValue": 5,
+      "color": "#2fa04a"
+    },
+    "Vampire": {
+      "id": "vampire",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "sellValue": 5,
+      "color": "#a15095"
+    },
+    "Mummy": {
+      "id": "mummy",
+      "box": "halloween",
+      "rarity": "Rare",
+      "chance": 10.15,
+      "sellValue": 20,
+      "color": "#e8d8c7"
+    },
+    "Zombie": {
+      "id": "zombie",
+      "box": "halloween",
+      "rarity": "Rare",
+      "chance": 10.15,
+      "sellValue": 20,
+      "color": "#80a55d"
+    },
+    "Werewolf": {
+      "id": "werewolf",
+      "box": "halloween",
+      "rarity": "Epic",
+      "chance": 5,
+      "sellValue": 75,
+      "color": "#594a42"
+    },
+    "Ghost": {
+      "id": "ghost",
+      "box": "halloween",
+      "rarity": "Legendary",
+      "chance": 0.65,
+      "sellValue": 200,
+      "color": "#c2def4"
+    },
+    "Elf": {
+      "id": "elf",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "sellValue": 5,
+      "color": "#a7d054"
+    },
+    "Fairy": {
+      "id": "fairy",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "sellValue": 5,
+      "color": "#df6d9c"
+    },
+    "Slime Monster": {
+      "id": "slimeMonster",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "sellValue": 5,
+      "color": "#2fa04a"
+    },
+    "Wizard": {
+      "id": "wizard",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "sellValue": 5,
+      "color": "#5a459c"
+    },
+    "Witch": {
+      "id": "witch",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "sellValue": 5,
+      "color": "#4ab96d"
+    },
+    "Cat": {
+      "id": "cat",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f49849"
+    },
+    "Dog": {
+      "id": "dog",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#995b3c"
+    },
+    "Hamster": {
+      "id": "hamster",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ce9176"
+    },
+    "Kitten": {
+      "id": "kitten",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#58595b"
+    },
+    "Puppy": {
+      "id": "puppy",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#414042"
+    },
+    "Rabbit": {
+      "id": "rabbit",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#e7bf9a"
+    },
+    "Turtle": {
+      "id": "turtle",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#619a3c"
+    },
+    "Flamingo": {
+      "id": "flamingo",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#f38db6"
+    },
+    "Panda": {
+      "id": "panda",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#2f2c38"
+    },
+    "Sloth": {
+      "id": "sloth",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#765b46"
+    },
+    "Tenrec": {
+      "id": "tenrec",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#ffcb29"
+    },
+    "Zebra": {
+      "id": "zebra",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#2f2c38"
+    },
+    "Elephant": {
+      "id": "elephant",
+      "box": "safari",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#bac4e4"
+    },
+    "Lemur": {
+      "id": "lemur",
+      "box": "safari",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#aeaba7"
+    },
+    "Peacock": {
+      "id": "peacock",
+      "box": "safari",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#2b3990"
+    },
+    "Chameleon": {
+      "id": "chameleon",
+      "box": "safari",
+      "rarity": "Epic",
+      "chance": 3.48,
+      "sellValue": 75,
+      "color": "#8dc63f"
+    },
+    "Lion": {
+      "id": "lion",
+      "box": "safari",
+      "rarity": "Legendary",
+      "chance": 0.5,
+      "sellValue": 200,
+      "color": "#f47e20"
+    },
+    "Anaconda": {
+      "id": "anaconda",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#8a9143"
+    },
+    "Capuchin": {
+      "id": "capuchin",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#e0b0a6"
+    },
+    "Cockatoo": {
+      "id": "cockatoo",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7ca1d5"
+    },
+    "Jaguar": {
+      "id": "jaguar",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#fbb040"
+    },
+    "Macaw": {
+      "id": "macaw",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#00aeef"
+    },
+    "Orangutan": {
+      "id": "orangutan",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#bc6234"
+    },
+    "Panther": {
+      "id": "panther",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#2f2c38"
+    },
+    "Parrot": {
+      "id": "parrot",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ed1c24"
+    },
+    "Tiger": {
+      "id": "tiger",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f18221"
+    },
+    "Toucan": {
+      "id": "toucan",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#ffca34"
+    },
+    "Holiday Gift": {
+      "id": "holidayGift",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "sellValue": 5,
+      "color": "#4ab96d"
+    },
+    "Holiday Wreath": {
+      "id": "holidayWreath",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "sellValue": 5,
+      "color": "#6c9355"
+    },
+    "Hot Chocolate": {
+      "id": "hotChocolate",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "sellValue": 5,
+      "color": "#663723"
+    },
+    "Snow Globe": {
+      "id": "snowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "sellValue": 5,
+      "color": "#10afd1"
+    },
+    "Gingerbread House": {
+      "id": "gingerbreadHouse",
+      "box": "winterHoliday",
+      "rarity": "Rare",
+      "chance": 11.45,
+      "sellValue": 20,
+      "color": "#995b3c"
+    },
+    "Gingerbread Man": {
+      "id": "gingerbreadMan",
+      "box": "winterHoliday",
+      "rarity": "Rare",
+      "chance": 11.45,
+      "sellValue": 20,
+      "color": "#995b3c"
+    },
+    "Snowman": {
+      "id": "snowman",
+      "box": "winterHoliday",
+      "rarity": "Epic",
+      "chance": 5.05,
+      "sellValue": 75,
+      "color": "#7ca1d5"
+    },
+    "Santa Claus": {
+      "id": "santaClaus",
+      "box": "winterHoliday",
+      "rarity": "Legendary",
+      "chance": 1,
+      "sellValue": 200,
+      "color": "#d62027"
+    },
+    "Goldfish": {
+      "id": "goldfish",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f18221"
+    },
+    "Jester": {
+      "id": "jester",
+      "box": "medieval",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#be1e2d"
+    },
+    "Dragon": {
+      "id": "dragon",
+      "box": "medieval",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#2fa04a"
+    },
+    "Unicorn": {
+      "id": "unicorn",
+      "box": "medieval",
+      "rarity": "Epic",
+      "chance": 5,
+      "sellValue": 75,
+      "color": "#f6afce"
+    },
+    "Queen": {
+      "id": "queen",
+      "box": "medieval",
+      "rarity": "Rare",
+      "chance": 9,
+      "sellValue": 20,
+      "color": "#9e1f63"
+    },
+    "King": {
+      "id": "king",
+      "box": "medieval",
+      "rarity": "Legendary",
+      "chance": 1,
+      "sellValue": 200,
+      "color": "#ee2640"
+    },
+    "Two of Spades": {
+      "id": "twoOfSpades",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15.2,
+      "sellValue": 5,
+      "color": "#414042"
+    },
+    "Eat Me": {
+      "id": "eat",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#d58c55"
+    },
+    "Drink Me": {
+      "id": "drink",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#dd7399"
+    },
+    "Alice": {
+      "id": "alice",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#4cc9f5"
+    },
+    "Queen of Hearts": {
+      "id": "queenOfHearts",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "sellValue": 5,
+      "color": "#d62027"
+    },
+    "Dormouse": {
+      "id": "dormouse",
+      "box": "wonderland",
+      "rarity": "Rare",
+      "chance": 6.5,
+      "sellValue": 20,
+      "color": "#89d6f8"
+    },
+    "White Rabbit": {
+      "id": "whiteRabbit",
+      "box": "wonderland",
+      "rarity": "Rare",
+      "chance": 6.5,
+      "sellValue": 20,
+      "color": "#ffcd05"
+    },
+    "Cheshire Cat": {
+      "id": "cheshireCat",
+      "box": "wonderland",
+      "rarity": "Rare",
+      "chance": 6.5,
+      "sellValue": 20,
+      "color": "#dd7399"
+    },
+    "Mad Hatter": {
+      "id": "madHatter",
+      "box": "wonderland",
+      "rarity": "Epic",
+      "chance": 2.5,
+      "sellValue": 75,
+      "color": "#914f93"
+    },
+    "King of Hearts": {
+      "id": "kingOfHearts",
+      "box": "wonderland",
+      "rarity": "Legendary",
+      "chance": 0.3,
+      "sellValue": 200,
+      "color": "#c62127"
+    },
+    "Caterpillar": {
+      "id": "caterpillar",
+      "box": "wonderland",
+      "rarity": "Epic",
+      "chance": 2.5,
+      "sellValue": 75,
+      "color": "#00c0f3"
+    },
+    "Earth": {
+      "id": "earth",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#416eb5"
+    },
+    "Meteor": {
+      "id": "meteor",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#c68c3c"
+    },
+    "Stars": {
+      "id": "stars",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#19184d"
+    },
+    "Alien": {
+      "id": "alien",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#8dc63f"
+    },
+    "Planet": {
+      "id": "planet",
+      "box": "space",
+      "rarity": "Rare",
+      "chance": 10,
+      "sellValue": 20,
+      "color": "#9dc6ea"
+    },
+    "UFO": {
+      "id": "ufo",
+      "box": "space",
+      "rarity": "Rare",
+      "chance": 10,
+      "sellValue": 20,
+      "color": "#a15095"
+    },
+    "Spaceship": {
+      "id": "spaceship",
+      "box": "space",
+      "rarity": "Epic",
+      "chance": 4.5,
+      "sellValue": 75,
+      "color": "#ffcb29"
+    },
+    "Astronaut": {
+      "id": "astronaut",
+      "box": "space",
+      "rarity": "Legendary",
+      "chance": 0.45,
+      "sellValue": 200,
+      "color": "#9bd4ee"
+    }
+  },
+  "boxes": {
+    "aquatic": {
+      "image": "Aquatic_Pack",
+      "isOpenable": true,
+      "tokenPrice": 20,
+      "boxName": "Aquatic Pack",
+      "blooks": [
+        "Old Boot",
+        "Jellyfish",
+        "Clownfish",
+        "Frog",
+        "Crab",
+        "Pufferfish",
+        "Blobfish",
+        "Octopus",
+        "Narwhal",
+        "Baby Shark",
+        "Megalodon"
+      ]
+    },
+    "arcticAnimals": {
+      "isOpenable": false,
+      "boxName": "Default Blooks",
+      "blooks": [
+        "Arctic Fox",
+        "Arctic Hare",
+        "Baby Penguin",
+        "Penguin",
+        "Polar Bear",
+        "Seal",
+        "Snowy Owl",
+        "Walrus"
+      ]
+    },
+    "bonus/aquatic": {
+      "isOpenable": false,
+      "boxName": "Bonus Aquatic Blooks",
+      "blooks": [
+        "Blizzard Clownfish",
+        "Crimson Octopus",
+        "Donut Blobfish",
+        "Lemon Crab",
+        "Lovely Frog",
+        "Lucky Frog",
+        "Pirate Pufferfish",
+        "Poison Dart Frog",
+        "Rainbow Jellyfish",
+        "Rainbow Narwhal",
+        "Spring Frog"
+      ]
+    },
+    "bonus/halloween": {
+      "isOpenable": false,
+      "boxName": "Bonus Halloween Blooks",
+      "blooks": [
+        "Haunted Pumpkin",
+        "Spooky Ghost",
+        "Spooky Mummy",
+        "Spooky Pumpkin"
+      ]
+    },
+    "bonus/safari": {
+      "isOpenable": false,
+      "boxName": "Bonus Safari Blooks",
+      "blooks": [
+        "Tiger Zebra",
+        "White Peacock"
+      ]
+    },
+    "bonus/space": {
+      "isOpenable": false,
+      "boxName": "Bonus Space Blooks",
+      "blooks": [
+        "Red Astronaut",
+        "Orange Astronaut",
+        "Yellow Astronaut",
+        "Lime Astronaut",
+        "Green Astronaut",
+        "Cyan Astronaut",
+        "Blue Astronaut",
+        "Purple Astronaut",
+        "Pink Astronaut",
+        "Brown Astronaut",
+        "Black Astronaut",
+        "Rainbow Astronaut",
+        "Tim the Alien"
+      ]
+    },
+    "bonus/td": {
+      "isOpenable": false,
+      "boxName": "Bonus TD Blooks",
+      "blooks": [
+        "Agent Owl",
+        "Master Elf",
+        "Phantom King"
+      ]
+    },
+    "bonus/winterHoliday": {
+      "isOpenable": false,
+      "boxName": "Bonus Winter Holiday Blooks",
+      "blooks": [
+        "Frost Wreath",
+        "Tropical Globe"
+      ]
+    },
+    "bots": {
+      "image": "Bot_Pack",
+      "isOpenable": true,
+      "tokenPrice": 20,
+      "boxName": "Bot Pack",
+      "blooks": [
+        "Lil Bot",
+        "Lovely Bot",
+        "Angry Bot",
+        "Happy Bot",
+        "Watson",
+        "Buddy Bot",
+        "Brainy Bot",
+        "Mega Bot"
+      ]
+    },
+    "breakfast": {
+      "image": "Breakfast_Pack",
+      "isOpenable": true,
+      "tokenPrice": 15,
+      "boxName": "Breakfast Pack",
+      "blooks": [
+        "Toast",
+        "Cereal",
+        "Yogurt",
+        "Breakfast Combo",
+        "Orange Juice",
+        "Milk",
+        "Waffle",
+        "Pancakes",
+        "French Toast",
+        "Pizza"
+      ]
+    },
+    "colors": {
+      "isOpenable": false,
+      "boxName": "Default Colors",
+      "blooks": [
+        "Baby Blue",
+        "Black",
+        "Blue",
+        "Brown",
+        "Burgandy",
+        "Dull Blue",
+        "Dust",
+        "Gray",
+        "Green",
+        "Light Blue",
+        "Lime",
+        "Maroon",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Salmon",
+        "Tan",
+        "Teal",
+        "Yellow"
+      ]
+    },
+    "dinos": {
+      "image": "Dino_Pack",
+      "isOpenable": true,
+      "tokenPrice": 25,
+      "boxName": "Dino Pack",
+      "blooks": [
+        "Amber",
+        "Dino Egg",
+        "Dino Fossil",
+        "Stegosaurus",
+        "Velociraptor",
+        "Brontosaurus",
+        "Triceratops",
+        "Tyrannosaurus Rex"
+      ]
+    },
+    "farmAnimals": {
+      "isOpenable": false,
+      "boxName": "Default Farm Animals",
+      "blooks": [
+        "Chick",
+        "Chicken",
+        "Cow",
+        "Pig",
+        "Sheep",
+        "Duck",
+        "Goat",
+        "Horse"
+      ]
+    },
+    "foods": {
+      "isOpenable": false,
+      "boxName": "Bonus Breakfast Blooks",
+      "blooks": [
+        "Pizza",
+        "Sandwich"
+      ]
+    },
+    "forestAnimals": {
+      "isOpenable": false,
+      "boxName": "Default Forest Animals",
+      "blooks": [
+        "Bear",
+        "Fox",
+        "Hedgehog",
+        "Moose",
+        "Owl",
+        "Raccoon",
+        "Squirrel"
+      ]
+    },
+    "halloween": {
+      "isOpenable": true,
+      "tokenPrice": 25,
+      "boxName": "Spooky Pack",
+      "blooks": [
+        "Pumpkin",
+        "Swamp Monster",
+        "Frankenstein",
+        "Vampire",
+        "Zombie",
+        "Mummy",
+        "Werewolf",
+        "Ghost",
+        "Haunted Pumpkin"
+      ]
+    },
+    "medieval": {
+      "image": "Medieval_Pack",
+      "isOpenable": true,
+      "tokenPrice": 15,
+      "boxName": "Medieval Pack",
+      "blooks": [
+        "Elf",
+        "Witch",
+        "Wizard",
+        "Fairy",
+        "Slime Monster",
+        "Jester",
+        "Dragon",
+        "Queen",
+        "Unicorn",
+        "King"
+      ]
+    },
+    "pets": {
+      "isOpenable": false,
+      "boxName": "Default Pets",
+      "blooks": [
+        "Cat",
+        "Dog",
+        "Goldfish",
+        "Hamster",
+        "Kitten",
+        "Puppy",
+        "Rabbit",
+        "Turtle"
+      ]
+    },
+    "safari": {
+      "image": "Safari_Pack",
+      "isOpenable": true,
+      "tokenPrice": 20,
+      "boxName": "Safari Pack",
+      "blooks": [
+        "Panda",
+        "Sloth",
+        "Tenrec",
+        "Flamingo",
+        "Zebra",
+        "Elephant",
+        "Lemur",
+        "Peacock",
+        "Chameleon",
+        "Lion",
+        "Rainbow Panda"
+      ]
+    },
+    "space": {
+      "image": "Space_Pack",
+      "isOpenable": true,
+      "tokenPrice": 20,
+      "boxName": "Space Pack",
+      "blooks": [
+        "Earth",
+        "Meteor",
+        "Stars",
+        "Alien",
+        "Planet",
+        "UFO",
+        "Spaceship",
+        "Astronaut",
+        "Pink Astronaut",
+        "Yellow Astronaut",
+        "Black Astronaut",
+        "Orange Astronaut",
+        "Red Astronaut",
+        "Brown Astronaut",
+        "Green Astronaut"
+      ]
+    },
+    "tropicalAnimals": {
+      "isOpenable": false,
+      "boxName": "Default Tropical Animals",
+      "blooks": [
+        "Tiger",
+        "Orangutan",
+        "Cockatoo",
+        "Parrot",
+        "Anaconda",
+        "Jaguar",
+        "Macaw",
+        "toucan",
+        "Panther",
+        "Capuchin"
+      ]
+    },
+    "winterHoliday": {
+      "isOpenable": true,
+      "tokenPrice": 25,
+      "boxName": "Blizzard Pack",
+      "blooks": [
+        "Snow Globe",
+        "Holiday Gift",
+        "Hot Chocolate",
+        "Holiday Wreath",
+        "Gingerbread Man",
+        "Gingerbread House",
+        "Snowman",
+        "Santa Claus",
+        "Frost Wreath",
+        "Tropical Globe"
+      ]
+    },
+    "wonderland": {
+      "image": "Wonderland_Pack",
+      "isOpenable": true,
+      "tokenPrice": 15,
+      "boxName": "Wonderland Pack",
+      "blooks": [
+        "Two of Spades",
+        "Eat Me",
+        "Drink Me",
+        "Alice",
+        "Queen of Hearts",
+        "Dormouse",
+        "White Rabbit",
+        "Cheshire Cat",
+        "Caterpillar",
+        "Mad Hatter",
+        "King of Hearts"
+      ]
+    }
+  },
+  "rarity": {
+    "Common": [
+      "Arctic Fox",
+      "Arctic Hare",
+      "Baby Penguin",
+      "Penguin",
+      "Polar Bear",
+      "Seal",
+      "Snowy Owl",
+      "Walrus",
+      "Baby Blue",
+      "Black",
+      "Blue",
+      "Brown",
+      "Burgandy",
+      "Dull Bluse",
+      "Dust",
+      "Gray",
+      "Green",
+      "Light Blue",
+      "Lime",
+      "Maroon",
+      "Mint",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Red",
+      "Salmon",
+      "Tan",
+      "Teal",
+      "Yellow",
+      "Chick",
+      "Chicken",
+      "Cow",
+      "Pig",
+      "Sheep",
+      "Duck",
+      "Goat",
+      "Horse",
+      "Bear",
+      "Fox",
+      "Hedgehog",
+      "Moose",
+      "Owl",
+      "Raccoon",
+      "Squirrel",
+      "Cat",
+      "Dog",
+      "Goldfish",
+      "Hamster",
+      "Kitten",
+      "Puppy",
+      "Rabbit",
+      "Turtle",
+      "Anaconda",
+      "Capuchin",
+      "Cockatoo",
+      "Jaguar",
+      "Macaw",
+      "Orangutan",
+      "Panther",
+      "Parrot",
+      "Tiger",
+      "Toucan",
+      "Dull Blue"
+    ],
+    "Uncommon": [
+      "Old Boot",
+      "Jellyfish",
+      "Clownfish",
+      "Frog",
+      "Crab",
+      "Amber",
+      "Lil Bot",
+      "Lovely Bot",
+      "Angry Bot",
+      "Happy Bot",
+      "Toast",
+      "Cereal",
+      "Yogurt",
+      "Breakfast Combo",
+      "Orange Juice",
+      "Milk",
+      "Dino Egg",
+      "Dino Fossil",
+      "Stegosaurus",
+      "Frankenstein",
+      "Pumpkin",
+      "Swamp Monster",
+      "Vampire",
+      "Elf",
+      "Fairy",
+      "Slime Monster",
+      "Wizard",
+      "Witch",
+      "Flamingo",
+      "Panda",
+      "Sloth",
+      "Tenrec",
+      "Zebra",
+      "Holiday Gift",
+      "Holiday Wreath",
+      "Hot Chocolate",
+      "Snow Globe",
+      "Alice",
+      "Drink Me",
+      "Eat Me",
+      "Queen of Hearts",
+      "Two of Spades",
+      "Earth",
+      "Meteor",
+      "Stars",
+      "Alien"
+    ],
+    "Rare": [
+      "Pufferfish",
+      "Blobfish",
+      "Octopus",
+      "Watson",
+      "Buddy Bot",
+      "Waffle",
+      "Pancakes",
+      "Brontosaurus",
+      "Velociraptor",
+      "Mummy",
+      "Zombie",
+      "Elephant",
+      "Lemur",
+      "Peacock",
+      "Gingerbread House",
+      "Gingerbread Man",
+      "Cheshire Cat",
+      "Dormouse",
+      "White Rabbit",
+      "Jester",
+      "Dragon",
+      "Queen",
+      "Planet",
+      "UFO"
+    ],
+    "Epic": [
+      "Narwhal",
+      "Brainy Bot",
+      "Triceratops",
+      "French Toast",
+      "Pizza",
+      "Sandwich",
+      "Werewolf",
+      "Chameleon",
+      "Snowman",
+      "Caterpillar",
+      "Mad Hatter",
+      "Unicorn",
+      "Spaceship"
+    ],
+    "Legendary": [
+      "Baby Shark",
+      "Megalodon",
+      "Mega Bot",
+      "Tyrannosaurus Rex",
+      "Ghost",
+      "Lion",
+      "Santa Claus",
+      "King of Hearts",
+      "King",
+      "Astronaut"
+    ],
+    "Chroma": [
+      "Blizzard Clownfish",
+      "Crimson Octopus",
+      "Donut Blobfish",
+      "Lemon Crab",
+      "Lovely Frog",
+      "Lucky Frog",
+      "Spring Frog",
+      "Pirate Pufferfish",
+      "Poison Dart Frog",
+      "Rainbow Jellyfish",
+      "Rainbow Narwhal",
+      "Haunted Pumpkin",
+      "Spooky Mummy",
+      "Spooky Pumpkin",
+      "Rainbow Panda",
+      "Tiger Zebra",
+      "White Peacock",
+      "Red Astronaut",
+      "Orange Astronaut",
+      "Yellow Astronaut",
+      "Lime Astronaut",
+      "Green Astronaut",
+      "Cyan Astronaut",
+      "Blue Astronaut",
+      "Purple Astronaut",
+      "Pink Astronaut",
+      "Brown Astronaut",
+      "Black Astronaut",
+      "Agent Owl",
+      "Master Elf",
+      "Frost Wreath",
+      "Tropical Globe"
+    ],
+    "Mystical": [
+      "Spooky Ghost",
+      "Rainbow Astronaut",
+      "Tim the Alien",
+      "Phantom King"
+    ]
+  },
+  "obtainable": [
+    "Old Boot",
+    "Jellyfish",
+    "Clownfish",
+    "Frog",
+    "Crab",
+    "Pufferfish",
+    "Blobfish",
+    "Octopus",
+    "Narwhal",
+    "Baby Shark",
+    "Megalodon",
+    "Lovely Frog",
+    "Lucky Frog",
+    "Spring Frog",
+    "Haunted Pumpkin",
+    "Spooky Ghost",
+    "Spooky Mummy",
+    "Spooky Pumpkin",
+    "Rainbow Panda",
+    "Tiger Zebra",
+    "White Peacock",
+    "Red Astronaut",
+    "Orange Astronaut",
+    "Yellow Astronaut",
+    "Lime Astronaut",
+    "Green Astronaut",
+    "Cyan Astronaut",
+    "Pink Astronaut",
+    "Brown Astronaut",
+    "Black Astronaut",
+    "Rainbow Astronaut",
+    "Tim the Alien",
+    "Agent Owl",
+    "Master Elf",
+    "Phantom King",
+    "Frost Wreath",
+    "Tropical Globe",
+    "Lil Bot",
+    "Lovely Bot",
+    "Angry Bot",
+    "Happy Bot",
+    "Watson",
+    "Buddy Bot",
+    "Brainy Bot",
+    "Mega Bot",
+    "Toast",
+    "Cereal",
+    "Yogurt",
+    "Breakfast Combo",
+    "Orange Juice",
+    "Milk",
+    "Waffle",
+    "Pancakes",
+    "French Toast",
+    "Amber",
+    "Brontosaurus",
+    "Dino Egg",
+    "Dino Fossil",
+    "Stegosaurus",
+    "Triceratops",
+    "Tyrannosaurus Rex",
+    "Velociraptor",
+    "Pizza",
+    "Frankenstein",
+    "Pumpkin",
+    "Swamp Monster",
+    "Vampire",
+    "Mummy",
+    "Zombie",
+    "Werewolf",
+    "Ghost",
+    "Elf",
+    "Fairy",
+    "Slime Monster",
+    "Wizard",
+    "Witch",
+    "Flamingo",
+    "Panda",
+    "Sloth",
+    "Tenrec",
+    "Zebra",
+    "Elephant",
+    "Lemur",
+    "Peacock",
+    "Chameleon",
+    "Lion",
+    "Holiday Gift",
+    "Holiday Wreath",
+    "Hot Chocolate",
+    "Snow Globe",
+    "Gingerbread House",
+    "Gingerbread Man",
+    "Snowman",
+    "Santa Claus",
+    "Jester",
+    "Dragon",
+    "Unicorn",
+    "Queen",
+    "King",
+    "Two of Spades",
+    "Eat Me",
+    "Drink Me",
+    "Alice",
+    "Queen of Hearts",
+    "Dormouse",
+    "White Rabbit",
+    "Cheshire Cat",
+    "Mad Hatter",
+    "King of Hearts",
+    "Caterpillar",
+    "Earth",
+    "Meteor",
+    "Stars",
+    "Alien",
+    "Planet",
+    "UFO",
+    "Spaceship",
+    "Astronaut"
+  ],
+  "obtainableRarities": {
+    "Common": [],
+    "Uncommon": [
+      "Old Boot",
+      "Jellyfish",
+      "Clownfish",
+      "Frog",
+      "Crab",
+      "Lil Bot",
+      "Lovely Bot",
+      "Angry Bot",
+      "Happy Bot",
+      "Toast",
+      "Cereal",
+      "Yogurt",
+      "Breakfast Combo",
+      "Orange Juice",
+      "Milk",
+      "Amber",
+      "Dino Egg",
+      "Dino Fossil",
+      "Stegosaurus",
+      "Frankenstein",
+      "Pumpkin",
+      "Swamp Monster",
+      "Vampire",
+      "Elf",
+      "Fairy",
+      "Slime Monster",
+      "Wizard",
+      "Witch",
+      "Flamingo",
+      "Panda",
+      "Sloth",
+      "Tenrec",
+      "Zebra",
+      "Holiday Gift",
+      "Holiday Wreath",
+      "Hot Chocolate",
+      "Snow Globe",
+      "Two of Spades",
+      "Eat Me",
+      "Drink Me",
+      "Alice",
+      "Queen of Hearts",
+      "Earth",
+      "Meteor",
+      "Stars",
+      "Alien"
+    ],
+    "Rare": [
+      "Pufferfish",
+      "Blobfish",
+      "Octopus",
+      "Watson",
+      "Buddy Bot",
+      "Waffle",
+      "Pancakes",
+      "Brontosaurus",
+      "Velociraptor",
+      "Mummy",
+      "Zombie",
+      "Elephant",
+      "Lemur",
+      "Peacock",
+      "Gingerbread House",
+      "Gingerbread Man",
+      "Jester",
+      "Dragon",
+      "Queen",
+      "Dormouse",
+      "White Rabbit",
+      "Cheshire Cat",
+      "Planet",
+      "UFO"
+    ],
+    "Epic": [
+      "Narwhal",
+      "Brainy Bot",
+      "French Toast",
+      "Triceratops",
+      "Pizza",
+      "Werewolf",
+      "Chameleon",
+      "Snowman",
+      "Unicorn",
+      "Mad Hatter",
+      "Caterpillar",
+      "Spaceship"
+    ],
+    "Legendary": [
+      "Baby Shark",
+      "Megalodon",
+      "Mega Bot",
+      "Tyrannosaurus Rex",
+      "Ghost",
+      "Lion",
+      "Santa Claus",
+      "King",
+      "King of Hearts",
+      "Astronaut"
+    ],
+    "Chroma": [
+      "Lovely Frog",
+      "Lucky Frog",
+      "Spring Frog",
+      "Haunted Pumpkin",
+      "Spooky Mummy",
+      "Spooky Pumpkin",
+      "Rainbow Panda",
+      "Tiger Zebra",
+      "White Peacock",
+      "Red Astronaut",
+      "Orange Astronaut",
+      "Yellow Astronaut",
+      "Lime Astronaut",
+      "Green Astronaut",
+      "Cyan Astronaut",
+      "Pink Astronaut",
+      "Brown Astronaut",
+      "Black Astronaut",
+      "Agent Owl",
+      "Master Elf",
+      "Frost Wreath",
+      "Tropical Globe"
+    ],
+    "Mystical": [
+      "Spooky Ghost",
+      "Rainbow Astronaut",
+      "Tim the Alien",
+      "Phantom King"
+    ]
+  },
+  "eventBlooks": [
+    "Spooky Ghost",
+    "Spooky Mummy",
+    "Spooky Pumpkin",
+    "Tim the Alien",
+    "Lime Astronaut",
+    "Cyan Astronaut",
+    "Phantom King",
+    "Master Elf",
+    "Agent Owl",
+    "Rainbow Astronaut",
+    "Tiger Zebra",
+    "White Peacock"
+  ]
+}
