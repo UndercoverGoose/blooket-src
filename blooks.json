@@ -1530,7 +1530,7 @@
       "color": "#9dc6ea"
     },
     "UFO": {
-      "id": "ufo",
+      "id": "UFO",
       "box": "space",
       "rarity": "Rare",
       "chance": 10,
