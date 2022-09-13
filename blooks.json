@@ -1,8 +1,8 @@
 {
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
   "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{type}/{box}/{id}.{type}",
-  "packImageUrl": "https://undercovergoose.github.io/blooket-src/userInterface/market/{type}/{pack}.{type}",
-  "obtainableBlooks": 118,
+  "packImageUrl": "https://undercovergoose.github.io/blooket-src/userInterface/market/{type}/packs/{pack}.{type}",
+  "obtainableBlooks": 129,
   "eventObtainedBlooks": 12,
   "blooks": {
     "Old Boot": {
@@ -1552,6 +1552,94 @@
       "chance": 0.45,
       "sellValue": 200,
       "color": "#9bd4ee"
+    },
+    "Ice Bat":  {
+      "id": "iceBat",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#295eb6"
+    },
+    "Ice Bug": {
+      "id": "iceBug",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#337ae2"
+    },
+    "Ice Elemental": {
+      "id": "iceElemental",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#58c7f0"
+    },
+    "Rock Monster": {
+      "id": "iceElemental",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "sellValue": 5,
+      "color": "#5a617f"
+    },
+    "Dink": {
+      "id": "dink",
+      "box": "iceMonsters",
+      "rarity": "Rare",
+      "chance": 8.5,
+      "sellValue": 20,
+      "color": "#8f78a5"
+    },
+    "Donk": {
+      "id": "donk",
+      "box": "iceMonsters",
+      "rarity": "Rare",
+      "chance": 8.5,
+      "sellValue": 20,
+      "color": "#677c9e"
+    },
+    "Bush Monster": {
+      "id": "bushMonster",
+      "box": "iceMonsters",
+      "rarity": "Epic",
+      "chance": 4.5,
+      "sellValue": 75,
+      "color": "#44c649"
+    },
+    "Yeti": {
+      "id": "yeti",
+      "box": "iceMonsters",
+      "rarity": "Legendary",
+      "chance": 0.35,
+      "sellValue": 200,
+      "color": "#5a81c5"
+    },
+    "Ice Slime": {
+      "id": "iceSlime",
+      "box": "iceMonsters",
+      "rarity": "Chroma",
+      "chance": 0.08,
+      "sellValue": 300,
+      "color": "#42b7ea"
+    },
+    "Frozen Fossil": {
+      "id": "frozenFossil",
+      "box": "iceMonsters",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#3ea8cf"
+    },
+    "Ice Crab": {
+      "id": "iceCrab",
+      "box": "iceMonsters",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "sellValue": 300,
+      "color": "#5a81c5"
     }
   },
   "boxes": {
@@ -1785,6 +1873,24 @@
         "Werewolf",
         "Ghost",
         "Haunted Pumpkin"
+      ]
+    },
+    "iceMonsters": {
+      "isOpenable": true,
+      "tokenPrice": 25,
+      "boxName": "Ice Monsters",
+      "blooks": [
+        "Ice Bat",
+        "Ice Bug",
+        "Ice Elemental",
+        "Rock Monster",
+        "Dink",
+        "Donk",
+        "Bush Monster",
+        "Yeti",
+        "Ice Slime",
+        "Frozen Fossil",
+        "Ice Crab"
       ]
     },
     "medieval": {
@@ -2026,7 +2132,11 @@
       "Earth",
       "Meteor",
       "Stars",
-      "Alien"
+      "Alien",
+      "Ice Bat",
+      "Ice Bug",
+      "Ice Elemental",
+      "Rock Monster"
     ],
     "Rare": [
       "Pufferfish",
@@ -2052,7 +2162,9 @@
       "Dragon",
       "Queen",
       "Planet",
-      "UFO"
+      "UFO",
+      "Dink",
+      "Donk"
     ],
     "Epic": [
       "Narwhal",
@@ -2067,7 +2179,8 @@
       "Caterpillar",
       "Mad Hatter",
       "Unicorn",
-      "Spaceship"
+      "Spaceship",
+      "Bush Monster"
     ],
     "Legendary": [
       "Baby Shark",
@@ -2079,7 +2192,8 @@
       "Santa Claus",
       "King of Hearts",
       "King",
-      "Astronaut"
+      "Astronaut",
+      "Yeti"
     ],
     "Chroma": [
       "Blizzard Clownfish",
@@ -2113,7 +2227,10 @@
       "Agent Owl",
       "Master Elf",
       "Frost Wreath",
-      "Tropical Globe"
+      "Tropical Globe",
+      "Ice Slime",
+      "Frozen Fossil",
+      "Ice Crab"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2240,7 +2357,18 @@
     "Planet",
     "UFO",
     "Spaceship",
-    "Astronaut"
+    "Astronaut",
+    "Ice Bat",
+    "Ice Bug",
+    "Ice Elemental",
+    "Rock Monster",
+    "Dink",
+    "Donk",
+    "Bush Monster",
+    "Yeti",
+    "Ice Slime",
+    "Frozen Fossil",
+    "Ice Crab"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -2290,7 +2418,11 @@
       "Earth",
       "Meteor",
       "Stars",
-      "Alien"
+      "Alien",
+      "Ice Bat",
+      "Ice Bug",
+      "Ice Elemental",
+      "Rock Monster"
     ],
     "Rare": [
       "Pufferfish",
@@ -2316,7 +2448,9 @@
       "White Rabbit",
       "Cheshire Cat",
       "Planet",
-      "UFO"
+      "UFO",
+      "Dink",
+      "Donk"
     ],
     "Epic": [
       "Narwhal",
@@ -2330,7 +2464,8 @@
       "Unicorn",
       "Mad Hatter",
       "Caterpillar",
-      "Spaceship"
+      "Spaceship",
+      "Bush Monster"
     ],
     "Legendary": [
       "Baby Shark",
@@ -2342,7 +2477,8 @@
       "Santa Claus",
       "King",
       "King of Hearts",
-      "Astronaut"
+      "Astronaut",
+      "Yeti"
     ],
     "Chroma": [
       "Lovely Frog",
@@ -2366,7 +2502,10 @@
       "Agent Owl",
       "Master Elf",
       "Frost Wreath",
-      "Tropical Globe"
+      "Tropical Globe",
+      "Ice Slime",
+      "Frozen Fossil",
+      "Ice Crab"
     ],
     "Mystical": [
       "Spooky Ghost",
