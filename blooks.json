@@ -414,6 +414,7 @@
     },
     "Tim the Alien": {
       "id": "timTheAlien",
+      "type": "gif",
       "box": "bonus/space",
       "rarity": "Mystical",
       "chance": -1,
