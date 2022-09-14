@@ -405,6 +405,7 @@
     },
     "Rainbow Astronaut": {
       "id": "rainbowAstronaut",
+      "type": "gif",
       "box": "bonus/space",
       "rarity": "Mystical",
       "chance": -1,
