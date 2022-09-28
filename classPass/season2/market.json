@@ -12,6 +12,11 @@
     }
   },
   "banners": {
+    "starter": {
+      "name": "Starter",
+      "price": 0,
+      "rarity": "Common"
+    },
     "chalkboard": {
       "name": "Chalkboard",
       "price": 100,

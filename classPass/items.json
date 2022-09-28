@@ -1,0 +1,49 @@
+{
+  "url": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/{fileType}/{type}/{type}{id}.{fileType}",
+  "bannerUrl": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/{fileType}/banners/{id}.{fileType}",
+  "all": {
+    "banners": ["starter", "chalkboard", "slime"],
+    "base": ["base0", "base1", "base2", "base3", "base4", "base5"],
+    "cheeks": ["cheeks1", "cheeks2", "cheeks3", "cheeks4", "cheeks5", "cheeks6"],
+    "clothing": ["clothing1", "clothing2", "clothing3", "clothing4", "clothing5", "clothing6", "clothing7", "clothing8", "clothing9", "clothing10", "clothing11", "clothing12", "clothing18", "clothing19", "clothing20", "clothing21", "clothing22", "clothing23", "clothing24", "clothing25", "clothing26", "clothing27", "clothing28", "clothing29", "clothing30", "clothing31", "clothing32", "clothing33", "clothing34", "clothing35", "clothing36", "clothing37", "clothing38", "clothing39", "clothing40", "clothing41", "clothing42", "clothing43"],
+    "eyebrows": ["eyebrows1", "eyebrows2", "eyebrows3", "eyebrows4", "eyebrows5", "eyebrows6", "eyebrows7", "eyebrows8", "eyebrows9"],
+    "eyes": ["eyes1", "eyes2", "eyes3", "eyes4", "eyes5", "eyes6", "eyes7", "eyes8", "eyes9", "eyes10", "eyes11", "eyes12", "eyes13"],
+    "glasses": ["glasses1", "glasses2", "glasses3", "glasses4", "glasses5", "glasses6", "glasses7", "glasses8", "glasses9", "glasses10", "glasses11", "glasses12", "glasses13", "glasses14", "glasses15", "glasses16"],
+    "hair": ["hair1", "hair2", "hair3", "hair4", "hair5", "hair6", "hair7", "hair8", "hair9", "hair10", "hair11", "hair12", "hair13", "hair14", "hair15", "hair16", "hair17"],
+    "hat": ["hat1", "hat2", "hat3", "hat4", "hat5", "hat6", "hat7", "hat8", "hat9", "hat10", "hat11", "hat12", "hat13", "hat19", "hat20", "hat21", "hat22", "hat23", "hat24", "hat25", "hat26", "hat27", "hat28", "hat29", "hat30", "hat31", "hat32", "hat33", "hat34", "hat35", "hat36"],
+    "item": ["item1", "item2", "item3", "item4", "item5", "item6", "item7", "item8", "item9", "item10", "item11", "item12", "item13", "item14", "item15", "item16", "item17", "item18", "item19", "item20", "item21", "item22", "item23", "item24", "item25", "item26", "item27", "item28", "item29", "item30", "item31"],
+    "mouth": ["mouth0", "mouth1", "mouth2", "mouth3", "mouth4", "mouth5", "mouth6", "mouth7", "mouth8", "mouth9", "mouth10", "mouth11", "mouth12", "mouth13", "mouth14", "mouth15", "mouth16", "mouth17"],
+    "nose": ["nose1", "nose2", "nose3", "nose4", "nose5", "nose6", "nose7"]
+  },
+  "seasons": [
+    {
+      "all": ["base0", "base1", "base2", "base3", "base4", "base5", "cheeks1", "cheeks2", "cheeks3", "cheeks4", "clothing1", "clothing2", "clothing3", "clothing4", "clothing5", "clothing6", "clothing7", "clothing8", "clothing9", "clothing10", "clothing11", "clothing12", "eyebrows1", "eyebrows2", "eyebrows3", "eyebrows4", "eyebrows5", "eyes1", "eyes2", "eyes3", "eyes4", "eyes5", "eyes6", "eyes7", "eyes8", "eyes9", "eyes10", "eyes11", "glasses1", "glasses2", "glasses3", "glasses4", "glasses5", "glasses6", "glasses7", "glasses8", "hair1", "hair2", "hair3", "hair4", "hair5", "hair6", "hair7", "hair8", "hair9", "hair10", "hair11", "hair12", "hat1", "hat2", "hat3", "hat4", "hat5", "hat6", "hat7", "hat8", "hat9", "hat10", "hat11", "hat12", "hat13", "item1", "item2", "item3", "item4", "item5", "item6", "item7", "item8", "item9", "item10", "item11", "item12", "item13", "mouth0", "mouth1", "mouth2", "mouth3", "mouth4", "mouth5", "mouth6", "mouth7", "mouth8", "mouth9", "mouth10", "mouth11", "nose1", "nose2", "nose3", "nose4", "nose5", "nose6"],
+      "base": ["base0", "base1", "base2", "base3", "base4", "base5"],
+      "cheeks": ["cheeks1", "cheeks2", "cheeks3", "cheeks4"],
+      "clothing": ["clothing1", "clothing2", "clothing3", "clothing4", "clothing5", "clothing6", "clothing7", "clothing8", "clothing9", "clothing10", "clothing11", "clothing12"],
+      "eyebrows": ["eyebrows1", "eyebrows2", "eyebrows3", "eyebrows4", "eyebrows5"],
+      "eyes": ["eyes1", "eyes2", "eyes3", "eyes4", "eyes5", "eyes6", "eyes7", "eyes8", "eyes9", "eyes10", "eyes11"],
+      "glasses": ["glasses1", "glasses2", "glasses3", "glasses4", "glasses5", "glasses6", "glasses7", "glasses8"],
+      "hair": ["hair1", "hair2", "hair3", "hair4", "hair5", "hair6", "hair7", "hair8", "hair9", "hair10", "hair11", "hair12"],
+      "hat": ["hat1", "hat2", "hat3", "hat4", "hat5", "hat6", "hat7", "hat8", "hat9", "hat10", "hat11", "hat12", "hat13"],
+      "item": ["item1", "item2", "item3", "item4", "item5", "item6", "item7", "item8", "item9", "item10", "item11", "item12", "item13"],
+      "mouth": ["mouth0", "mouth1", "mouth2", "mouth3", "mouth4", "mouth5", "mouth6", "mouth7", "mouth8", "mouth9", "mouth10", "mouth11"],
+      "nose": ["nose1", "nose2", "nose3", "nose4", "nose5", "nose6"]
+    },
+    {
+      "all": ["starter", "chalkboard", "slime", "cheeks5", "cheeks6", "clothing18", "clothing19", "clothing20", "clothing21", "clothing22", "clothing23", "clothing24", "clothing25", "clothing26", "clothing27", "clothing28", "clothing29", "clothing30", "clothing31", "clothing32", "clothing33", "clothing34", "clothing35", "clothing36", "clothing37", "clothing38", "clothing39", "clothing40", "clothing41", "clothing42", "clothing43", "eyebrows6", "eyebrows7", "eyebrows8", "eyebrows9", "eyes12", "eyes13", "glasses9", "glasses10", "glasses11", "glasses12", "glasses13", "glasses14", "glasses15", "glasses16", "hair13", "hair14", "hair15", "hair16", "hair17", "hat19", "hat20", "hat21", "hat22", "hat23", "hat24", "hat25", "hat26", "hat27", "hat28", "hat29", "hat30", "hat31", "hat32", "hat33", "hat34", "hat35", "hat36", "item14", "item15", "item16", "item17", "item18", "item19", "item20", "item21", "item22", "item23", "item24", "item25", "item26", "item27", "item28", "item29", "item30", "item31", "mouth12", "mouth13", "mouth14", "mouth15", "mouth16", "mouth17", "nose7"],
+      "banners": ["starter", "chalkboard", "slime"],
+      "cheeks": ["cheeks5", "cheeks6"],
+      "clothing": ["clothing18", "clothing19", "clothing20", "clothing21", "clothing22", "clothing23", "clothing24", "clothing25", "clothing26", "clothing27", "clothing28", "clothing29", "clothing30", "clothing31", "clothing32", "clothing33", "clothing34", "clothing35", "clothing36", "clothing37", "clothing38", "clothing39", "clothing40", "clothing41", "clothing42", "clothing43"],
+      "eyebrows": ["eyebrows6", "eyebrows7", "eyebrows8", "eyebrows9"],
+      "eyes": ["eyes12", "eyes13"],
+      "glasses": ["glasses9", "glasses10", "glasses11", "glasses12", "glasses13", "glasses14", "glasses15", "glasses16"],
+      "hair": ["hair13", "hair14", "hair15", "hair16", "hair17"],
+      "hat": ["hat19", "hat20", "hat21", "hat22", "hat23", "hat24", "hat25", "hat26", "hat27", "hat28", "hat29", "hat30", "hat31", "hat32", "hat33", "hat34", "hat35", "hat36"],
+      "item": ["item14", "item15", "item16", "item17", "item18", "item19", "item20", "item21", "item22", "item23", "item24", "item25", "item26", "item27", "item28", "item29", "item30", "item31"],
+      "mouth": ["mouth12", "mouth13", "mouth14", "mouth15", "mouth16", "mouth17"],
+      "nose": ["nose7"]
+    }
+  ],
+  "items": {}
+}
