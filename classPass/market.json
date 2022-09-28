@@ -1,0 +1,26 @@
+{
+  "titles": {
+    "lineLeader": {
+      "display": "Line Leader",
+      "price": 250,
+      "rarity": "Uncommon"
+    },
+    "earlyBird": {
+      "display": "Early Bird",
+      "price": 100,
+      "rarity": "Uncommon"
+    }
+  },
+  "banners": {
+    "chalkboard": {
+      "name": "Chalkboard",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "slime": {
+      "name": "Slime",
+      "price": 500,
+      "rarity": "Rare"
+    }
+  }
+}
