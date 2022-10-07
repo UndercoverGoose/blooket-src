@@ -9,6 +9,16 @@
       "display": "Early Bird",
       "price": 100,
       "rarity": "Uncommon"
+    },
+    "studious": {
+      "display": "Studious",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "smartyPants": {
+      "display": "Smarty Pants",
+      "price": 250,
+      "rarity": "Uncommon"
     }
   },
   "banners": {
@@ -26,6 +36,16 @@
       "name": "Slime",
       "price": 500,
       "rarity": "Rare"
+    },
+    "toasterPastry": {
+      "name": "Toaster Pastry",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "bookshelf": {
+      "name": "Bookshelf",
+      "price": 100,
+      "rarity": "Uncommon"
     }
   }
 }
