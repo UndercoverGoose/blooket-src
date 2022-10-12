@@ -19,6 +19,16 @@
       "display": "Smarty Pants",
       "price": 250,
       "rarity": "Uncommon"
+    },
+    "thoughtful": {
+      "display": "Thoughtful",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "starStudent": {
+      "display": "Star Student",
+      "price": 250,
+      "rarity": "Uncommon"
     }
   },
   "banners": {
@@ -46,6 +56,16 @@
       "name": "Bookshelf",
       "price": 100,
       "rarity": "Uncommon"
+    },
+    "theater": {
+      "name": "Theater",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "sushi": {
+      "name": "Sushi",
+      "price": 500,
+      "rarity": "Rare"
     }
   }
 }
