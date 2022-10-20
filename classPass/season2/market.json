@@ -29,6 +29,16 @@
       "display": "Star Student",
       "price": 250,
       "rarity": "Uncommon"
+    },
+    "creative": {
+      "display": "Creative",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "pumpkinSpice": {
+      "display": "Pumpkin Spice",
+      "price": 500,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -66,6 +76,11 @@
       "name": "Sushi",
       "price": 500,
       "rarity": "Rare"
+    },
+    "workbench": {
+      "name": "Workbench",
+      "price": 100,
+      "rarity": "Uncommon"
     }
   }
 }
