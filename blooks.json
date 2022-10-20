@@ -2,7 +2,7 @@
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
   "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{type}/{box}/{id}.{type}",
   "packImageUrl": "https://undercovergoose.github.io/blooket-src/userInterface/market/{type}/packs/{pack}.{type}",
-  "obtainableBlooks": 129,
+  "obtainableBlooks": 132,
   "eventObtainedBlooks": 12,
   "blooks": {
     "Old Boot": {
@@ -1844,6 +1844,33 @@
       "sellValue": 300,
       "color": "#5a81c5",
       "tradeValue": [45707, 42000]
+    },
+    "Caramel Apple": {
+      "id": "caramelApple",
+      "box": "halloween",
+      "rarity": "Rare",
+      "chance": 6.7,
+      "sellValue": 20,
+      "color": "#8d432a",
+      "tradeValue": [0, 0]
+    },
+    "Pumpkin Cookie": {
+      "id": "pumpkinCookie",
+      "box": "halloween",
+      "rarity": "Chroma",
+      "chance": 0.03,
+      "sellValue": 300,
+      "color": "#f7941d",
+      "tradeValue": [0, 0]
+    },
+    "Ghost Cookie": {
+      "id": "ghostCookie",
+      "box": "halloween",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "sellValue": 300,
+      "color": "#c2def4",
+      "tradeValue": [0, 0]
     }
   },
   "boxes": {
@@ -2076,7 +2103,9 @@
         "Mummy",
         "Werewolf",
         "Ghost",
-        "Haunted Pumpkin"
+        "Caramel Apple",
+        "Pumpkin Cookie",
+        "Ghost Cookie"
       ]
     },
     "iceMonsters": {
@@ -2368,7 +2397,8 @@
       "Planet",
       "UFO",
       "Dink",
-      "Donk"
+      "Donk",
+      "Caramel Apple"
     ],
     "Epic": [
       "Narwhal",
@@ -2434,7 +2464,9 @@
       "Tropical Globe",
       "Ice Slime",
       "Frozen Fossil",
-      "Ice Crab"
+      "Ice Crab",
+      "Pumpkin Cookie",
+      "Ghost Cookie"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2458,7 +2490,6 @@
     "Lovely Frog",
     "Lucky Frog",
     "Spring Frog",
-    "Haunted Pumpkin",
     "Spooky Ghost",
     "Spooky Mummy",
     "Spooky Pumpkin",
@@ -2572,7 +2603,10 @@
     "Yeti",
     "Ice Slime",
     "Frozen Fossil",
-    "Ice Crab"
+    "Ice Crab",
+    "Caramel Apple",
+    "Pumpkin Cookie",
+    "Ghost Cookie"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -2654,7 +2688,8 @@
       "Planet",
       "UFO",
       "Dink",
-      "Donk"
+      "Donk",
+      "Caramel Apple"
     ],
     "Epic": [
       "Narwhal",
@@ -2688,7 +2723,6 @@
       "Lovely Frog",
       "Lucky Frog",
       "Spring Frog",
-      "Haunted Pumpkin",
       "Spooky Mummy",
       "Spooky Pumpkin",
       "Rainbow Panda",
@@ -2709,7 +2743,9 @@
       "Tropical Globe",
       "Ice Slime",
       "Frozen Fossil",
-      "Ice Crab"
+      "Ice Crab",
+      "Pumpkin Cookie",
+      "Ghost Cookie"
     ],
     "Mystical": [
       "Spooky Ghost",
