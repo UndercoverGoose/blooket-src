@@ -1,5 +1,5 @@
 {
-  "imageUrl": "https://undercovergoose.github.io/blooket-src/towerOfDoom/{type}/{card}.{type}",
+  "imageUrl": "https://undercovergoose.github.io/blooket-src/modes/towerOfDoom/{card}.{type}",
   "enemies": {
     "Chicken": {
       "maxLife": 25,
