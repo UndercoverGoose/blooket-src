@@ -1,42 +1,42 @@
 {
   "titles": {
     "lineLeader": {
-      "display": "Line Leader",
+      "name": "Line Leader",
       "price": 250,
       "rarity": "Uncommon"
     },
     "earlyBird": {
-      "display": "Early Bird",
+      "name": "Early Bird",
       "price": 100,
       "rarity": "Uncommon"
     },
     "studious": {
-      "display": "Studious",
+      "name": "Studious",
       "price": 100,
       "rarity": "Uncommon"
     },
     "smartyPants": {
-      "display": "Smarty Pants",
+      "name": "Smarty Pants",
       "price": 250,
       "rarity": "Uncommon"
     },
     "thoughtful": {
-      "display": "Thoughtful",
+      "name": "Thoughtful",
       "price": 100,
       "rarity": "Uncommon"
     },
     "starStudent": {
-      "display": "Star Student",
+      "name": "Star Student",
       "price": 250,
       "rarity": "Uncommon"
     },
     "creative": {
-      "display": "Creative",
+      "name": "Creative",
       "price": 100,
       "rarity": "Uncommon"
     },
     "pumpkinSpice": {
-      "display": "Pumpkin Spice",
+      "name": "Pumpkin Spice",
       "price": 500,
       "rarity": "Rare"
     }

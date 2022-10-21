@@ -1,6 +1,7 @@
 {
-  "url": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/{fileType}/{type}/{type}{id}.{fileType}",
-  "bannerUrl": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/{fileType}/banners/{id}.{fileType}",
+  "url": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/{type}/{type}{id}.{fileType}",
+  "url2": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/{type}/{name}.{fileType}",
+  "bannerUrl": "https://undercovergoose.github.io/blooket-src/classPass/season{seasonNumber}/banners/{id}.{fileType}",
   "all": {
     "banners": ["starter", "chalkboard", "slime"],
     "base": ["base0", "base1", "base2", "base3", "base4", "base5"],
