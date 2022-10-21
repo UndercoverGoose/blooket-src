@@ -1,4 +1,4 @@
-let x = [
+[
   "https://media.blooket.com/image/upload/v1593095358/Media/defense/phantomSword.svg",
   "https://media.blooket.com/image/upload/v1634087683/BlookParts/base0.svg",
   "https://media.blooket.com/image/upload/v1634087683/BlookParts/base1.svg",
@@ -217,15 +217,12 @@ let x = [
   "https://media.blooket.com/image/upload/v1662148586/Media/br/Energy_Bar_No_Tilt_Empty.svg",
   "https://media.blooket.com/image/upload/v1662752040/Media/br/Resized_Blue_Nameplate_No_Tilt.svg",
   "https://media.blooket.com/image/upload/v1662148586/Media/br/Energy_Bar_No_Tilt_Orange.svg",
-  "https://media.blooket.com/image/upload/v1662148586/Media/br/Energy_Bar_No_Tilt_Empty.svg",
   "https://media.blooket.com/image/upload/v1655936179/Media/br/Energy_Bolt_Orange.svg",
   "https://media.blooket.com/image/upload/v1662752328/Media/br/Countdown_3.png",
   "https://media.blooket.com/image/upload/v1662752328/Media/br/Countdown_2.png",
   "https://media.blooket.com/image/upload/v1662752328/Media/br/Countdown_1.png",
   "https://media.blooket.com/image/upload/v1655936179/Media/br/VS.png",
   "https://media.blooket.com/image/upload/v1662596209/Media/br/Resize_Host_Lobby_Nameplate_Left.svg",
-  "https://media.blooket.com/image/upload/v1655936179/Media/br/Energy_Bolt_Orange.svg",
-  "https://media.blooket.com/image/upload/v1655936179/Media/br/Energy_Bolt_Blue.svg",
   "https://media.blooket.com/image/upload/v1662503029/Media/br/Host_Lobby_VS.png",
   "https://media.blooket.com/image/upload/v1662759696/Media/br/Defeat_BG_Line_Overlay_V2.svg",
   "https://media.blooket.com/image/upload/v1662764457/Media/br/Wavy_BG_Overlay_V2.svg",
@@ -236,11 +233,6 @@ let x = [
   "https://media.blooket.com/image/upload/v1662400412/Media/br/Red_X.svg",
   "https://media.blooket.com/image/upload/v1662148586/Media/br/Orange_Nameplate_No_Tilt.svg",
   "https://media.blooket.com/image/upload/v1662400412/Media/br/Side_Victor_or_Defeat_Title_BG.svg",
-  "https://media.blooket.com/image/upload/v1663059931/Media/br/Victory_Text.png",
-  "https://media.blooket.com/image/upload/v1662400412/Media/br/Defeated_Text.svg",
-  "https://media.blooket.com/image/upload/v1662400414/Media/br/Green_Check.svg",
-  "https://media.blooket.com/image/upload/v1662400412/Media/br/Red_X.svg",
-  "https://media.blooket.com/image/upload/v1655936180/Media/br/Blue_Nameplate.svg",
   "https://media.blooket.com/image/upload/v1663052606/Media/survivor/SMALL_CRACKS_left.svg",
   "https://media.blooket.com/image/upload/v1663052606/Media/survivor/SMALL_CRACKS_right.svg",
   "https://media.blooket.com/image/upload/v1663052606/Media/survivor/LEADERBOARD_CRACKS_left.svg",
@@ -968,4 +960,4 @@ let x = [
   "https://media.blooket.com/image/upload/v1657064190/Media/market/blook_cashier.svg",
   "https://media.blooket.com/image/upload/v1657064190/Media/market/Mini_store.svg",
   "https://dashboard.blooket.com/111cb7e0ee6607ac3d1a13d534c0e0f1.png",
-];
+]
