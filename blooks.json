@@ -282,7 +282,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#939385",
-      "tradeValue": [0, 20000]
+      "tradeValue": [0, 37000]
     },
     "Spooky Ghost": {
       "id": "spookyGhost",
@@ -1843,7 +1843,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#5a81c5",
-      "tradeValue": [45707, 42000]
+      "tradeValue": [45707, 30000]
     },
     "Caramel Apple": {
       "id": "caramelApple",
@@ -1861,7 +1861,7 @@
       "chance": 0.03,
       "sellValue": 300,
       "color": "#f7941d",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 55000]
     },
     "Ghost Cookie": {
       "id": "ghostCookie",
@@ -1870,7 +1870,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#c2def4",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 65000]
     }
   },
   "boxes": {
