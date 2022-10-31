@@ -2542,7 +2542,14 @@
       "Frozen Fossil",
       "Ice Crab",
       "Pumpkin Cookie",
-      "Ghost Cookie"
+      "Ghost Cookie",
+      "Anaconda Wizard",
+      "Pumpkin King",
+      "Vampire Frog",
+      "Owl Sheriff",
+      "Raccoon Bandit",
+      "Chicken Chick",
+      "Chick Chicken"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2682,7 +2689,14 @@
     "Ice Crab",
     "Caramel Apple",
     "Pumpkin Cookie",
-    "Ghost Cookie"
+    "Ghost Cookie",
+    "Anaconda Wizard",
+    "Pumpkin King",
+    "Vampire Frog",
+    "Owl Sheriff",
+    "Raccoon Bandit",
+    "Chicken Chick",
+    "Chick Chicken"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -2821,7 +2835,14 @@
       "Frozen Fossil",
       "Ice Crab",
       "Pumpkin Cookie",
-      "Ghost Cookie"
+      "Ghost Cookie",
+      "Anaconda Wizard",
+      "Pumpkin King",
+      "Vampire Frog",
+      "Owl Sheriff",
+      "Raccoon Bandit",
+      "Chicken Chick",
+      "Chick Chicken"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2842,6 +2863,13 @@
     "Agent Owl",
     "Rainbow Astronaut",
     "Tiger Zebra",
-    "White Peacock"
+    "White Peacock",
+    "Anaconda Wizard",
+    "Pumpkin King",
+    "Vampire Frog",
+    "Owl Sheriff",
+    "Raccoon Bandit",
+    "Chicken Chick",
+    "Chick Chicken"
   ]
 }
