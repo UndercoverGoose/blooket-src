@@ -1871,6 +1871,69 @@
       "sellValue": 300,
       "color": "#c2def4",
       "tradeValue": [0, 65000]
+    },
+    "Anaconda Wizard": {
+      "id": "anacondaWizard",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#252165",
+      "tradeValue": [0, 0]
+    },
+    "Pumpkin King": {
+      "id": "pumpkinKing",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#c1541e",
+      "tradeValue": [0, 0]
+    },
+    "Vampire Frog": {
+      "id": "vampireFrog",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#312222",
+      "tradeValue": [0, 0]
+    },
+    "Owl Sheriff": {
+      "id": "owlSheriff",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#84582b",
+      "tradeValue": [0, 0]
+    },
+    "Raccoon Bandit": {
+      "id": "raccoonBandit",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#bb2222",
+      "tradeValue": [0, 0]
+    },
+    "Chicken Chick": {
+      "id": "chickenChick",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#9dd7f4",
+      "tradeValue": [0, 0]
+    },
+    "Chick Chicken": {
+      "id": "chickChicken",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#eaa622",
+      "tradeValue": [0, 0]
     }
   },
   "boxes": {
@@ -1976,6 +2039,19 @@
       "blooks": [
         "Frost Wreath",
         "Tropical Globe"
+      ]
+    },
+    "bonus/chromas": {
+      "isOpenable": false,
+      "boxName": "Bonus Chroma Blooks",
+      "blooks": [
+        "Anaconda Wizard",
+        "Pumpkin King",
+        "Vampire Frog",
+        "Owl Sheriff",
+        "Raccoon Bandit",
+        "Chicken Chick",
+        "Chick Chicken"
       ]
     },
     "bots": {
