@@ -1938,7 +1938,7 @@
   },
   "boxes": {
     "aquatic": {
-      "image": "Aquatic_Pack",
+      "image": "aquatic",
       "isOpenable": true,
       "tokenPrice": 20,
       "boxName": "Aquatic Pack",
@@ -2055,7 +2055,7 @@
       ]
     },
     "bots": {
-      "image": "Bot_Pack",
+      "image": "bots",
       "isOpenable": true,
       "tokenPrice": 20,
       "boxName": "Bot Pack",
@@ -2071,7 +2071,7 @@
       ]
     },
     "breakfast": {
-      "image": "Breakfast_Pack",
+      "image": "breakfast",
       "isOpenable": true,
       "tokenPrice": 15,
       "boxName": "Breakfast Pack",
@@ -2116,7 +2116,7 @@
       ]
     },
     "dinos": {
-      "image": "Dino_Pack",
+      "image": "dinos",
       "isOpenable": true,
       "tokenPrice": 25,
       "boxName": "Dino Pack",
@@ -2203,7 +2203,7 @@
       ]
     },
     "medieval": {
-      "image": "Medieval_Pack",
+      "image": "medieval",
       "isOpenable": true,
       "tokenPrice": 15,
       "boxName": "Medieval Pack",
@@ -2235,7 +2235,7 @@
       ]
     },
     "safari": {
-      "image": "Safari_Pack",
+      "image": "safari",
       "isOpenable": true,
       "tokenPrice": 20,
       "boxName": "Safari Pack",
@@ -2254,7 +2254,7 @@
       ]
     },
     "space": {
-      "image": "Space_Pack",
+      "image": "space",
       "isOpenable": true,
       "tokenPrice": 20,
       "boxName": "Space Pack",
@@ -2310,7 +2310,7 @@
       ]
     },
     "wonderland": {
-      "image": "Wonderland_Pack",
+      "image": "wonderland",
       "isOpenable": true,
       "tokenPrice": 15,
       "boxName": "Wonderland Pack",
