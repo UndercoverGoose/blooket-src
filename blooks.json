@@ -2329,6 +2329,18 @@
       ]
     }
   },
+  "packs": {
+    "Medieval": "medieval",
+    "Breakfast": "breakfast",
+    "Wonderland": "wonderland",
+    "Spooky": "halloween",
+    "Space": "space",
+    "Bot": "bot",
+    "Aquatic": "aquatic",
+    "Safari": "safari",
+    "Dino": "dino",
+    "Ice Monster": "iceMonsters"
+  },
   "rarity": {
     "Common": [
       "Arctic Fox",
