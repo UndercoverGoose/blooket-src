@@ -97,17 +97,17 @@
       "price": 100,
       "rarity": "Uncommon"
     },
-    "Spiders": {
+    "spiders": {
       "name": "Spiders",
       "price": 500,
       "rarity": "Rare"
     },
-    "Coffin": {
+    "coffin": {
       "name": "Coffin",
       "price": 500,
       "rarity": "Rare"
     },
-    "Pumpkins": {
+    "pumpkins": {
       "name": "Pumpkins",
       "price": 750,
       "rarity": "Epic"
