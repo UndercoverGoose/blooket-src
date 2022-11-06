@@ -39,6 +39,16 @@
       "name": "Pumpkin Spice",
       "price": 500,
       "rarity": "Rare"
+    },
+    "spooky": {
+      "name": "Spooky",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "trickOrTreat": {
+      "name": "Trick or Treat",
+      "price": 500,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -81,6 +91,26 @@
       "name": "Workbench",
       "price": 100,
       "rarity": "Uncommon"
+    },
+    "spooky": {
+      "name": "Spooky",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "Spiders": {
+      "name": "Spiders",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "Coffin": {
+      "name": "Coffin",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "Pumpkins": {
+      "name": "Pumpkins",
+      "price": 750,
+      "rarity": "Epic"
     }
   }
 }

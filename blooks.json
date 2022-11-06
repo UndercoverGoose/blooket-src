@@ -12,7 +12,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#995b3c",
-      "tradeValue": [60, 25]
+      "tradeValue": [52, 25]
     },
     "Jellyfish": {
       "id": "jellyfish",
@@ -21,7 +21,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#c385b9",
-      "tradeValue": [60, 25]
+      "tradeValue": [52, 25]
     },
     "Clownfish": {
       "id": "clownfish",
@@ -30,7 +30,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#f7941d",
-      "tradeValue": [60, 25]
+      "tradeValue": [52, 25]
     },
     "Frog": {
       "id": "frog",
@@ -39,7 +39,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#a7d054",
-      "tradeValue": [60, 25]
+      "tradeValue": [52, 25]
     },
     "Crab": {
       "id": "crab",
@@ -48,7 +48,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#cf1f3d",
-      "tradeValue": [60, 25]
+      "tradeValue": [52, 25]
     },
     "Pufferfish": {
       "id": "pufferFish",
@@ -57,7 +57,7 @@
       "chance": 6.8,
       "sellValue": 20,
       "color": "#ddc4a6",
-      "tradeValue": [99, 65]
+      "tradeValue": [103, 65]
     },
     "Blobfish": {
       "id": "blobfish",
@@ -66,7 +66,7 @@
       "chance": 6.8,
       "sellValue": 20,
       "color": "#f3c1da",
-      "tradeValue": [99, 65]
+      "tradeValue": [103, 65]
     },
     "Octopus": {
       "id": "octopus",
@@ -75,7 +75,7 @@
       "chance": 6.8,
       "sellValue": 20,
       "color": "#a15095",
-      "tradeValue": [99, 65]
+      "tradeValue": [103, 65]
     },
     "Narwhal": {
       "id": "narwhal",
@@ -84,7 +84,7 @@
       "chance": 3.9,
       "sellValue": 75,
       "color": "#dae6f5",
-      "tradeValue": [162, 200]
+      "tradeValue": [205, 200]
     },
     "Baby Shark": {
       "id": "babyShark",
@@ -93,7 +93,7 @@
       "chance": 0.5,
       "sellValue": 200,
       "color": "#5588b7",
-      "tradeValue": [1111, 1500]
+      "tradeValue": [1227, 1500]
     },
     "Megalodon": {
       "id": "megalodon",
@@ -102,7 +102,7 @@
       "chance": 0.2,
       "sellValue": 250,
       "color": "#3d5d80",
-      "tradeValue": [2744, 4000]
+      "tradeValue": [2872, 4000]
     },
     "Arctic Fox": {
       "id": "arcticFox",
@@ -321,7 +321,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#2f2c38",
-      "tradeValue": [29065, 33000]
+      "tradeValue": [29265, 33000]
     },
     "Tiger Zebra": {
       "id": "tigerZebra",
@@ -351,7 +351,7 @@
       "sellValue": 300,
       "awardDay": "Friday",
       "color": "#ee2324",
-      "tradeValue": [10873, 15000]
+      "tradeValue": [11065, 15000]
     },
     "Orange Astronaut": {
       "id": "orangeAstronaut",
@@ -361,7 +361,7 @@
       "sellValue": 300,
       "awardDay": "Thursday",
       "color": "#f79320",
-      "tradeValue": [10873, 15000]
+      "tradeValue": [11065, 15000]
     },
     "Yellow Astronaut": {
       "id": "yellowAstronaut",
@@ -371,7 +371,7 @@
       "sellValue": 300,
       "awardDay": "Tuesday",
       "color": "#edcb1f",
-      "tradeValue": [10873, 15000]
+      "tradeValue": [11065, 15000]
     },
     "Lime Astronaut": {
       "id": "limeAstronaut",
@@ -391,7 +391,7 @@
       "sellValue": 300,
       "awardDay": "Sunday",
       "color": "#197b42",
-      "tradeValue": [10873, 16000]
+      "tradeValue": [11065, 16000]
     },
     "Cyan Astronaut": {
       "id": "cyanAstronaut",
@@ -429,7 +429,7 @@
       "sellValue": 300,
       "awardDay": "Monday",
       "color": "#e573ac",
-      "tradeValue": [10873, 15000]
+      "tradeValue": [11065, 15000]
     },
     "Brown Astronaut": {
       "id": "brownAstronaut",
@@ -439,7 +439,7 @@
       "sellValue": 300,
       "awardDay": "Saturday",
       "color": "#9e5a3a",
-      "tradeValue": [10873, 16000]
+      "tradeValue": [11065, 16000]
     },
     "Black Astronaut": {
       "id": "blackAstronaut",
@@ -449,7 +449,7 @@
       "sellValue": 300,
       "awardDay": "Wednesday",
       "color": "#413f56",
-      "tradeValue": [10873, 15000]
+      "tradeValue": [11065, 15000]
     },
     "Rainbow Astronaut": {
       "id": "rainbowAstronaut",
@@ -510,7 +510,7 @@
       "chance": 0.03,
       "sellValue": 300,
       "color": "#2086df",
-      "tradeValue": [0, 33000]
+      "tradeValue": [25488, 33000]
     },
     "Tropical Globe": {
       "id": "tropicalGlobe",
@@ -519,7 +519,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#fb7c2f",
-      "tradeValue": [0, 45000]
+      "tradeValue": [38115, 45000]
     },
     "Lil Bot": {
       "id": "lilBot",
@@ -528,7 +528,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#3e564a",
-      "tradeValue": [57, 25]
+      "tradeValue": [50, 25]
     },
     "Lovely Bot": {
       "id": "lovelyBot",
@@ -537,7 +537,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f179af",
-      "tradeValue": [57, 25]
+      "tradeValue": [50, 25]
     },
     "Angry Bot": {
       "id": "angryBot",
@@ -546,7 +546,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f1613a",
-      "tradeValue": [57, 25]
+      "tradeValue": [50, 25]
     },
     "Happy Bot": {
       "id": "happyBot",
@@ -555,7 +555,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#51ba6b",
-      "tradeValue": [57, 25]
+      "tradeValue": [50, 25]
     },
     "Watson": {
       "id": "watson",
@@ -564,7 +564,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#d69b5a",
-      "tradeValue": [93, 60]
+      "tradeValue": [100, 60]
     },
     "Buddy Bot": {
       "id": "buddyBot",
@@ -573,7 +573,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#9dc6ea",
-      "tradeValue": [93, 60]
+      "tradeValue": [100, 60]
     },
     "Brainy Bot": {
       "id": "brainyBot",
@@ -582,7 +582,7 @@
       "chance": 3.7,
       "sellValue": 75,
       "color": "#9ecf7a",
-      "tradeValue": [194, 225]
+      "tradeValue": [240, 225]
     },
     "Mega Bot": {
       "id": "megaBot",
@@ -591,7 +591,7 @@
       "chance": 0.3,
       "sellValue": 200,
       "color": "#d71f27",
-      "tradeValue": [2129, 2500]
+      "tradeValue": [2259, 2500]
     },
     "Toast": {
       "id": "toast",
@@ -600,7 +600,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#e9a058",
-      "tradeValue": [30, 20]
+      "tradeValue": [22, 20]
     },
     "Cereal": {
       "id": "cereal",
@@ -609,7 +609,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#2fa04a",
-      "tradeValue": [30, 20]
+      "tradeValue": [22, 20]
     },
     "Yogurt": {
       "id": "yogurt",
@@ -618,7 +618,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#00aeef",
-      "tradeValue": [30, 0]
+      "tradeValue": [22, 20]
     },
     "Breakfast Combo": {
       "id": "breakfastCombo",
@@ -627,7 +627,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#c3d8ea",
-      "tradeValue": [30, 20]
+      "tradeValue": [22, 20]
     },
     "Orange Juice": {
       "id": "orangeJuice",
@@ -636,7 +636,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#f7941d",
-      "tradeValue": [30, 20]
+      "tradeValue": [22, 20]
     },
     "Milk": {
       "id": "milk",
@@ -645,7 +645,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#77c6e2",
-      "tradeValue": [30, 20]
+      "tradeValue": [22, 20]
     },
     "Waffle": {
       "id": "waffle",
@@ -654,7 +654,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#f9a241",
-      "tradeValue": [35, 50]
+      "tradeValue": [40, 50]
     },
     "Pancakes": {
       "id": "pancakes",
@@ -663,7 +663,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#f9a241",
-      "tradeValue": [35, 50]
+      "tradeValue": [40, 50]
     },
     "French Toast": {
       "id": "frenchToast",
@@ -672,7 +672,7 @@
       "chance": 5,
       "sellValue": 75,
       "color": "#f9a241",
-      "tradeValue": [50, 90]
+      "tradeValue": [94, 90]
     },
     "Baby Blue": {
       "id": "babyBlueBlook",
@@ -870,7 +870,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f7913f",
-      "tradeValue": [82, 30]
+      "tradeValue": [75, 30]
     },
     "Brontosaurus": {
       "id": "brontosaurus",
@@ -879,7 +879,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#416eb5",
-      "tradeValue": [138, 80]
+      "tradeValue": [145, 80]
     },
     "Dino Egg": {
       "id": "dinoEgg",
@@ -888,7 +888,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#d69b5a",
-      "tradeValue": [82, 30]
+      "tradeValue": [75, 30]
     },
     "Dino Fossil": {
       "id": "dinoFossil",
@@ -897,7 +897,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#a46735",
-      "tradeValue": [82, 30]
+      "tradeValue": [75, 30]
     },
     "Stegosaurus": {
       "id": "stegosaurus",
@@ -906,7 +906,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#6c9355",
-      "tradeValue": [82, 30]
+      "tradeValue": [75, 30]
     },
     "Triceratops": {
       "id": "triceratops",
@@ -915,7 +915,7 @@
       "chance": 3.7,
       "sellValue": 75,
       "color": "#f1613a",
-      "tradeValue": [294, 300]
+      "tradeValue": [340, 300]
     },
     "Tyrannosaurus Rex": {
       "id": "tyrannosaurusRex",
@@ -924,7 +924,7 @@
       "chance": 0.3,
       "sellValue": 200,
       "color": "#6c9355",
-      "tradeValue": [3289, 4000]
+      "tradeValue": [3419, 4000]
     },
     "Velociraptor": {
       "id": "velociraptor",
@@ -933,7 +933,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#cf1f3d",
-      "tradeValue": [138, 80]
+      "tradeValue": [145, 80]
     },
     "Chick": {
       "id": "chick",
@@ -1015,7 +1015,7 @@
       "chance": 2,
       "sellValue": 75,
       "color": "#fdb913",
-      "tradeValue": [103, 250]
+      "tradeValue": [143, 250]
     },
     "Sandwich": {
       "id": "sandwich",
@@ -1096,7 +1096,7 @@
       "chance": 18.5,
       "sellValue": 5,
       "color": "#56884b",
-      "tradeValue": [0, 60]
+      "tradeValue": [65, 60]
     },
     "Pumpkin": {
       "id": "pumpkin",
@@ -1105,7 +1105,7 @@
       "chance": 18.5,
       "sellValue": 5,
       "color": "#f7941d",
-      "tradeValue": [0, 60]
+      "tradeValue": [65, 60]
     },
     "Swamp Monster": {
       "id": "swampMonster",
@@ -1114,7 +1114,7 @@
       "chance": 18.5,
       "sellValue": 5,
       "color": "#2fa04a",
-      "tradeValue": [0, 60]
+      "tradeValue": [65, 60]
     },
     "Vampire": {
       "id": "vampire",
@@ -1123,34 +1123,34 @@
       "chance": 18.5,
       "sellValue": 5,
       "color": "#a15095",
-      "tradeValue": [0, 60]
+      "tradeValue": [65, 60]
     },
     "Mummy": {
       "id": "mummy",
       "box": "halloween",
       "rarity": "Rare",
-      "chance": 10.15,
+      "chance": 6.7,
       "sellValue": 20,
       "color": "#e8d8c7",
-      "tradeValue": [0, 110]
+      "tradeValue": [149, 110]
     },
     "Zombie": {
       "id": "zombie",
       "box": "halloween",
       "rarity": "Rare",
-      "chance": 10.15,
+      "chance": 6.7,
       "sellValue": 20,
       "color": "#80a55d",
-      "tradeValue": [0, 110]
+      "tradeValue": [149, 110]
     },
     "Werewolf": {
       "id": "werewolf",
       "box": "halloween",
       "rarity": "Epic",
-      "chance": 5,
+      "chance": 5.2,
       "sellValue": 75,
       "color": "#594a42",
-      "tradeValue": [0, 325]
+      "tradeValue": [224, 325]
     },
     "Ghost": {
       "id": "ghost",
@@ -1159,7 +1159,7 @@
       "chance": 0.65,
       "sellValue": 200,
       "color": "#c2def4",
-      "tradeValue": [0, 2500]
+      "tradeValue": [1432, 2500]
     },
     "Elf": {
       "id": "elf",
@@ -1168,7 +1168,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#a7d054",
-      "tradeValue": [18, 20]
+      "tradeValue": [10, 20]
     },
     "Fairy": {
       "id": "fairy",
@@ -1177,7 +1177,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#df6d9c",
-      "tradeValue": [18, 20]
+      "tradeValue": [10, 20]
     },
     "Slime Monster": {
       "id": "slimeMonster",
@@ -1186,7 +1186,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#2fa04a",
-      "tradeValue": [18, 20]
+      "tradeValue": [10, 20]
     },
     "Wizard": {
       "id": "wizard",
@@ -1195,7 +1195,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#5a459c",
-      "tradeValue": [18, 20]
+      "tradeValue": [10, 20]
     },
     "Witch": {
       "id": "witch",
@@ -1204,7 +1204,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#4ab96d",
-      "tradeValue": [18, 20]
+      "tradeValue": [10, 20]
     },
     "Cat": {
       "id": "cat",
@@ -1285,7 +1285,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#2f2c38",
-      "tradeValue": [62, 25]
+      "tradeValue": [56, 25]
     },
     "Sloth": {
       "id": "sloth",
@@ -1294,7 +1294,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#765b46",
-      "tradeValue": [62, 25]
+      "tradeValue": [56, 25]
     },
     "Tenrec": {
       "id": "tenrec",
@@ -1303,7 +1303,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#ffcb29",
-      "tradeValue": [62, 25]
+      "tradeValue": [56, 25]
     },
     "Zebra": {
       "id": "zebra",
@@ -1312,7 +1312,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#2f2c38",
-      "tradeValue": [62, 25]
+      "tradeValue": [56, 25]
     },
     "Elephant": {
       "id": "elephant",
@@ -1321,7 +1321,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#bac4e4",
-      "tradeValue": [104, 65]
+      "tradeValue": [110, 65]
     },
     "Lemur": {
       "id": "lemur",
@@ -1330,7 +1330,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#aeaba7",
-      "tradeValue": [104, 65]
+      "tradeValue": [110, 65]
     },
     "Peacock": {
       "id": "peacock",
@@ -1339,7 +1339,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#2b3990",
-      "tradeValue": [104, 65]
+      "tradeValue": [110, 65]
     },
     "Chameleon": {
       "id": "chameleon",
@@ -1348,7 +1348,7 @@
       "chance": 3.48,
       "sellValue": 75,
       "color": "#8dc63f",
-      "tradeValue": [188, 250]
+      "tradeValue": [233, 250]
     },
     "Lion": {
       "id": "lion",
@@ -1357,7 +1357,7 @@
       "chance": 0.5,
       "sellValue": 200,
       "color": "#f47e20",
-      "tradeValue": [1177, 1500]
+      "tradeValue": [1316, 1500]
     },
     "Anaconda": {
       "id": "anaconda",
@@ -1456,7 +1456,7 @@
       "chance": 17.75,
       "sellValue": 5,
       "color": "#4ab96d",
-      "tradeValue": [0, 60]
+      "tradeValue": [60, 60]
     },
     "Holiday Wreath": {
       "id": "holidayWreath",
@@ -1465,7 +1465,7 @@
       "chance": 17.75,
       "sellValue": 5,
       "color": "#6c9355",
-      "tradeValue": [0, 60]
+      "tradeValue": [60, 60]
     },
     "Hot Chocolate": {
       "id": "hotChocolate",
@@ -1474,7 +1474,7 @@
       "chance": 17.75,
       "sellValue": 5,
       "color": "#663723",
-      "tradeValue": [0, 60]
+      "tradeValue": [60, 60]
     },
     "Snow Globe": {
       "id": "snowGlobe",
@@ -1483,7 +1483,7 @@
       "chance": 17.75,
       "sellValue": 5,
       "color": "#10afd1",
-      "tradeValue": [0, 60]
+      "tradeValue": [60, 60]
     },
     "Gingerbread House": {
       "id": "gingerbreadHouse",
@@ -1492,7 +1492,7 @@
       "chance": 11.45,
       "sellValue": 20,
       "color": "#995b3c",
-      "tradeValue": [0, 110]
+      "tradeValue": [95, 110]
     },
     "Gingerbread Man": {
       "id": "gingerbreadMan",
@@ -1501,7 +1501,7 @@
       "chance": 11.45,
       "sellValue": 20,
       "color": "#995b3c",
-      "tradeValue": [0, 110]
+      "tradeValue": [95, 110]
     },
     "Snowman": {
       "id": "snowman",
@@ -1510,7 +1510,7 @@
       "chance": 5.05,
       "sellValue": 75,
       "color": "#7ca1d5",
-      "tradeValue": [0, 325]
+      "tradeValue": [223, 325]
     },
     "Santa Claus": {
       "id": "santaClaus",
@@ -1519,7 +1519,7 @@
       "chance": 1,
       "sellValue": 200,
       "color": "#d62027",
-      "tradeValue": [0, 1350]
+      "tradeValue": [908, 1350]
     },
     "Goldfish": {
       "id": "goldfish",
@@ -1537,7 +1537,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#be1e2d",
-      "tradeValue": [19, 50]
+      "tradeValue": [23, 50]
     },
     "Dragon": {
       "id": "dragon",
@@ -1546,7 +1546,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#2fa04a",
-      "tradeValue": [19, 50]
+      "tradeValue": [23, 50]
     },
     "Unicorn": {
       "id": "unicorn",
@@ -1555,7 +1555,7 @@
       "chance": 5,
       "sellValue": 75,
       "color": "#f6afce",
-      "tradeValue": [22, 100]
+      "tradeValue": [66, 100]
     },
     "Queen": {
       "id": "queen",
@@ -1564,7 +1564,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#9e1f63",
-      "tradeValue": [19, 50]
+      "tradeValue": [23, 50]
     },
     "King": {
       "id": "king",
@@ -1573,7 +1573,7 @@
       "chance": 1,
       "sellValue": 200,
       "color": "#ee2640",
-      "tradeValue": [50, 800]
+      "tradeValue": [178, 800]
     },
     "Two of Spades": {
       "id": "twoOfSpades",
@@ -1582,7 +1582,7 @@
       "chance": 15.2,
       "sellValue": 5,
       "color": "#414042",
-      "tradeValue": [30, 20]
+      "tradeValue": [23, 20]
     },
     "Eat Me": {
       "id": "eat",
@@ -1591,7 +1591,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#d58c55",
-      "tradeValue": [30, 20]
+      "tradeValue": [23, 20]
     },
     "Drink Me": {
       "id": "drink",
@@ -1600,7 +1600,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#dd7399",
-      "tradeValue": [30, 20]
+      "tradeValue": [23, 20]
     },
     "Alice": {
       "id": "alice",
@@ -1609,7 +1609,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#4cc9f5",
-      "tradeValue": [30, 20]
+      "tradeValue": [23, 20]
     },
     "Queen of Hearts": {
       "id": "queenOfHearts",
@@ -1618,7 +1618,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#d62027",
-      "tradeValue": [30, 20]
+      "tradeValue": [23, 20]
     },
     "Dormouse": {
       "id": "dormouse",
@@ -1627,7 +1627,7 @@
       "chance": 6.5,
       "sellValue": 20,
       "color": "#89d6f8",
-      "tradeValue": [48, 55]
+      "tradeValue": [54, 55]
     },
     "White Rabbit": {
       "id": "whiteRabbit",
@@ -1636,7 +1636,7 @@
       "chance": 6.5,
       "sellValue": 20,
       "color": "#ffcd05",
-      "tradeValue": [48, 55]
+      "tradeValue": [54, 55]
     },
     "Cheshire Cat": {
       "id": "cheshireCat",
@@ -1645,7 +1645,7 @@
       "chance": 6.5,
       "sellValue": 20,
       "color": "#dd7399",
-      "tradeValue": [48, 55]
+      "tradeValue": [54, 55]
     },
     "Mad Hatter": {
       "id": "madHatter",
@@ -1654,7 +1654,7 @@
       "chance": 2.5,
       "sellValue": 75,
       "color": "#914f93",
-      "tradeValue": [99, 200]
+      "tradeValue": [143, 200]
     },
     "King of Hearts": {
       "id": "kingOfHearts",
@@ -1663,7 +1663,7 @@
       "chance": 0.3,
       "sellValue": 200,
       "color": "#c62127",
-      "tradeValue": [708, 2000]
+      "tradeValue": [836, 2000]
     },
     "Caterpillar": {
       "id": "caterpillar",
@@ -1672,7 +1672,7 @@
       "chance": 2.5,
       "sellValue": 75,
       "color": "#00c0f3",
-      "tradeValue": [99, 200]
+      "tradeValue": [143, 200]
     },
     "Earth": {
       "id": "earth",
@@ -1681,7 +1681,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#416eb5",
-      "tradeValue": [52, 25]
+      "tradeValue": [44, 25]
     },
     "Meteor": {
       "id": "meteor",
@@ -1690,7 +1690,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#c68c3c",
-      "tradeValue": [52, 25]
+      "tradeValue": [44, 25]
     },
     "Stars": {
       "id": "stars",
@@ -1699,7 +1699,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#19184d",
-      "tradeValue": [52, 25]
+      "tradeValue": [44, 25]
     },
     "Alien": {
       "id": "alien",
@@ -1708,7 +1708,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#8dc63f",
-      "tradeValue": [52, 25]
+      "tradeValue": [44, 25]
     },
     "Planet": {
       "id": "planet",
@@ -1717,7 +1717,7 @@
       "chance": 10,
       "sellValue": 20,
       "color": "#9dc6ea",
-      "tradeValue": [75, 60]
+      "tradeValue": [80, 60]
     },
     "UFO": {
       "id": "UFO",
@@ -1726,7 +1726,7 @@
       "chance": 10,
       "sellValue": 20,
       "color": "#a15095",
-      "tradeValue": [75, 60]
+      "tradeValue": [80, 60]
     },
     "Spaceship": {
       "id": "spaceship",
@@ -1735,7 +1735,7 @@
       "chance": 4.5,
       "sellValue": 75,
       "color": "#ffcb29",
-      "tradeValue": [146, 180]
+      "tradeValue": [192, 180]
     },
     "Astronaut": {
       "id": "astronaut",
@@ -1744,16 +1744,16 @@
       "chance": 0.45,
       "sellValue": 200,
       "color": "#9bd4ee",
-      "tradeValue": [1226, 1750]
+      "tradeValue": [1355, 1750]
     },
-    "Ice Bat":  {
+    "Ice Bat": {
       "id": "iceBat",
       "box": "iceMonsters",
       "rarity": "Uncommon",
       "chance": 19.5,
       "sellValue": 5,
       "color": "#295eb6",
-      "tradeValue": [78, 30]
+      "tradeValue": [71, 30]
     },
     "Ice Bug": {
       "id": "iceBug",
@@ -1762,7 +1762,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#337ae2",
-      "tradeValue": [78, 30]
+      "tradeValue": [71, 30]
     },
     "Ice Elemental": {
       "id": "iceElemental",
@@ -1771,7 +1771,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#58c7f0",
-      "tradeValue": [78, 30]
+      "tradeValue": [71, 30]
     },
     "Rock Monster": {
       "id": "iceElemental",
@@ -1780,7 +1780,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#5a617f",
-      "tradeValue": [78, 30]
+      "tradeValue": [71, 30]
     },
     "Dink": {
       "id": "dink",
@@ -1789,7 +1789,7 @@
       "chance": 8.5,
       "sellValue": 20,
       "color": "#8f78a5",
-      "tradeValue": [131, 80]
+      "tradeValue": [136, 80]
     },
     "Donk": {
       "id": "donk",
@@ -1798,7 +1798,7 @@
       "chance": 8.5,
       "sellValue": 20,
       "color": "#677c9e",
-      "tradeValue": [131, 80]
+      "tradeValue": [136, 80]
     },
     "Bush Monster": {
       "id": "bushMonster",
@@ -1807,7 +1807,7 @@
       "chance": 4.5,
       "sellValue": 75,
       "color": "#44c649",
-      "tradeValue": [236, 250]
+      "tradeValue": [283, 250]
     },
     "Yeti": {
       "id": "yeti",
@@ -1816,7 +1816,7 @@
       "chance": 0.35,
       "sellValue": 200,
       "color": "#5a81c5",
-      "tradeValue": [2635, 3750]
+      "tradeValue": [2764, 3750]
     },
     "Ice Slime": {
       "id": "iceSlime",
@@ -1825,7 +1825,7 @@
       "chance": 0.08,
       "sellValue": 300,
       "color": "#42b7ea",
-      "tradeValue": [11452, 11000]
+      "tradeValue": [11647, 11000]
     },
     "Frozen Fossil": {
       "id": "frozenFossil",
@@ -1834,7 +1834,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#3ea8cf",
-      "tradeValue": [18293, 20000]
+      "tradeValue": [18485, 20000]
     },
     "Ice Crab": {
       "id": "iceCrab",
@@ -1843,7 +1843,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#5a81c5",
-      "tradeValue": [45707, 30000]
+      "tradeValue": [45889, 30000]
     },
     "Caramel Apple": {
       "id": "caramelApple",
@@ -1852,7 +1852,7 @@
       "chance": 6.7,
       "sellValue": 20,
       "color": "#8d432a",
-      "tradeValue": [0, 0]
+      "tradeValue": [149, 0]
     },
     "Pumpkin Cookie": {
       "id": "pumpkinCookie",
@@ -1861,7 +1861,7 @@
       "chance": 0.03,
       "sellValue": 300,
       "color": "#f7941d",
-      "tradeValue": [0, 55000]
+      "tradeValue": [27794, 55000]
     },
     "Ghost Cookie": {
       "id": "ghostCookie",
@@ -1870,7 +1870,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#c2def4",
-      "tradeValue": [0, 65000]
+      "tradeValue": [41573, 65000]
     },
     "Anaconda Wizard": {
       "id": "anacondaWizard",
