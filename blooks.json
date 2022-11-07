@@ -194,7 +194,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#dae6f5",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Crimson Octopus": {
       "id": "crimsonOctopus",
@@ -203,7 +204,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#b3303b",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Donut Blobfish": {
       "id": "donutBlobfish",
@@ -212,7 +214,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#f3c1da",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Lemon Crab": {
       "id": "lemonCrab",
@@ -221,7 +224,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#f7d959",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Lovely Frog": {
       "id": "lovelyFrog",
@@ -250,7 +254,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#8b5aa5",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Poison Dart Frog": {
       "id": "poisonDartFrog",
@@ -259,7 +264,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#ffcb29",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Rainbow Jellyfish": {
       "id": "rainbowJellyfish",
@@ -268,7 +274,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#c9d6ed",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Rainbow Narwhal": {
       "id": "rainbowNarwhal",
@@ -277,7 +284,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#cfe8e9",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Spring Frog": {
       "id": "springFrog",
@@ -429,7 +437,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#2867b1",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Purple Astronaut": {
       "id": "purpleAstronaut",
@@ -438,7 +447,8 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#9068ad",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Pink Astronaut": {
       "id": "pinkAstronaut",
@@ -1074,7 +1084,8 @@
       "chance": -1,
       "sellValue": 75,
       "color": "#8cbd40",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "count": 0
     },
     "Bear": {
       "id": "bear",
