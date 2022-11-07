@@ -111,6 +111,16 @@
       "name": "Pumpkins",
       "price": 750,
       "rarity": "Epic"
+    },
+    "fallingBlocks": {
+      "name": "Falling Blocks",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "racetrack": {
+      "name": "Racetrack",
+      "price": 350,
+      "rarity": "Rare"
     }
   }
 }
