@@ -1064,7 +1064,8 @@
       "chance": 2,
       "sellValue": 75,
       "color": "#fdb913",
-      "tradeValue": [143, 250]
+      "tradeValue": [143, 250],
+      "released": "Sep 15 2020 10:20 AM"
     },
     "Sandwich": {
       "id": "sandwich",
