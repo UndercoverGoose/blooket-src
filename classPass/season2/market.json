@@ -122,8 +122,8 @@
       "price": 100,
       "rarity": "Uncommon"
     },
-    "raceway": {
-      "name": "Raceway",
+    "racetrack": {
+      "name": "Racetrack",
       "price": 350,
       "rarity": "Rare"
     }
