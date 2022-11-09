@@ -371,6 +371,7 @@
     "Red Astronaut": {
       "id": "redAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -381,6 +382,7 @@
     "Orange Astronaut": {
       "id": "orangeAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -391,6 +393,7 @@
     "Yellow Astronaut": {
       "id": "yellowAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -412,6 +415,7 @@
     "Green Astronaut": {
       "id": "greenAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -453,6 +457,7 @@
     "Pink Astronaut": {
       "id": "pinkAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -463,6 +468,7 @@
     "Brown Astronaut": {
       "id": "brownAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
@@ -473,6 +479,7 @@
     "Black Astronaut": {
       "id": "blackAstronaut",
       "box": "bonus/space",
+      "obtainedBox": "space",
       "rarity": "Chroma",
       "chance": 0.05,
       "sellValue": 300,
