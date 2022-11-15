@@ -569,7 +569,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#3e564a",
-      "tradeValue": [50, 25],
+      "tradeValue": [50, 50],
       "released": "May 18 2021 10:00 AM"
     },
     "Lovely Bot": {
@@ -579,7 +579,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f179af",
-      "tradeValue": [50, 25],
+      "tradeValue": [50, 50],
       "released": "May 18 2021 10:00 AM"
     },
     "Angry Bot": {
@@ -589,7 +589,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f1613a",
-      "tradeValue": [50, 25],
+      "tradeValue": [50, 50],
       "released": "May 18 2021 10:00 AM"
     },
     "Happy Bot": {
@@ -599,7 +599,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#51ba6b",
-      "tradeValue": [50, 25],
+      "tradeValue": [50, 50],
       "released": "May 18 2021 10:00 AM"
     },
     "Watson": {
@@ -649,7 +649,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#e9a058",
-      "tradeValue": [22, 20],
+      "tradeValue": [22, 30],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Cereal": {
@@ -659,7 +659,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#2fa04a",
-      "tradeValue": [22, 20],
+      "tradeValue": [22, 30],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Yogurt": {
@@ -669,7 +669,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#00aeef",
-      "tradeValue": [22, 20],
+      "tradeValue": [22, 30],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Breakfast Combo": {
@@ -679,7 +679,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#c3d8ea",
-      "tradeValue": [22, 20],
+      "tradeValue": [22, 30],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Orange Juice": {
@@ -689,7 +689,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#f7941d",
-      "tradeValue": [22, 20],
+      "tradeValue": [22, 30],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Milk": {
@@ -699,7 +699,7 @@
       "chance": 12.5,
       "sellValue": 5,
       "color": "#77c6e2",
-      "tradeValue": [22, 20],
+      "tradeValue": [22, 30],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Waffle": {
@@ -1244,7 +1244,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#a7d054",
-      "tradeValue": [10, 20]
+      "tradeValue": [10, 10]
     },
     "Fairy": {
       "id": "fairy",
@@ -1253,7 +1253,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#df6d9c",
-      "tradeValue": [10, 20]
+      "tradeValue": [10, 10]
     },
     "Slime Monster": {
       "id": "slimeMonster",
@@ -1262,7 +1262,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#2fa04a",
-      "tradeValue": [10, 20]
+      "tradeValue": [10, 10]
     },
     "Wizard": {
       "id": "wizard",
@@ -1271,7 +1271,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#5a459c",
-      "tradeValue": [10, 20]
+      "tradeValue": [10, 10]
     },
     "Witch": {
       "id": "witch",
@@ -1280,7 +1280,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#4ab96d",
-      "tradeValue": [10, 20]
+      "tradeValue": [10, 10]
     },
     "Cat": {
       "id": "cat",
@@ -1676,7 +1676,7 @@
       "chance": 15.2,
       "sellValue": 5,
       "color": "#414042",
-      "tradeValue": [23, 20],
+      "tradeValue": [23, 30],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Eat Me": {
@@ -1686,7 +1686,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#d58c55",
-      "tradeValue": [23, 20],
+      "tradeValue": [23, 30],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Drink Me": {
@@ -1696,7 +1696,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#dd7399",
-      "tradeValue": [23, 20],
+      "tradeValue": [23, 30],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Alice": {
@@ -1706,7 +1706,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#4cc9f5",
-      "tradeValue": [23, 20],
+      "tradeValue": [23, 30],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Queen of Hearts": {
@@ -1716,7 +1716,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#d62027",
-      "tradeValue": [23, 20],
+      "tradeValue": [23, 30],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Dormouse": {
@@ -1786,7 +1786,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#416eb5",
-      "tradeValue": [44, 25],
+      "tradeValue": [44, 44],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Meteor": {
@@ -1796,7 +1796,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#c68c3c",
-      "tradeValue": [44, 25],
+      "tradeValue": [44, 44],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Stars": {
@@ -1806,7 +1806,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#19184d",
-      "tradeValue": [44, 25],
+      "tradeValue": [44, 44],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Alien": {
@@ -1816,7 +1816,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#8dc63f",
-      "tradeValue": [44, 25],
+      "tradeValue": [44, 44],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Planet": {

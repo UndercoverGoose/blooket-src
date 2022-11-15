@@ -1,0 +1,3623 @@
+{
+  "totalBlooks": {
+    "all": 212,
+    "obtainable": 139,
+    "event": 19
+  },
+  "blooks": {
+    "Old Boot": {
+      "id": "oldBoot",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/oldBoot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/oldBoot.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Jellyfish": {
+      "id": "jellyfish",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#c385b9",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/jellyfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/jellyfish.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Clownfish": {
+      "id": "clownfish",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f7941d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/clownfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/clownfish.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Frog": {
+      "id": "frog",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#a7d054",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/frog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/frog.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Crab": {
+      "id": "crab",
+      "box": "aquatic",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#cf1f3d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/crab.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/crab.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Pufferfish": {
+      "id": "pufferFish",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#ddc4a6",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/pufferFish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/pufferFish.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Blobfish": {
+      "id": "blobfish",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#f3c1da",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/blobfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/blobfish.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Octopus": {
+      "id": "octopus",
+      "box": "aquatic",
+      "rarity": "Rare",
+      "chance": 6.8,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#a15095",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/octopus.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/octopus.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Narwhal": {
+      "id": "narwhal",
+      "box": "aquatic",
+      "rarity": "Epic",
+      "chance": 3.9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#dae6f5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/narwhal.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/narwhal.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Baby Shark": {
+      "id": "babyShark",
+      "box": "aquatic",
+      "rarity": "Legendary",
+      "chance": 0.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#5588b7",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/babyShark.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/babyShark.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Megalodon": {
+      "id": "megalodon",
+      "box": "aquatic",
+      "rarity": "Legendary",
+      "chance": 0.2,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 250,
+      "color": "#3d5d80",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/aquatic/megalodon.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/aquatic/megalodon.png"
+      },
+      "released": "Sep 22 2021 9:00 AM"
+    },
+    "Arctic Fox": {
+      "id": "arcticFox",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#7ca1d5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/arcticFox.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/arcticFox.png"
+      },
+      "released": null
+    },
+    "Arctic Hare": {
+      "id": "arcticHare",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#7ca1d5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/arcticHare.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/arcticHare.png"
+      },
+      "released": null
+    },
+    "Baby Penguin": {
+      "id": "babyPenguin",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#414042",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/babyPenguin.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/babyPenguin.png"
+      },
+      "released": null
+    },
+    "Penguin": {
+      "id": "penguin",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#fb8640",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/penguin.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/penguin.png"
+      },
+      "released": null
+    },
+    "Polar Bear": {
+      "id": "polarBear",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#7ca1d5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/polarBear.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/polarBear.png"
+      },
+      "released": null
+    },
+    "Seal": {
+      "id": "seal",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#7ca1d5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/seal.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/seal.png"
+      },
+      "released": null
+    },
+    "Snowy Owl": {
+      "id": "snowyOwl",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#feda3f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/snowyOwl.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/snowyOwl.png"
+      },
+      "released": null
+    },
+    "Walrus": {
+      "id": "walrus",
+      "box": "arcticAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#7d4f33",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/arcticAnimals/walrus.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/arcticAnimals/walrus.png"
+      },
+      "released": null
+    },
+    "Blizzard Clownfish": {
+      "id": "blizzardClownfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#dae6f5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/blizzardClownfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/blizzardClownfish.png"
+      },
+      "released": null
+    },
+    "Crimson Octopus": {
+      "id": "crimsonOctopus",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#b3303b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/crimsonOctopus.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/crimsonOctopus.png"
+      },
+      "released": null
+    },
+    "Donut Blobfish": {
+      "id": "donutBlobfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#f3c1da",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/donutBlobfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/donutBlobfish.png"
+      },
+      "released": null
+    },
+    "Lemon Crab": {
+      "id": "lemonCrab",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#f7d959",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/lemonCrab.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/lemonCrab.png"
+      },
+      "released": null
+    },
+    "Lovely Frog": {
+      "id": "lovelyFrog",
+      "box": "specialFrogs",
+      "rarity": "Chroma",
+      "chance": 100,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#f38db6",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/lovelyFrog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/lovelyFrog.png"
+      },
+      "released": "Feb 14 2022 11:00 AM"
+    },
+    "Lucky Frog": {
+      "id": "luckyFrog",
+      "box": "specialFrogs",
+      "rarity": "Chroma",
+      "chance": 100,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#4eb151",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/luckyFrog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/luckyFrog.png"
+      },
+      "released": "Mar 17 2022 11:10 AM"
+    },
+    "Pirate Pufferfish": {
+      "id": "piratePufferfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#8b5aa5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/piratePufferfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/piratePufferfish.png"
+      },
+      "released": null
+    },
+    "Poison Dart Frog": {
+      "id": "poisonDartFrog",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#ffcb29",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/poisonDartFrog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/poisonDartFrog.png"
+      },
+      "released": null
+    },
+    "Rainbow Jellyfish": {
+      "id": "rainbowJellyfish",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#c9d6ed",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/rainbowJellyfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/rainbowJellyfish.png"
+      },
+      "released": null
+    },
+    "Rainbow Narwhal": {
+      "id": "rainbowNarwhal",
+      "box": "bonus/aquatic",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#cfe8e9",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/rainbowNarwhal.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/rainbowNarwhal.png"
+      },
+      "released": null
+    },
+    "Spring Frog": {
+      "id": "springFrog",
+      "box": "specialFrogs",
+      "rarity": "Chroma",
+      "chance": 100,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#f2bd8c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/aquatic/springFrog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/aquatic/springFrog.png"
+      },
+      "released": null
+    },
+    "Haunted Pumpkin": {
+      "id": "hauntedPumpkin",
+      "box": "halloween",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#939385",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/halloween/hauntedPumpkin.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/halloween/hauntedPumpkin.png"
+      },
+      "released": "Oct 13 2021 11:30 AM"
+    },
+    "Spooky Ghost": {
+      "id": "spookyGhost",
+      "box": "eventBlooks",
+      "rarity": "Mystical",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 1000,
+      "color": "#66f59b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/halloween/spookyGhost.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/halloween/spookyGhost.png"
+      },
+      "released": null
+    },
+    "Spooky Mummy": {
+      "id": "spookyMummy",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 350,
+      "color": "#66f59b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/halloween/spookyMummy.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/halloween/spookyMummy.png"
+      },
+      "released": null
+    },
+    "Spooky Pumpkin": {
+      "id": "spookyPumpkin",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#66f59b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/halloween/spookyPumpkin.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/halloween/spookyPumpkin.png"
+      },
+      "released": null
+    },
+    "Rainbow Panda": {
+      "id": "rainbowPanda",
+      "box": "safari",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#2f2c38",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/rainbowPanda.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/rainbowPanda.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Tiger Zebra": {
+      "id": "tigerZebra",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#f18221",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/safari/tigerZebra.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/safari/tigerZebra.png"
+      },
+      "released": "March 6 2022 1:00 AM"
+    },
+    "White Peacock": {
+      "id": "whitePeacock",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#69c1d3",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/safari/whitePeacock.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/safari/whitePeacock.png"
+      },
+      "released": "March 6 2022 1:00 AM"
+    },
+    "Red Astronaut": {
+      "id": "redAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#ee2324",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/redAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/redAstronaut.png"
+      },
+      "released": null
+    },
+    "Orange Astronaut": {
+      "id": "orangeAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#f79320",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/orangeAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/orangeAstronaut.png"
+      },
+      "released": null
+    },
+    "Yellow Astronaut": {
+      "id": "yellowAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#edcb1f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/yellowAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/yellowAstronaut.png"
+      },
+      "released": null
+    },
+    "Lime Astronaut": {
+      "id": "limeAstronaut",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#61b446",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/limeAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/limeAstronaut.png"
+      },
+      "released": "August 7 2021 11:30 AM"
+    },
+    "Green Astronaut": {
+      "id": "greenAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#197b42",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/greenAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/greenAstronaut.png"
+      },
+      "released": null
+    },
+    "Cyan Astronaut": {
+      "id": "cyanAstronaut",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#74cbcb",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/cyanAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/cyanAstronaut.png"
+      },
+      "released": "August 7 2021 11:30 AM"
+    },
+    "Blue Astronaut": {
+      "id": "blueAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#2867b1",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/blueAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/blueAstronaut.png"
+      },
+      "released": null
+    },
+    "Purple Astronaut": {
+      "id": "purpleAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#9068ad",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/purpleAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/purpleAstronaut.png"
+      },
+      "released": null
+    },
+    "Pink Astronaut": {
+      "id": "pinkAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#e573ac",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/pinkAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/pinkAstronaut.png"
+      },
+      "released": null
+    },
+    "Brown Astronaut": {
+      "id": "brownAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#9e5a3a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/brownAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/brownAstronaut.png"
+      },
+      "released": null
+    },
+    "Black Astronaut": {
+      "id": "blackAstronaut",
+      "box": "space",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#413f56",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/blackAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/blackAstronaut.png"
+      },
+      "released": null
+    },
+    "Rainbow Astronaut": {
+      "id": "rainbowAstronaut",
+      "box": "eventBlooks",
+      "rarity": "Mystical",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 1000,
+      "color": "#9068ad",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/rainbowAstronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/rainbowAstronaut.png"
+      },
+      "released": "March 6 2022 1:00 AM"
+    },
+    "Tim the Alien": {
+      "id": "timTheAlien",
+      "box": "eventBlooks",
+      "rarity": "Mystical",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 1000,
+      "color": "#8dc63f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/space/timTheAlien.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/space/timTheAlien.png"
+      },
+      "released": "August 7 2021 11:30 AM"
+    },
+    "Agent Owl": {
+      "id": "agentOwl",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#32da4e",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/td/agentOwl.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/td/agentOwl.png"
+      },
+      "released": "December 12 2021 10:00 PM"
+    },
+    "Master Elf": {
+      "id": "masterElf",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 350,
+      "color": "#3a3a3a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/td/masterElf.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/td/masterElf.png"
+      },
+      "released": "December 12 2021 10:00 PM"
+    },
+    "Phantom King": {
+      "id": "phantomKing",
+      "box": "eventBlooks",
+      "rarity": "Mystical",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 1000,
+      "color": "#2cf4e1",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/td/phantomKing.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/td/phantomKing.png"
+      },
+      "released": "December 12 2021 10:00 PM"
+    },
+    "Frost Wreath": {
+      "id": "frostWreath",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.03,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#2086df",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/winterHoliday/frostWreath.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/winterHoliday/frostWreath.png"
+      },
+      "released": null
+    },
+    "Tropical Globe": {
+      "id": "tropicalGlobe",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#fb7c2f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/winterHoliday/tropicalGlobe.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/winterHoliday/tropicalGlobe.png"
+      },
+      "released": null
+    },
+    "Lil Bot": {
+      "id": "lilBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#3e564a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/lilBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/lilBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Lovely Bot": {
+      "id": "lovelyBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f179af",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/lovelyBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/lovelyBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Angry Bot": {
+      "id": "angryBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f1613a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/angryBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/angryBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Happy Bot": {
+      "id": "happyBot",
+      "box": "bots",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#51ba6b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/happyBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/happyBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Watson": {
+      "id": "watson",
+      "box": "bots",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#d69b5a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/watson.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/watson.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Buddy Bot": {
+      "id": "buddyBot",
+      "box": "bots",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#9dc6ea",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/buddyBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/buddyBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Brainy Bot": {
+      "id": "brainyBot",
+      "box": "bots",
+      "rarity": "Epic",
+      "chance": 3.7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#9ecf7a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/brainyBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/brainyBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Mega Bot": {
+      "id": "megaBot",
+      "box": "bots",
+      "rarity": "Legendary",
+      "chance": 0.3,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#d71f27",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bots/megaBot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bots/megaBot.png"
+      },
+      "released": "May 18 2021 10:00 AM"
+    },
+    "Toast": {
+      "id": "toast",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#e9a058",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/toast.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/toast.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Cereal": {
+      "id": "cereal",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#2fa04a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/cereal.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/cereal.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Yogurt": {
+      "id": "yogurt",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#00aeef",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/yogurt.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/yogurt.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Breakfast Combo": {
+      "id": "breakfastCombo",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#c3d8ea",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/breakfastCombo.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/breakfastCombo.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Orange Juice": {
+      "id": "orangeJuice",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f7941d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/orangeJuice.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/orangeJuice.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Milk": {
+      "id": "milk",
+      "box": "breakfast",
+      "rarity": "Uncommon",
+      "chance": 12.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#77c6e2",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/milk.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/milk.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Waffle": {
+      "id": "waffle",
+      "box": "breakfast",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#f9a241",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/waffle.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/waffle.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Pancakes": {
+      "id": "pancakes",
+      "box": "breakfast",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#f9a241",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/pancakes.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/pancakes.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "French Toast": {
+      "id": "frenchToast",
+      "box": "breakfast",
+      "rarity": "Epic",
+      "chance": 5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#f9a241",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/breakfast/frenchToast.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/breakfast/frenchToast.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Baby Blue": {
+      "id": "babyBlueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#99ccff",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/babyBlueBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/babyBlueBlook.png"
+      },
+      "released": null
+    },
+    "Black": {
+      "id": "blackBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#3a3a3a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/blackBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/blackBlook.png"
+      },
+      "released": null
+    },
+    "Blue": {
+      "id": "blueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#005ce6",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/blueBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/blueBlook.png"
+      },
+      "released": null
+    },
+    "Brown": {
+      "id": "brownBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#86592d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/brownBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/brownBlook.png"
+      },
+      "released": null
+    },
+    "Burgandy": {
+      "id": "burgandyBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#99254d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/burgandyBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/burgandyBlook.png"
+      },
+      "released": null
+    },
+    "Dull Blue": {
+      "id": "dullBlueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#666699",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/dullBlueBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/dullBlueBlook.png"
+      },
+      "released": null
+    },
+    "Dust": {
+      "id": "dustBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#999966",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/dustBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/dustBlook.png"
+      },
+      "released": null
+    },
+    "Gray": {
+      "id": "grayBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#999999",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/grayBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/grayBlook.png"
+      },
+      "released": null
+    },
+    "Green": {
+      "id": "greenBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#2ca02c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/greenBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/greenBlook.png"
+      },
+      "released": null
+    },
+    "Light Blue": {
+      "id": "lightBlueBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#0bc2cf",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/lightBlueBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/lightBlueBlook.png"
+      },
+      "released": null
+    },
+    "Lime": {
+      "id": "limeBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#b3dc23",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/limeBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/limeBlook.png"
+      },
+      "released": null
+    },
+    "Maroon": {
+      "id": "maroonBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#800000",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/maroonBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/maroonBlook.png"
+      },
+      "released": null
+    },
+    "Mint": {
+      "id": "mintBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#aaf0d1",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/mintBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/mintBlook.png"
+      },
+      "released": null
+    },
+    "Orange": {
+      "id": "orangeBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ff7f0f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/orangeBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/orangeBlook.png"
+      },
+      "released": null
+    },
+    "Pink": {
+      "id": "pinkBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#e377c2",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/pinkBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/pinkBlook.png"
+      },
+      "released": null
+    },
+    "Purple": {
+      "id": "purpleBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#9a49aa",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/purpleBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/purpleBlook.png"
+      },
+      "released": null
+    },
+    "Red": {
+      "id": "redBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#d62728",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/redBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/redBlook.png"
+      },
+      "released": null
+    },
+    "Salmon": {
+      "id": "salmonColorBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#fa8072",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/salmonColorBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/salmonColorBlook.png"
+      },
+      "released": null
+    },
+    "Tan": {
+      "id": "tanBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#d2b48c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/tanBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/tanBlook.png"
+      },
+      "released": null
+    },
+    "Teal": {
+      "id": "tealBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#007788",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/tealBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/tealBlook.png"
+      },
+      "released": null
+    },
+    "Yellow": {
+      "id": "yellowBlook",
+      "box": "colors",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ffff4d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/colors/yellowBlook.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/colors/yellowBlook.png"
+      },
+      "released": null
+    },
+    "Amber": {
+      "id": "amber",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f7913f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/amber.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/amber.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Brontosaurus": {
+      "id": "brontosaurus",
+      "box": "dinos",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#416eb5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/brontosaurus.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/brontosaurus.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Dino Egg": {
+      "id": "dinoEgg",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#d69b5a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/dinoEgg.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/dinoEgg.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Dino Fossil": {
+      "id": "dinoFossil",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#a46735",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/dinoFossil.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/dinoFossil.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Stegosaurus": {
+      "id": "stegosaurus",
+      "box": "dinos",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#6c9355",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/stegosaurus.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/stegosaurus.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Triceratops": {
+      "id": "triceratops",
+      "box": "dinos",
+      "rarity": "Epic",
+      "chance": 3.7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#f1613a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/triceratops.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/triceratops.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Tyrannosaurus Rex": {
+      "id": "tyrannosaurusRex",
+      "box": "dinos",
+      "rarity": "Legendary",
+      "chance": 0.3,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#6c9355",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/tyrannosaurusRex.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/tyrannosaurusRex.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Velociraptor": {
+      "id": "velociraptor",
+      "box": "dinos",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#cf1f3d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/dinos/velociraptor.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/dinos/velociraptor.png"
+      },
+      "released": "May 9 2022 10:50 AM"
+    },
+    "Chick": {
+      "id": "chick",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ffcd05",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/chick.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/chick.png"
+      },
+      "released": null
+    },
+    "Chicken": {
+      "id": "chicken",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ed1c24",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/chicken.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/chicken.png"
+      },
+      "released": null
+    },
+    "Cow": {
+      "id": "cow",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#58595b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/cow.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/cow.png"
+      },
+      "released": null
+    },
+    "Pig": {
+      "id": "pig",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#f6a9cb",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/pig.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/pig.png"
+      },
+      "released": null
+    },
+    "Sheep": {
+      "id": "sheep",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#414042",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/sheep.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/sheep.png"
+      },
+      "released": null
+    },
+    "Duck": {
+      "id": "duck",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#4ab96d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/duck.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/duck.png"
+      },
+      "released": null
+    },
+    "Goat": {
+      "id": "goat",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#c59a74",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/goat.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/goat.png"
+      },
+      "released": null
+    },
+    "Horse": {
+      "id": "horse",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/farmAnimals/horse.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/farmAnimals/horse.png"
+      },
+      "released": null
+    },
+    "Pizza": {
+      "id": "pizza",
+      "box": "breakfast",
+      "rarity": "Epic",
+      "chance": 2,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#fdb913",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/foods/pizza.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/foods/pizza.png"
+      },
+      "released": "Sep 15 2020 10:20 AM"
+    },
+    "Sandwich": {
+      "id": "sandwich",
+      "box": "breakfast",
+      "rarity": "Epic",
+      "chance": -1,
+      "exists": false,
+      "obtainable": false,
+      "sellValue": 75,
+      "color": "#8cbd40",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/foods/sandwich.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/foods/sandwich.png"
+      },
+      "released": null
+    },
+    "Bear": {
+      "id": "bear",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/bear.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/bear.png"
+      },
+      "released": null
+    },
+    "Fox": {
+      "id": "fox",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#f49849",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/fox.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/fox.png"
+      },
+      "released": null
+    },
+    "Hedgehog": {
+      "id": "hedgehog",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#3f312b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/hedgehog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/hedgehog.png"
+      },
+      "released": null
+    },
+    "Moose": {
+      "id": "moose",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/moose.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/moose.png"
+      },
+      "released": null
+    },
+    "Owl": {
+      "id": "owl",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#594a42",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/owl.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/owl.png"
+      },
+      "released": null
+    },
+    "Raccoon": {
+      "id": "raccoon",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#6d6e71",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/raccoon.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/raccoon.png"
+      },
+      "released": null
+    },
+    "Squirrel": {
+      "id": "squirrel",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#d25927",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/forestAnimals/squirrel.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/forestAnimals/squirrel.png"
+      },
+      "released": null
+    },
+    "Frankenstein": {
+      "id": "frankenstein",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#56884b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/frankenstein.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/frankenstein.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Pumpkin": {
+      "id": "pumpkin",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f7941d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/pumpkin.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/pumpkin.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Swamp Monster": {
+      "id": "swampMonster",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#2fa04a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/swampMonster.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/swampMonster.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Vampire": {
+      "id": "vampire",
+      "box": "halloween",
+      "rarity": "Uncommon",
+      "chance": 18.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#a15095",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/vampire.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/vampire.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Mummy": {
+      "id": "mummy",
+      "box": "halloween",
+      "rarity": "Rare",
+      "chance": 6.7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#e8d8c7",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/mummy.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/mummy.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Zombie": {
+      "id": "zombie",
+      "box": "halloween",
+      "rarity": "Rare",
+      "chance": 6.7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#80a55d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/zombie.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/zombie.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Werewolf": {
+      "id": "werewolf",
+      "box": "halloween",
+      "rarity": "Epic",
+      "chance": 5.2,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#594a42",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/werewolf.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/werewolf.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Ghost": {
+      "id": "ghost",
+      "box": "halloween",
+      "rarity": "Legendary",
+      "chance": 0.65,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#c2def4",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/ghost.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/ghost.png"
+      },
+      "released": "Oct 13 2020 11:50 AM"
+    },
+    "Elf": {
+      "id": "elf",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#a7d054",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/elf.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/elf.png"
+      },
+      "released": null
+    },
+    "Fairy": {
+      "id": "fairy",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#df6d9c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/fairy.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/fairy.png"
+      },
+      "released": null
+    },
+    "Slime Monster": {
+      "id": "slimeMonster",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#2fa04a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/slimeMonster.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/slimeMonster.png"
+      },
+      "released": null
+    },
+    "Wizard": {
+      "id": "wizard",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#5a459c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/wizard.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/wizard.png"
+      },
+      "released": null
+    },
+    "Witch": {
+      "id": "witch",
+      "box": "medieval",
+      "rarity": "Uncommon",
+      "chance": 13.4,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#4ab96d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/witch.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/witch.png"
+      },
+      "released": null
+    },
+    "Cat": {
+      "id": "cat",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#f49849",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/cat.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/cat.png"
+      },
+      "released": null
+    },
+    "Dog": {
+      "id": "dog",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/dog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/dog.png"
+      },
+      "released": null
+    },
+    "Hamster": {
+      "id": "hamster",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ce9176",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/hamster.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/hamster.png"
+      },
+      "released": null
+    },
+    "Kitten": {
+      "id": "kitten",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#58595b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/kitten.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/kitten.png"
+      },
+      "released": null
+    },
+    "Puppy": {
+      "id": "puppy",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#414042",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/puppy.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/puppy.png"
+      },
+      "released": null
+    },
+    "Rabbit": {
+      "id": "rabbit",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#e7bf9a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/rabbit.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/rabbit.png"
+      },
+      "released": null
+    },
+    "Turtle": {
+      "id": "turtle",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#619a3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/turtle.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/turtle.png"
+      },
+      "released": null
+    },
+    "Flamingo": {
+      "id": "flamingo",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#f38db6",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/flamingo.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/flamingo.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Panda": {
+      "id": "panda",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#2f2c38",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/panda.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/panda.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Sloth": {
+      "id": "sloth",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#765b46",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/sloth.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/sloth.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Tenrec": {
+      "id": "tenrec",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#ffcb29",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/tenrec.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/tenrec.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Zebra": {
+      "id": "zebra",
+      "box": "safari",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#2f2c38",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/zebra.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/zebra.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Elephant": {
+      "id": "elephant",
+      "box": "safari",
+      "rarity": "Rare",
+      "chance": 7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#bac4e4",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/elephant.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/elephant.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Lemur": {
+      "id": "lemur",
+      "box": "safari",
+      "rarity": "Rare",
+      "chance": 7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#aeaba7",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/lemur.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/lemur.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Peacock": {
+      "id": "peacock",
+      "box": "safari",
+      "rarity": "Rare",
+      "chance": 7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#2b3990",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/peacock.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/peacock.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Chameleon": {
+      "id": "chameleon",
+      "box": "safari",
+      "rarity": "Epic",
+      "chance": 3.48,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#8dc63f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/chameleon.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/chameleon.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Lion": {
+      "id": "lion",
+      "box": "safari",
+      "rarity": "Legendary",
+      "chance": 0.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#f47e20",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/safari/lion.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/safari/lion.png"
+      },
+      "released": "February 3 2022 11:45 AM"
+    },
+    "Anaconda": {
+      "id": "anaconda",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#8a9143",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/anaconda.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/anaconda.png"
+      },
+      "released": null
+    },
+    "Capuchin": {
+      "id": "capuchin",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#e0b0a6",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/capuchin.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/capuchin.png"
+      },
+      "released": null
+    },
+    "Cockatoo": {
+      "id": "cockatoo",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#7ca1d5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/cockatoo.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/cockatoo.png"
+      },
+      "released": null
+    },
+    "Jaguar": {
+      "id": "jaguar",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#fbb040",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/jaguar.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/jaguar.png"
+      },
+      "released": null
+    },
+    "Macaw": {
+      "id": "macaw",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#00aeef",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/macaw.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/macaw.png"
+      },
+      "released": null
+    },
+    "Orangutan": {
+      "id": "orangutan",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#bc6234",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/orangutan.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/orangutan.png"
+      },
+      "released": null
+    },
+    "Panther": {
+      "id": "panther",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#2f2c38",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/panther.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/panther.png"
+      },
+      "released": null
+    },
+    "Parrot": {
+      "id": "parrot",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ed1c24",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/parrot.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/parrot.png"
+      },
+      "released": null
+    },
+    "Tiger": {
+      "id": "tiger",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#f18221",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/tiger.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/tiger.png"
+      },
+      "released": null
+    },
+    "Toucan": {
+      "id": "toucan",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#ffca34",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/tropicalAnimals/toucan.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/tropicalAnimals/toucan.png"
+      },
+      "released": null
+    },
+    "Holiday Gift": {
+      "id": "holidayGift",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#4ab96d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/holidayGift.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/holidayGift.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Holiday Wreath": {
+      "id": "holidayWreath",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#6c9355",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/holidayWreath.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/holidayWreath.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Hot Chocolate": {
+      "id": "hotChocolate",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#663723",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/hotChocolate.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/hotChocolate.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Snow Globe": {
+      "id": "snowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 17.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#10afd1",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/snowGlobe.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/snowGlobe.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Gingerbread House": {
+      "id": "gingerbreadHouse",
+      "box": "winterHoliday",
+      "rarity": "Rare",
+      "chance": 11.45,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/gingerbreadHouse.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/gingerbreadHouse.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Gingerbread Man": {
+      "id": "gingerbreadMan",
+      "box": "winterHoliday",
+      "rarity": "Rare",
+      "chance": 11.45,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#995b3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/gingerbreadMan.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/gingerbreadMan.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Snowman": {
+      "id": "snowman",
+      "box": "winterHoliday",
+      "rarity": "Epic",
+      "chance": 5.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#7ca1d5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/snowman.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/snowman.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Santa Claus": {
+      "id": "santaClaus",
+      "box": "winterHoliday",
+      "rarity": "Legendary",
+      "chance": 1,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#d62027",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/winterHoliday/santaClaus.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/winterHoliday/santaClaus.png"
+      },
+      "released": "Dec 10 2019 11:10 AM"
+    },
+    "Goldfish": {
+      "id": "goldfish",
+      "box": "pets",
+      "rarity": "Common",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": -1,
+      "color": "#f18221",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/pets/goldfish.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/pets/goldfish.png"
+      },
+      "released": null
+    },
+    "Jester": {
+      "id": "jester",
+      "box": "medieval",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#be1e2d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/jester.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/jester.png"
+      },
+      "released": null
+    },
+    "Dragon": {
+      "id": "dragon",
+      "box": "medieval",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#2fa04a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/dragon.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/dragon.png"
+      },
+      "released": null
+    },
+    "Unicorn": {
+      "id": "unicorn",
+      "box": "medieval",
+      "rarity": "Epic",
+      "chance": 5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#f6afce",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/unicorn.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/unicorn.png"
+      },
+      "released": null
+    },
+    "Queen": {
+      "id": "queen",
+      "box": "medieval",
+      "rarity": "Rare",
+      "chance": 9,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#9e1f63",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/queen.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/queen.png"
+      },
+      "released": null
+    },
+    "King": {
+      "id": "king",
+      "box": "medieval",
+      "rarity": "Legendary",
+      "chance": 1,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#ee2640",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/medieval/king.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/medieval/king.png"
+      },
+      "released": null
+    },
+    "Two of Spades": {
+      "id": "twoOfSpades",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15.2,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#414042",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/twoOfSpades.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/twoOfSpades.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Eat Me": {
+      "id": "eat",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#d58c55",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/eat.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/eat.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Drink Me": {
+      "id": "drink",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#dd7399",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/drink.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/drink.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Alice": {
+      "id": "alice",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#4cc9f5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/alice.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/alice.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Queen of Hearts": {
+      "id": "queenOfHearts",
+      "box": "wonderland",
+      "rarity": "Uncommon",
+      "chance": 15,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#d62027",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/queenOfHearts.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/queenOfHearts.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Dormouse": {
+      "id": "dormouse",
+      "box": "wonderland",
+      "rarity": "Rare",
+      "chance": 6.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#89d6f8",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/dormouse.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/dormouse.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "White Rabbit": {
+      "id": "whiteRabbit",
+      "box": "wonderland",
+      "rarity": "Rare",
+      "chance": 6.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#ffcd05",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/whiteRabbit.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/whiteRabbit.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Cheshire Cat": {
+      "id": "cheshireCat",
+      "box": "wonderland",
+      "rarity": "Rare",
+      "chance": 6.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#dd7399",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/cheshireCat.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/cheshireCat.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Mad Hatter": {
+      "id": "madHatter",
+      "box": "wonderland",
+      "rarity": "Epic",
+      "chance": 2.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#914f93",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/madHatter.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/madHatter.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "King of Hearts": {
+      "id": "kingOfHearts",
+      "box": "wonderland",
+      "rarity": "Legendary",
+      "chance": 0.3,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#c62127",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/kingOfHearts.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/kingOfHearts.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Caterpillar": {
+      "id": "caterpillar",
+      "box": "wonderland",
+      "rarity": "Epic",
+      "chance": 2.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#00c0f3",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/wonderland/caterpillar.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/wonderland/caterpillar.png"
+      },
+      "released": "Feb 24 2020 1:40 PM"
+    },
+    "Earth": {
+      "id": "earth",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#416eb5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/earth.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/earth.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Meteor": {
+      "id": "meteor",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#c68c3c",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/meteor.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/meteor.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Stars": {
+      "id": "stars",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#19184d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/stars.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/stars.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Alien": {
+      "id": "alien",
+      "box": "space",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#8dc63f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/alien.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/alien.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Planet": {
+      "id": "planet",
+      "box": "space",
+      "rarity": "Rare",
+      "chance": 10,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#9dc6ea",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/planet.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/planet.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "UFO": {
+      "id": "UFO",
+      "box": "space",
+      "rarity": "Rare",
+      "chance": 10,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#a15095",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/UFO.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/UFO.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Spaceship": {
+      "id": "spaceship",
+      "box": "space",
+      "rarity": "Epic",
+      "chance": 4.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#ffcb29",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/spaceship.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/spaceship.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Astronaut": {
+      "id": "astronaut",
+      "box": "space",
+      "rarity": "Legendary",
+      "chance": 0.45,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#9bd4ee",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/space/astronaut.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/space/astronaut.png"
+      },
+      "released": "Feb 11 2021 11:30 AM"
+    },
+    "Ice Bat": {
+      "id": "iceBat",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#295eb6",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/iceBat.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/iceBat.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Ice Bug": {
+      "id": "iceBug",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#337ae2",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/iceBug.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/iceBug.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Ice Elemental": {
+      "id": "iceElemental",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#58c7f0",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/iceElemental.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/iceElemental.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Rock Monster": {
+      "id": "iceElemental",
+      "box": "iceMonsters",
+      "rarity": "Uncommon",
+      "chance": 19.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 5,
+      "color": "#5a617f",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/iceElemental.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/iceElemental.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Dink": {
+      "id": "dink",
+      "box": "iceMonsters",
+      "rarity": "Rare",
+      "chance": 8.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#8f78a5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/dink.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/dink.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Donk": {
+      "id": "donk",
+      "box": "iceMonsters",
+      "rarity": "Rare",
+      "chance": 8.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#677c9e",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/donk.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/donk.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Bush Monster": {
+      "id": "bushMonster",
+      "box": "iceMonsters",
+      "rarity": "Epic",
+      "chance": 4.5,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 75,
+      "color": "#44c649",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/bushMonster.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/bushMonster.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Yeti": {
+      "id": "yeti",
+      "box": "iceMonsters",
+      "rarity": "Legendary",
+      "chance": 0.35,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 200,
+      "color": "#5a81c5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/yeti.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/yeti.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Ice Slime": {
+      "id": "iceSlime",
+      "box": "iceMonsters",
+      "rarity": "Chroma",
+      "chance": 0.08,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#42b7ea",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/iceSlime.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/iceSlime.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Frozen Fossil": {
+      "id": "frozenFossil",
+      "box": "iceMonsters",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#3ea8cf",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/frozenFossil.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/frozenFossil.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Ice Crab": {
+      "id": "iceCrab",
+      "box": "iceMonsters",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#5a81c5",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/iceMonsters/iceCrab.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/iceMonsters/iceCrab.png"
+      },
+      "released": "Sep 13 2022 12:00 PM"
+    },
+    "Caramel Apple": {
+      "id": "caramelApple",
+      "box": "halloween",
+      "rarity": "Rare",
+      "chance": 6.7,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 20,
+      "color": "#8d432a",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/caramelApple.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/caramelApple.png"
+      },
+      "released": "Oct 25 2022 2:00 PM"
+    },
+    "Pumpkin Cookie": {
+      "id": "pumpkinCookie",
+      "box": "halloween",
+      "rarity": "Chroma",
+      "chance": 0.03,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#f7941d",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/pumpkinCookie.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/pumpkinCookie.png"
+      },
+      "released": "Oct 25 2022 2:00 PM"
+    },
+    "Ghost Cookie": {
+      "id": "ghostCookie",
+      "box": "halloween",
+      "rarity": "Chroma",
+      "chance": 0.02,
+      "exists": true,
+      "obtainable": true,
+      "sellValue": 300,
+      "color": "#c2def4",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/halloween/ghostCookie.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/halloween/ghostCookie.png"
+      },
+      "released": "Oct 25 2022 2:00 PM"
+    },
+    "Anaconda Wizard": {
+      "id": "anacondaWizard",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#252165",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/anacondaWizard.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/anacondaWizard.png"
+      },
+      "released": null
+    },
+    "Pumpkin King": {
+      "id": "pumpkinKing",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#c1541e",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/pumpkinKing.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/pumpkinKing.png"
+      },
+      "released": null
+    },
+    "Vampire Frog": {
+      "id": "vampireFrog",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#312222",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/vampireFrog.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/vampireFrog.png"
+      },
+      "released": null
+    },
+    "Owl Sheriff": {
+      "id": "owlSheriff",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#84582b",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/owlSheriff.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/owlSheriff.png"
+      },
+      "released": null
+    },
+    "Raccoon Bandit": {
+      "id": "raccoonBandit",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#bb2222",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/raccoonBandit.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/raccoonBandit.png"
+      },
+      "released": null
+    },
+    "Chicken Chick": {
+      "id": "chickenChick",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#9dd7f4",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/chickenChick.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/chickenChick.png"
+      },
+      "released": null
+    },
+    "Chick Chicken": {
+      "id": "chickChicken",
+      "box": "eventBlooks",
+      "rarity": "Chroma",
+      "chance": -1,
+      "exists": true,
+      "obtainable": false,
+      "sellValue": 300,
+      "color": "#eaa622",
+      "image": {
+        "blooket": "https://blooket.s3-us-east-2.amazonaws.com/blooks/bonus/chromas/chickChicken.svg",
+        "source": "https://undercovergoose.github.io/blooket-src/blooks/bonus/chromas/chickChicken.png"
+      },
+      "released": null
+    }
+  },
+  "packs": {
+    "aquatic": {
+      "name": "Aquatic Pack",
+      "openable": true,
+      "tokenPrice": 20,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Old Boot",
+        "Jellyfish",
+        "Clownfish",
+        "Frog",
+        "Crab",
+        "Pufferfish",
+        "Blobfish",
+        "Octopus",
+        "Narwhal",
+        "Baby Shark",
+        "Megalodon"
+      ]
+    },
+    "arcticAnimals": {
+      "name": null,
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Arctic Fox",
+        "Arctic Hare",
+        "Baby Penguin",
+        "Penguin",
+        "Polar Bear",
+        "Seal",
+        "Snowy Owl",
+        "Walrus"
+      ]
+    },
+    "bonus/aquatic": {
+      "name": "Bonus Aquatic Blooks",
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Blizzard Clownfish",
+        "Crimson Octopus",
+        "Donut Blobfish",
+        "Lemon Crab",
+        "Pirate Pufferfish",
+        "Poison Dart Frog",
+        "Rainbow Jellyfish",
+        "Rainbow Narwhal"
+      ]
+    },
+    "eventBlooks": {
+      "name": "Event Rewards",
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": null
+      },
+      "blooks": [
+        "Spooky Ghost",
+        "Spooky Mummy",
+        "Spooky Pumpkin",
+        "Tim the Alien",
+        "Lime Astronaut",
+        "Cyan Astronaut",
+        "Phantom King",
+        "Master Elf",
+        "Agent Owl",
+        "Rainbow Astronaut",
+        "Tiger Zebra",
+        "White Peacock",
+        "Anaconda Wizard",
+        "Pumpkin King",
+        "Vampire Frog",
+        "Owl Sheriff",
+        "Raccoon Bandit",
+        "Chicken Chick",
+        "Chick Chicken"
+      ]
+    },
+    "specialFrogs": {
+      "name": "Special Frogs",
+      "openable": false,
+      "tokenPrice": 500,
+      "image": {
+        "blooket": null,
+        "source": null
+      },
+      "blooks": [
+        "Lovely Frog",
+        "Lucky Frog",
+        "Spring Frog"
+      ]
+    },
+    "bots": {
+      "name": "Bot Pack",
+      "openable": true,
+      "tokenPrice": 20,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Lil Bot",
+        "Lovely Bot",
+        "Angry Bot",
+        "Happy Bot",
+        "Watson",
+        "Buddy Bot",
+        "Brainy Bot",
+        "Mega Bot"
+      ]
+    },
+    "breakfast": {
+      "name": "Breakfast Pack",
+      "openable": true,
+      "tokenPrice": 15,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Toast",
+        "Cereal",
+        "Yogurt",
+        "Breakfast Combo",
+        "Orange Juice",
+        "Milk",
+        "Waffle",
+        "Pancakes",
+        "French Toast",
+        "Pizza",
+        "Sandwich"
+      ]
+    },
+    "colors": {
+      "name": null,
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Baby Blue",
+        "Black",
+        "Blue",
+        "Brown",
+        "Burgandy",
+        "Dull Blue",
+        "Dust",
+        "Gray",
+        "Green",
+        "Light Blue",
+        "Lime",
+        "Maroon",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Salmon",
+        "Tan",
+        "Teal",
+        "Yellow"
+      ]
+    },
+    "dinos": {
+      "name": "Dino Pack",
+      "openable": true,
+      "tokenPrice": 25,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Amber",
+        "Dino Egg",
+        "Dino Fossil",
+        "Stegosaurus",
+        "Velociraptor",
+        "Brontosaurus",
+        "Triceratops",
+        "Tyrannosaurus Rex"
+      ]
+    },
+    "farmAnimals": {
+      "name": null,
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Chick",
+        "Chicken",
+        "Cow",
+        "Pig",
+        "Sheep",
+        "Duck",
+        "Goat",
+        "Horse"
+      ]
+    },
+    "forestAnimals": {
+      "name": null,
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Bear",
+        "Fox",
+        "Hedgehog",
+        "Moose",
+        "Owl",
+        "Raccoon",
+        "Squirrel"
+      ]
+    },
+    "halloween": {
+      "name": "Spooky Pack",
+      "openable": true,
+      "tokenPrice": 25,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Pumpkin",
+        "Swamp Monster",
+        "Frankenstein",
+        "Vampire",
+        "Zombie",
+        "Mummy",
+        "Caramel Apple",
+        "Werewolf",
+        "Ghost",
+        "Haunted Pumpkin",
+        "Pumpkin Cookie",
+        "Ghost Cookie"
+      ]
+    },
+    "iceMonsters": {
+      "name": "Ice Monsters Pack",
+      "openable": true,
+      "tokenPrice": 25,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Ice Bat",
+        "Ice Bug",
+        "Ice Elemental",
+        "Rock Monster",
+        "Dink",
+        "Donk",
+        "Bush Monster",
+        "Yeti",
+        "Ice Slime",
+        "Frozen Fossil",
+        "Ice Crab"
+      ]
+    },
+    "medieval": {
+      "name": "Medieval Pack",
+      "openable": true,
+      "tokenPrice": 15,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Elf",
+        "Witch",
+        "Wizard",
+        "Fairy",
+        "Slime Monster",
+        "Jester",
+        "Dragon",
+        "Queen",
+        "Unicorn",
+        "King"
+      ]
+    },
+    "pets": {
+      "name": null,
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Cat",
+        "Dog",
+        "Goldfish",
+        "Hamster",
+        "Kitten",
+        "Puppy",
+        "Rabbit",
+        "Turtle"
+      ]
+    },
+    "safari": {
+      "name": "Safari Pack",
+      "openable": true,
+      "tokenPrice": 20,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Panda",
+        "Sloth",
+        "Tenrec",
+        "Flamingo",
+        "Zebra",
+        "Elephant",
+        "Lemur",
+        "Peacock",
+        "Chameleon",
+        "Lion",
+        "Rainbow Panda"
+      ]
+    },
+    "space": {
+      "name": "Space Pack",
+      "openable": true,
+      "tokenPrice": 20,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Earth",
+        "Meteor",
+        "Stars",
+        "Alien",
+        "Planet",
+        "UFO",
+        "Spaceship",
+        "Astronaut",
+        "Red Astronaut",
+        "Orange Astronaut",
+        "Yellow Astronaut",
+        "Green Astronaut",
+        "Blue Astronaut",
+        "Pink Astronaut",
+        "Purple Astronaut",
+        "Brown Astronaut",
+        "Black Astronaut"
+      ]
+    },
+    "tropicalAnimals": {
+      "name": null,
+      "openable": false,
+      "tokenPrice": null,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Tiger",
+        "Orangutan",
+        "Cockatoo",
+        "Parrot",
+        "Anaconda",
+        "Jaguar",
+        "Macaw",
+        "toucan",
+        "Panther",
+        "Capuchin"
+      ]
+    },
+    "winterHoliday": {
+      "name": "Blizzard Pack",
+      "openable": true,
+      "tokenPrice": 25,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Snow Globe",
+        "Holiday Gift",
+        "Hot Chocolate",
+        "Holiday Wreath",
+        "Gingerbread Man",
+        "Gingerbread House",
+        "Snowman",
+        "Santa Claus",
+        "Frost Wreath",
+        "Tropical Globe"
+      ]
+    },
+    "wonderland": {
+      "name": "Wonderland Pack",
+      "openable": true,
+      "tokenPrice": 15,
+      "image": {
+        "blooket": null,
+        "source": "https://undercovergoose.github.io/blooket-src/userInterface/market/packs/aquatic.png"
+      },
+      "blooks": [
+        "Two of Spades",
+        "Eat Me",
+        "Drink Me",
+        "Alice",
+        "Queen of Hearts",
+        "Dormouse",
+        "White Rabbit",
+        "Cheshire Cat",
+        "Caterpillar",
+        "Mad Hatter",
+        "King of Hearts"
+      ]
+    }
+  }
+}

@@ -54,6 +54,11 @@
       "name": "Trick or Treat",
       "price": 500,
       "rarity": "Rare"
+    },
+    "harvester": {
+      "name": "Harvester",
+      "price": 250,
+      "rarity": "Uncommon"
     }
   },
   "banners": {
@@ -125,6 +130,16 @@
     "racetrack": {
       "name": "Racetrack",
       "price": 350,
+      "rarity": "Rare"
+    },
+    "harvest": {
+      "name": "Harvest",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "leaves": {
+      "name": "Leaves",
+      "price": 500,
       "rarity": "Rare"
     }
   }
