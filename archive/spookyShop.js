@@ -1,0 +1,70 @@
+const ne = {};
+const te = {
+    a: {}
+};
+
+const spookyShop = [{
+    id: "spooky",
+    type: "banner",
+    data: te.a.spooky
+}, {
+    id: "spiders",
+    type: "banner",
+    data: te.a.spiders
+}, {
+    id: "coffin",
+    type: "banner",
+    data: te.a.coffin
+}, {
+    id: "pumpkins",
+    type: "banner",
+    data: te.a.pumpkins
+}, {
+    id: "spooky",
+    type: "title",
+    data: ae.a.spooky
+}, {
+    id: "trickOrTreat",
+    type: "title",
+    data: ae.a.trickOrTreat
+}, {
+    id: "hat37",
+    type: "part",
+    data: ne.hat37
+}, {
+    id: "clothing44",
+    type: "part",
+    data: ne.clothing44
+}, {
+    id: "nose8",
+    type: "part",
+    data: ne.nose8
+}, {
+    id: "hat38",
+    type: "part",
+    data: ne.hat38
+}, {
+    id: "clothing45",
+    type: "part",
+    data: ne.clothing45
+}, {
+    id: "hat39",
+    type: "part",
+    data: ne.hat39
+}, {
+    id: "clothing46",
+    type: "part",
+    data: ne.clothing46
+}, {
+    id: "hat40",
+    type: "part",
+    data: ne.hat40
+}, {
+    id: "item33",
+    type: "part",
+    data: ne.item33
+}, {
+    id: "item32",
+    type: "part",
+    data: ne.item32
+}];
