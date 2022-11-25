@@ -59,6 +59,11 @@
       "name": "Harvester",
       "price": 250,
       "rarity": "Uncommon"
+    },
+    "thankful": {
+      "name": "Thankful",
+      "price": 50,
+      "rarity": "Uncommon"
     }
   },
   "banners": {
@@ -141,6 +146,11 @@
       "name": "Leaves",
       "price": 500,
       "rarity": "Rare"
+    },
+    "fallPicnic": {
+      "name": "Fall Picnic",
+      "price": 200,
+      "rarity": "Uncommon"
     }
   }
 }
