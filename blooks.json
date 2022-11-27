@@ -12,7 +12,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#995b3c",
-      "tradeValue": [52, 25],
+      "tradeValue": [52, 60],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Jellyfish": {
@@ -22,7 +22,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#c385b9",
-      "tradeValue": [52, 25],
+      "tradeValue": [52, 60],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Clownfish": {
@@ -32,7 +32,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#f7941d",
-      "tradeValue": [52, 25],
+      "tradeValue": [52, 60],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Frog": {
@@ -42,7 +42,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#a7d054",
-      "tradeValue": [52, 25],
+      "tradeValue": [52, 60],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Crab": {
@@ -52,7 +52,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#cf1f3d",
-      "tradeValue": [52, 25],
+      "tradeValue": [52, 60],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Pufferfish": {
@@ -62,7 +62,7 @@
       "chance": 6.8,
       "sellValue": 20,
       "color": "#ddc4a6",
-      "tradeValue": [103, 65],
+      "tradeValue": [103, 99],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Blobfish": {
@@ -72,7 +72,7 @@
       "chance": 6.8,
       "sellValue": 20,
       "color": "#f3c1da",
-      "tradeValue": [103, 65],
+      "tradeValue": [103, 99],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Octopus": {
@@ -82,7 +82,7 @@
       "chance": 6.8,
       "sellValue": 20,
       "color": "#a15095",
-      "tradeValue": [103, 65],
+      "tradeValue": [103, 99],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Narwhal": {
@@ -92,7 +92,7 @@
       "chance": 3.9,
       "sellValue": 75,
       "color": "#dae6f5",
-      "tradeValue": [205, 200],
+      "tradeValue": [205, 162],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Baby Shark": {
@@ -102,7 +102,7 @@
       "chance": 0.5,
       "sellValue": 200,
       "color": "#5588b7",
-      "tradeValue": [1227, 1500],
+      "tradeValue": [1227, 1111],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Megalodon": {
@@ -112,7 +112,7 @@
       "chance": 0.2,
       "sellValue": 250,
       "color": "#3d5d80",
-      "tradeValue": [2872, 4000],
+      "tradeValue": [2872, 2744],
       "released": "Sep 22 2021 9:00 AM"
     },
     "Arctic Fox": {
@@ -234,7 +234,7 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#f38db6",
-      "tradeValue": [0, 0],
+      "tradeValue": [2000, 2000],
       "released": "Feb 14 2022 11:00 AM"
     },
     "Lucky Frog": {
@@ -244,7 +244,7 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#4eb151",
-      "tradeValue": [0, 0],
+      "tradeValue": [2500, 1500],
       "released": "Mar 17 2022 11:10 AM"
     },
     "Pirate Pufferfish": {
@@ -294,7 +294,7 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#f2bd8c",
-      "tradeValue": [0, 0]
+      "tradeValue": [2500, 2500]
     },
     "Haunted Pumpkin": {
       "id": "hauntedPumpkin",
@@ -314,7 +314,7 @@
       "sellValue": 1000,
       "color": "#66f59b",
       "count": 2,
-      "tradeValue": [0, 105000000]
+      "tradeValue": [70000000, 70000000]
     },
     "Spooky Mummy": {
       "id": "spookyMummy",
@@ -343,7 +343,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#2f2c38",
-      "tradeValue": [29265, 33000],
+      "tradeValue": [29265, 29000],
       "released": "February 3 2022 11:45 AM"
     },
     "Tiger Zebra": {
@@ -377,7 +377,7 @@
       "sellValue": 300,
       "awardDay": "Friday",
       "color": "#ee2324",
-      "tradeValue": [11065, 15000]
+      "tradeValue": [11065, 11000]
     },
     "Orange Astronaut": {
       "id": "orangeAstronaut",
@@ -388,7 +388,7 @@
       "sellValue": 300,
       "awardDay": "Thursday",
       "color": "#f79320",
-      "tradeValue": [11065, 15000]
+      "tradeValue": [11065, 11000]
     },
     "Yellow Astronaut": {
       "id": "yellowAstronaut",
@@ -399,7 +399,7 @@
       "sellValue": 300,
       "awardDay": "Tuesday",
       "color": "#edcb1f",
-      "tradeValue": [11065, 15000]
+      "tradeValue": [11065, 11000]
     },
     "Lime Astronaut": {
       "id": "limeAstronaut",
@@ -421,7 +421,7 @@
       "sellValue": 300,
       "awardDay": "Sunday",
       "color": "#197b42",
-      "tradeValue": [11065, 16000]
+      "tradeValue": [11065, 11000]
     },
     "Cyan Astronaut": {
       "id": "cyanAstronaut",
@@ -463,7 +463,7 @@
       "sellValue": 300,
       "awardDay": "Monday",
       "color": "#e573ac",
-      "tradeValue": [11065, 15000]
+      "tradeValue": [11065, 11000]
     },
     "Brown Astronaut": {
       "id": "brownAstronaut",
@@ -474,7 +474,7 @@
       "sellValue": 300,
       "awardDay": "Saturday",
       "color": "#9e5a3a",
-      "tradeValue": [11065, 16000]
+      "tradeValue": [11065, 11000]
     },
     "Black Astronaut": {
       "id": "blackAstronaut",
@@ -485,7 +485,7 @@
       "sellValue": 300,
       "awardDay": "Wednesday",
       "color": "#413f56",
-      "tradeValue": [11065, 15000]
+      "tradeValue": [11065, 11000]
     },
     "Rainbow Astronaut": {
       "id": "rainbowAstronaut",
@@ -496,7 +496,7 @@
       "sellValue": 1000,
       "color": "#9068ad",
       "count": 25,
-      "tradeValue": [0, 7000000],
+      "tradeValue": [7000000, 7000000],
       "released": "March 6 2022 1:00 AM"
     },
     "Tim the Alien": {
@@ -508,7 +508,7 @@
       "sellValue": 1000,
       "color": "#8dc63f",
       "count": 2,
-      "tradeValue": [0, 105000000],
+      "tradeValue": [105000000, 105000000],
       "released": "August 7 2021 11:30 AM"
     },
     "Agent Owl": {
@@ -541,7 +541,7 @@
       "sellValue": 1000,
       "color": "#2cf4e1",
       "count": 51,
-      "tradeValue": [0, 4000000],
+      "tradeValue": [4000000, 4000000],
       "released": "December 12 2021 10:00 PM"
     },
     "Frost Wreath": {
@@ -569,7 +569,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#3e564a",
-      "tradeValue": [50, 50],
+      "tradeValue": [50, 57],
       "released": "May 18 2021 10:00 AM"
     },
     "Lovely Bot": {
@@ -579,7 +579,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f179af",
-      "tradeValue": [50, 50],
+      "tradeValue": [50, 57],
       "released": "May 18 2021 10:00 AM"
     },
     "Angry Bot": {
@@ -589,7 +589,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f1613a",
-      "tradeValue": [50, 50],
+      "tradeValue": [50, 57],
       "released": "May 18 2021 10:00 AM"
     },
     "Happy Bot": {
@@ -599,7 +599,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#51ba6b",
-      "tradeValue": [50, 50],
+      "tradeValue": [50, 57],
       "released": "May 18 2021 10:00 AM"
     },
     "Watson": {
@@ -609,7 +609,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#d69b5a",
-      "tradeValue": [100, 60],
+      "tradeValue": [100, 93],
       "released": "May 18 2021 10:00 AM"
     },
     "Buddy Bot": {
@@ -619,7 +619,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#9dc6ea",
-      "tradeValue": [100, 60],
+      "tradeValue": [100, 93],
       "released": "May 18 2021 10:00 AM"
     },
     "Brainy Bot": {
@@ -629,7 +629,7 @@
       "chance": 3.7,
       "sellValue": 75,
       "color": "#9ecf7a",
-      "tradeValue": [240, 225],
+      "tradeValue": [240, 194],
       "released": "May 18 2021 10:00 AM"
     },
     "Mega Bot": {
@@ -639,7 +639,7 @@
       "chance": 0.3,
       "sellValue": 200,
       "color": "#d71f27",
-      "tradeValue": [2259, 2500],
+      "tradeValue": [2259, 2129],
       "released": "May 18 2021 10:00 AM"
     },
     "Toast": {
@@ -709,7 +709,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#f9a241",
-      "tradeValue": [40, 50],
+      "tradeValue": [40, 35],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Pancakes": {
@@ -719,7 +719,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#f9a241",
-      "tradeValue": [40, 50],
+      "tradeValue": [40, 35],
       "released": "Sep 15 2020 10:20 AM"
     },
     "French Toast": {
@@ -729,7 +729,7 @@
       "chance": 5,
       "sellValue": 75,
       "color": "#f9a241",
-      "tradeValue": [94, 90],
+      "tradeValue": [94, 50],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Baby Blue": {
@@ -928,7 +928,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#f7913f",
-      "tradeValue": [75, 30],
+      "tradeValue": [75, 82],
       "released": "May 9 2022 10:50 AM"
     },
     "Brontosaurus": {
@@ -938,7 +938,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#416eb5",
-      "tradeValue": [145, 80],
+      "tradeValue": [145, 138],
       "released": "May 9 2022 10:50 AM"
     },
     "Dino Egg": {
@@ -948,7 +948,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#d69b5a",
-      "tradeValue": [75, 30],
+      "tradeValue": [75, 82],
       "released": "May 9 2022 10:50 AM"
     },
     "Dino Fossil": {
@@ -958,7 +958,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#a46735",
-      "tradeValue": [75, 30],
+      "tradeValue": [75, 82],
       "released": "May 9 2022 10:50 AM"
     },
     "Stegosaurus": {
@@ -968,7 +968,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#6c9355",
-      "tradeValue": [75, 30],
+      "tradeValue": [75, 82],
       "released": "May 9 2022 10:50 AM"
     },
     "Triceratops": {
@@ -978,7 +978,7 @@
       "chance": 3.7,
       "sellValue": 75,
       "color": "#f1613a",
-      "tradeValue": [340, 300],
+      "tradeValue": [340, 294],
       "released": "May 9 2022 10:50 AM"
     },
     "Tyrannosaurus Rex": {
@@ -988,7 +988,7 @@
       "chance": 0.3,
       "sellValue": 200,
       "color": "#6c9355",
-      "tradeValue": [3419, 4000],
+      "tradeValue": [3419, 3289],
       "released": "May 9 2022 10:50 AM"
     },
     "Velociraptor": {
@@ -998,7 +998,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#cf1f3d",
-      "tradeValue": [145, 80],
+      "tradeValue": [145, 138],
       "released": "May 9 2022 10:50 AM"
     },
     "Chick": {
@@ -1081,7 +1081,7 @@
       "chance": 2,
       "sellValue": 75,
       "color": "#fdb913",
-      "tradeValue": [143, 250],
+      "tradeValue": [143, 103],
       "released": "Sep 15 2020 10:20 AM"
     },
     "Sandwich": {
@@ -1244,7 +1244,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#a7d054",
-      "tradeValue": [10, 10]
+      "tradeValue": [10, 18]
     },
     "Fairy": {
       "id": "fairy",
@@ -1253,7 +1253,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#df6d9c",
-      "tradeValue": [10, 10]
+      "tradeValue": [10, 18]
     },
     "Slime Monster": {
       "id": "slimeMonster",
@@ -1262,7 +1262,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#2fa04a",
-      "tradeValue": [10, 10]
+      "tradeValue": [10, 18]
     },
     "Wizard": {
       "id": "wizard",
@@ -1271,7 +1271,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#5a459c",
-      "tradeValue": [10, 10]
+      "tradeValue": [10, 18]
     },
     "Witch": {
       "id": "witch",
@@ -1280,7 +1280,7 @@
       "chance": 13.4,
       "sellValue": 5,
       "color": "#4ab96d",
-      "tradeValue": [10, 10]
+      "tradeValue": [10, 18]
     },
     "Cat": {
       "id": "cat",
@@ -1352,7 +1352,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#f38db6",
-      "tradeValue": [62, 25],
+      "tradeValue": [62, 62],
       "released": "February 3 2022 11:45 AM"
     },
     "Panda": {
@@ -1362,7 +1362,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#2f2c38",
-      "tradeValue": [56, 25],
+      "tradeValue": [56, 62],
       "released": "February 3 2022 11:45 AM"
     },
     "Sloth": {
@@ -1372,7 +1372,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#765b46",
-      "tradeValue": [56, 25],
+      "tradeValue": [56, 62],
       "released": "February 3 2022 11:45 AM"
     },
     "Tenrec": {
@@ -1382,7 +1382,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#ffcb29",
-      "tradeValue": [56, 25],
+      "tradeValue": [56, 62],
       "released": "February 3 2022 11:45 AM"
     },
     "Zebra": {
@@ -1392,7 +1392,7 @@
       "chance": 15,
       "sellValue": 5,
       "color": "#2f2c38",
-      "tradeValue": [56, 25],
+      "tradeValue": [56, 62],
       "released": "February 3 2022 11:45 AM"
     },
     "Elephant": {
@@ -1402,7 +1402,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#bac4e4",
-      "tradeValue": [110, 65],
+      "tradeValue": [110, 104],
       "released": "February 3 2022 11:45 AM"
     },
     "Lemur": {
@@ -1412,7 +1412,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#aeaba7",
-      "tradeValue": [110, 65],
+      "tradeValue": [110, 104],
       "released": "February 3 2022 11:45 AM"
     },
     "Peacock": {
@@ -1422,7 +1422,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#2b3990",
-      "tradeValue": [110, 65],
+      "tradeValue": [110, 104],
       "released": "February 3 2022 11:45 AM"
     },
     "Chameleon": {
@@ -1432,7 +1432,7 @@
       "chance": 3.48,
       "sellValue": 75,
       "color": "#8dc63f",
-      "tradeValue": [233, 250],
+      "tradeValue": [233, 188],
       "released": "February 3 2022 11:45 AM"
     },
     "Lion": {
@@ -1631,7 +1631,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#be1e2d",
-      "tradeValue": [23, 50]
+      "tradeValue": [23, 19]
     },
     "Dragon": {
       "id": "dragon",
@@ -1640,7 +1640,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#2fa04a",
-      "tradeValue": [23, 50]
+      "tradeValue": [23, 19]
     },
     "Unicorn": {
       "id": "unicorn",
@@ -1649,7 +1649,7 @@
       "chance": 5,
       "sellValue": 75,
       "color": "#f6afce",
-      "tradeValue": [66, 100]
+      "tradeValue": [66, 22]
     },
     "Queen": {
       "id": "queen",
@@ -1658,7 +1658,7 @@
       "chance": 9,
       "sellValue": 20,
       "color": "#9e1f63",
-      "tradeValue": [23, 50]
+      "tradeValue": [23, 19]
     },
     "King": {
       "id": "king",
@@ -1667,7 +1667,7 @@
       "chance": 1,
       "sellValue": 200,
       "color": "#ee2640",
-      "tradeValue": [178, 800]
+      "tradeValue": [178, 178]
     },
     "Two of Spades": {
       "id": "twoOfSpades",
@@ -1726,7 +1726,7 @@
       "chance": 6.5,
       "sellValue": 20,
       "color": "#89d6f8",
-      "tradeValue": [54, 55],
+      "tradeValue": [54, 48],
       "released": "Feb 24 2020 1:40 PM"
     },
     "White Rabbit": {
@@ -1736,7 +1736,7 @@
       "chance": 6.5,
       "sellValue": 20,
       "color": "#ffcd05",
-      "tradeValue": [54, 55],
+      "tradeValue": [54, 48],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Cheshire Cat": {
@@ -1746,7 +1746,7 @@
       "chance": 6.5,
       "sellValue": 20,
       "color": "#dd7399",
-      "tradeValue": [54, 55],
+      "tradeValue": [54, 48],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Mad Hatter": {
@@ -1756,7 +1756,7 @@
       "chance": 2.5,
       "sellValue": 75,
       "color": "#914f93",
-      "tradeValue": [143, 200],
+      "tradeValue": [143, 99],
       "released": "Feb 24 2020 1:40 PM"
     },
     "King of Hearts": {
@@ -1766,7 +1766,7 @@
       "chance": 0.3,
       "sellValue": 200,
       "color": "#c62127",
-      "tradeValue": [836, 2000],
+      "tradeValue": [836, 708],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Caterpillar": {
@@ -1776,7 +1776,7 @@
       "chance": 2.5,
       "sellValue": 75,
       "color": "#00c0f3",
-      "tradeValue": [143, 200],
+      "tradeValue": [143, 99],
       "released": "Feb 24 2020 1:40 PM"
     },
     "Earth": {
@@ -1786,7 +1786,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#416eb5",
-      "tradeValue": [44, 44],
+      "tradeValue": [44, 52],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Meteor": {
@@ -1796,7 +1796,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#c68c3c",
-      "tradeValue": [44, 44],
+      "tradeValue": [44, 52],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Stars": {
@@ -1816,7 +1816,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#8dc63f",
-      "tradeValue": [44, 44],
+      "tradeValue": [44, 52],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Planet": {
@@ -1826,7 +1826,7 @@
       "chance": 10,
       "sellValue": 20,
       "color": "#9dc6ea",
-      "tradeValue": [80, 60],
+      "tradeValue": [80, 75],
       "released": "Feb 11 2021 11:30 AM"
     },
     "UFO": {
@@ -1836,7 +1836,7 @@
       "chance": 10,
       "sellValue": 20,
       "color": "#a15095",
-      "tradeValue": [80, 60],
+      "tradeValue": [80, 75],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Spaceship": {
@@ -1846,7 +1846,7 @@
       "chance": 4.5,
       "sellValue": 75,
       "color": "#ffcb29",
-      "tradeValue": [192, 180],
+      "tradeValue": [192, 146],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Astronaut": {
@@ -1856,7 +1856,7 @@
       "chance": 0.45,
       "sellValue": 200,
       "color": "#9bd4ee",
-      "tradeValue": [1355, 1750],
+      "tradeValue": [1355, 1226],
       "released": "Feb 11 2021 11:30 AM"
     },
     "Ice Bat": {
@@ -1866,7 +1866,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#295eb6",
-      "tradeValue": [71, 30],
+      "tradeValue": [71, 78],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Ice Bug": {
@@ -1876,7 +1876,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#337ae2",
-      "tradeValue": [71, 30],
+      "tradeValue": [71, 78],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Ice Elemental": {
@@ -1886,7 +1886,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#58c7f0",
-      "tradeValue": [71, 30],
+      "tradeValue": [71, 78],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Rock Monster": {
@@ -1896,7 +1896,7 @@
       "chance": 19.5,
       "sellValue": 5,
       "color": "#5a617f",
-      "tradeValue": [71, 30],
+      "tradeValue": [71, 78],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Dink": {
@@ -1906,7 +1906,7 @@
       "chance": 8.5,
       "sellValue": 20,
       "color": "#8f78a5",
-      "tradeValue": [136, 80],
+      "tradeValue": [136, 131],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Donk": {
@@ -1916,7 +1916,7 @@
       "chance": 8.5,
       "sellValue": 20,
       "color": "#677c9e",
-      "tradeValue": [136, 80],
+      "tradeValue": [136, 131],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Bush Monster": {
@@ -1926,7 +1926,7 @@
       "chance": 4.5,
       "sellValue": 75,
       "color": "#44c649",
-      "tradeValue": [283, 250],
+      "tradeValue": [283, 236],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Yeti": {
@@ -1936,7 +1936,7 @@
       "chance": 0.35,
       "sellValue": 200,
       "color": "#5a81c5",
-      "tradeValue": [2764, 3750],
+      "tradeValue": [2764, 2635],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Ice Slime": {
@@ -1946,7 +1946,7 @@
       "chance": 0.08,
       "sellValue": 300,
       "color": "#42b7ea",
-      "tradeValue": [11647, 11000],
+      "tradeValue": [11647, 11500],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Frozen Fossil": {
@@ -1956,7 +1956,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#3ea8cf",
-      "tradeValue": [18485, 20000],
+      "tradeValue": [18485, 18000],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Ice Crab": {
@@ -1966,7 +1966,7 @@
       "chance": 0.02,
       "sellValue": 300,
       "color": "#5a81c5",
-      "tradeValue": [45889, 30000],
+      "tradeValue": [45889, 32000],
       "released": "Sep 13 2022 12:00 PM"
     },
     "Caramel Apple": {
