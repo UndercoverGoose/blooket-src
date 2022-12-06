@@ -2536,7 +2536,8 @@
     "Aquatic": "aquatic",
     "Safari": "safari",
     "Dino": "dinos",
-    "Ice Monster": "iceMonsters"
+    "Ice Monster": "iceMonsters",
+    "Blizzard": "winterHoliday"
   },
   "rarity": {
     "Common": [
