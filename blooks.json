@@ -2061,6 +2061,69 @@
       "sellValue": 300,
       "color": "#eaa622",
       "tradeValue": [0, 0]
+    },
+    "Stocking": {
+      "id": "stocking",
+      "box": "winterHoliday",
+      "rarity": "Uncommon",
+      "chance": 14.5,
+      "sellValue": 5,
+      "color": "#e52a00",
+      "tradeValue": [0, 0]
+    },
+    "Reindeer": {
+      "id": "reindeer",
+      "box": "winterHoliday",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#9a5b3c",
+      "tradeValue": [0, 0]
+    },
+    "New York Snow Globe": {
+      "id": "newYorkSnowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#4aa891",
+      "tradeValue": [0, 0]
+    },
+    "London Snow Globe": {
+      "id": "londonSnowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#4aa891",
+      "tradeValue": [0, 0]
+    },
+    "Japan Snow Globe": {
+      "id": "japanSnowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#d62027",
+      "tradeValue": [0, 0]
+    },
+    "Egypt Snow Globe": {
+      "id": "egyptSnowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#d47630",
+      "tradeValue": [0, 0]
+    },
+    "Paris Snow Globe": {
+      "id": "parisSnowGlobe",
+      "box": "winterHoliday",
+      "rarity": "Chroma",
+      "chance": 0.05,
+      "sellValue": 300,
+      "color": "#858585",
+      "tradeValue": [0, 0]
     }
   },
   "boxes": {
@@ -2433,7 +2496,14 @@
         "Snowman",
         "Santa Claus",
         "Frost Wreath",
-        "Tropical Globe"
+        "Tropical Globe",
+        "Stocking",
+        "Reindeer",
+        "New York Snow Globe",
+        "London Snow Globe",
+        "Japan Snow Globe",
+        "Egypt Snow Globe",
+        "Paris Snow Globe"
       ]
     },
     "wonderland": {
@@ -2584,7 +2654,8 @@
       "Ice Bat",
       "Ice Bug",
       "Ice Elemental",
-      "Rock Monster"
+      "Rock Monster",
+      "Stocking"
     ],
     "Rare": [
       "Pufferfish",
@@ -2613,7 +2684,8 @@
       "UFO",
       "Dink",
       "Donk",
-      "Caramel Apple"
+      "Caramel Apple",
+      "Reindeer"
     ],
     "Epic": [
       "Narwhal",
@@ -2688,7 +2760,12 @@
       "Owl Sheriff",
       "Raccoon Bandit",
       "Chicken Chick",
-      "Chick Chicken"
+      "Chick Chicken",
+      "New York Snow Globe",
+      "London Snow Globe",
+      "Japan Snow Globe",
+      "Egypt Snow Globe",
+      "Paris Snow Globe"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2836,7 +2913,14 @@
     "Owl Sheriff",
     "Raccoon Bandit",
     "Chicken Chick",
-    "Chick Chicken"
+    "Chick Chicken",
+    "New York Snow Globe",
+    "London Snow Globe",
+    "Japan Snow Globe",
+    "Egypt Snow Globe",
+    "Paris Snow Globe",
+    "Stocking",
+    "Reindeer"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -2890,7 +2974,8 @@
       "Ice Bat",
       "Ice Bug",
       "Ice Elemental",
-      "Rock Monster"
+      "Rock Monster",
+      "Stocking"
     ],
     "Rare": [
       "Pufferfish",
@@ -2919,7 +3004,8 @@
       "UFO",
       "Dink",
       "Donk",
-      "Caramel Apple"
+      "Caramel Apple",
+      "Reindeer"
     ],
     "Epic": [
       "Narwhal",
@@ -2982,7 +3068,12 @@
       "Owl Sheriff",
       "Raccoon Bandit",
       "Chicken Chick",
-      "Chick Chicken"
+      "Chick Chicken",
+      "New York Snow Globe",
+      "London Snow Globe",
+      "Japan Snow Globe",
+      "Egypt Snow Globe",
+      "Paris Snow Globe"
     ],
     "Mystical": [
       "Spooky Ghost",
