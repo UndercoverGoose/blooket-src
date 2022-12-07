@@ -2069,7 +2069,8 @@
       "chance": 14.5,
       "sellValue": 5,
       "color": "#e52a00",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     },
     "Reindeer": {
       "id": "reindeer",
@@ -2078,7 +2079,8 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#9a5b3c",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     },
     "New York Snow Globe": {
       "id": "newYorkSnowGlobe",
@@ -2087,7 +2089,8 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#4aa891",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     },
     "London Snow Globe": {
       "id": "londonSnowGlobe",
@@ -2096,7 +2099,8 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#4aa891",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     },
     "Japan Snow Globe": {
       "id": "japanSnowGlobe",
@@ -2105,7 +2109,8 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#d62027",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     },
     "Egypt Snow Globe": {
       "id": "egyptSnowGlobe",
@@ -2114,7 +2119,8 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#d47630",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     },
     "Paris Snow Globe": {
       "id": "parisSnowGlobe",
@@ -2123,7 +2129,8 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#858585",
-      "tradeValue": [0, 0]
+      "tradeValue": [0, 0],
+      "released":"Dec 6 2022 7:00 AM"
     }
   },
   "boxes": {
