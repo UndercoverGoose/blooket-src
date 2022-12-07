@@ -2,7 +2,7 @@
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
   "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{box}/{id}.{type}",
   "packImageUrl": "https://undercovergoose.github.io/blooket-src/userInterface/market/{type}/packs/{pack}.{type}",
-  "obtainableBlooks": 139,
+  "obtainableBlooks": 146,
   "eventObtainedBlooks": 19,
   "blooks": {
     "Old Boot": {
