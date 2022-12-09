@@ -2131,6 +2131,16 @@
       "color": "#858585",
       "tradeValue": [0, 0],
       "released":"Dec 6 2022 7:00 AM"
+    },
+    "Party Pig": {
+      "id": "partyPig",
+      "box": "medieval",
+      "rarity": "Chroma",
+      "chance": 0,
+      "sellValue": 350,
+      "color": "#f6a9cb",
+      "tradeValue": [0, 0],
+      "released": "Dec 8 2022 8:00 PM"
     }
   },
   "boxes": {
@@ -2414,7 +2424,8 @@
         "Dragon",
         "Queen",
         "Unicorn",
-        "King"
+        "King",
+        "Party Pig"
       ]
     },
     "pets": {
@@ -2773,7 +2784,8 @@
       "London Snow Globe",
       "Japan Snow Globe",
       "Egypt Snow Globe",
-      "Paris Snow Globe"
+      "Paris Snow Globe",
+      "Party Pig"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2928,7 +2940,8 @@
     "Egypt Snow Globe",
     "Paris Snow Globe",
     "Stocking",
-    "Reindeer"
+    "Reindeer",
+    "Party Pig"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -3081,7 +3094,8 @@
       "London Snow Globe",
       "Japan Snow Globe",
       "Egypt Snow Globe",
-      "Paris Snow Globe"
+      "Paris Snow Globe",
+      "Party Pig"
     ],
     "Mystical": [
       "Spooky Ghost",
