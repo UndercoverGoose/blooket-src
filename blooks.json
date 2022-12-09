@@ -2140,7 +2140,8 @@
       "sellValue": 350,
       "color": "#f6a9cb",
       "tradeValue": [0, 0],
-      "released": "Dec 8 2022 8:00 PM"
+      "released": "Dec 8 2022 8:00 PM",
+      "count": 15
     }
   },
   "boxes": {
