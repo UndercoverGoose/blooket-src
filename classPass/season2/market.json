@@ -151,6 +151,11 @@
       "name": "Fall Picnic",
       "price": 200,
       "rarity": "Uncommon"
+    },
+    "winterDrive": {
+      "name": "Winter Drive",
+      "price": 150,
+      "rarity": "Uncommon"
     }
   }
 }
