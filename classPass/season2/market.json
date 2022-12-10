@@ -64,6 +64,11 @@
       "name": "Thankful",
       "price": 50,
       "rarity": "Uncommon"
+    },
+    "jolly": {
+      "name": "Jolly",
+      "price": 100,
+      "rarity": "Uncommon"
     }
   },
   "banners": {
