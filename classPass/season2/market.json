@@ -161,6 +161,16 @@
       "name": "Winter Drive",
       "price": 150,
       "rarity": "Uncommon"
+    },
+    "ice": {
+      "name": "Ice",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "winterTrain": {
+      "name": "Winter Train",
+      "price": 150,
+      "rarity": "Uncommon"
     }
   }
 }
