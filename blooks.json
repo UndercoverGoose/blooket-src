@@ -2089,7 +2089,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#4aa891",
-      "tradeValue": [0, 0],
+      "tradeValue": [36000, 0],
       "released":"Dec 6 2022 7:00 AM"
     },
     "London Snow Globe": {
@@ -2099,7 +2099,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#4aa891",
-      "tradeValue": [0, 0],
+      "tradeValue": [36000, 0],
       "released":"Dec 6 2022 7:00 AM"
     },
     "Japan Snow Globe": {
@@ -2109,7 +2109,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#d62027",
-      "tradeValue": [0, 0],
+      "tradeValue": [36000, 0],
       "released":"Dec 6 2022 7:00 AM"
     },
     "Egypt Snow Globe": {
@@ -2119,7 +2119,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#d47630",
-      "tradeValue": [0, 0],
+      "tradeValue": [36000, 0],
       "released":"Dec 6 2022 7:00 AM"
     },
     "Paris Snow Globe": {
@@ -2129,7 +2129,7 @@
       "chance": 0.05,
       "sellValue": 300,
       "color": "#858585",
-      "tradeValue": [0, 0],
+      "tradeValue": [36000, 0],
       "released":"Dec 6 2022 7:00 AM"
     },
     "Party Pig": {
