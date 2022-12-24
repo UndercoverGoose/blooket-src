@@ -69,6 +69,11 @@
       "name": "Jolly",
       "price": 100,
       "rarity": "Uncommon"
+    },
+    "merry": {
+      "name": "Merry",
+      "price": 200,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -171,6 +176,16 @@
       "name": "Winter Train",
       "price": 150,
       "rarity": "Uncommon"
+    },
+    "gifts": {
+      "name": "Gifts",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "christmasTree": {
+      "name": "Christmas Tree",
+      "price": 300,
+      "rarity": "Rare"
     }
   }
 }
