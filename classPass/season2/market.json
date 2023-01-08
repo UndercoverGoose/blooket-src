@@ -74,6 +74,11 @@
       "name": "Merry",
       "price": 200,
       "rarity": "Rare"
+    },
+    "freezing": {
+      "name": "Freezing",
+      "price": 200,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -185,6 +190,11 @@
     "christmasTree": {
       "name": "Christmas Tree",
       "price": 300,
+      "rarity": "Rare"
+    },
+    "soccerField": {
+      "name": "Soccer Field",
+      "price": 500,
       "rarity": "Rare"
     }
   }
