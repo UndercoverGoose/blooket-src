@@ -79,6 +79,26 @@
       "name": "Freezing",
       "price": 200,
       "rarity": "Rare"
+    },
+    "happy": {
+      "name": "Happy",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "athlete": {
+      "name": "Athlete",
+      "price": 200,
+      "rarity": "Rare"
+    },
+    "musician": {
+      "name": "Musician",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "artist": {
+      "name": "Artist",
+      "price": 500,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -196,6 +216,26 @@
       "name": "Soccer Field",
       "price": 500,
       "rarity": "Rare"
+    },
+    "hockeyRink": {
+      "name": "Hockey Rink",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "outerSpace": {
+      "name": "Outer Space",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "iceCreamSandwich": {
+      "name": "Ice Cream Sandwich",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "musicClass": {
+      "name": "Music Class",
+      "price": 150,
+      "rarity": "Uncommon"
     }
   }
 }
