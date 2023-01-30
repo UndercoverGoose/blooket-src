@@ -80,6 +80,16 @@
       "price": 200,
       "rarity": "Rare"
     },
+    "honorRoll": {
+      "name": "Honor Roll",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "gamer": {
+      "name": "Gamer",
+      "price": 750,
+      "rarity": "Epic"
+    },
     "happy": {
       "name": "Happy",
       "price": 100,
@@ -212,8 +222,18 @@
       "price": 300,
       "rarity": "Rare"
     },
+    "winterLandscape": {
+      "name": "Winter Landscape",
+      "price": 300,
+      "rarity": "Rare"
+    },
     "soccerField": {
       "name": "Soccer Field",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "footballField": {
+      "name": "Football Field",
       "price": 500,
       "rarity": "Rare"
     },
