@@ -109,6 +109,11 @@
       "name": "Artist",
       "price": 500,
       "rarity": "Rare"
+    },
+    "scientist": {
+      "name": "Scientist",
+      "price": 150,
+      "rarity": "Uncommon"
     }
   },
   "banners": {
@@ -255,6 +260,16 @@
     "musicClass": {
       "name": "Music Class",
       "price": 150,
+      "rarity": "Uncommon"
+    },
+    "scienceClass": {
+      "name": "Science Class",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "fishTank": {
+      "name": "Fish Tank",
+      "price": 200,
       "rarity": "Uncommon"
     }
   }
