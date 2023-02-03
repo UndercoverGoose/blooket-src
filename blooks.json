@@ -1083,6 +1083,15 @@
       "color": "#995b3c",
       "tradeValue": [0, 0]
     },
+    "Alpaca": {
+      "id": "alpaca",
+      "box": "farmAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#d4803c",
+      "tradeValue": [0, 0]
+    },
     "Pizza": {
       "id": "pizza",
       "box": "foods",
@@ -1165,6 +1174,15 @@
       "chance": -1,
       "sellValue": -1,
       "color": "#d25927",
+      "tradeValue": [0, 0]
+    },
+    "Beaver": {
+      "id": "beaver",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#bd6231",
       "tradeValue": [0, 0]
     },
     "Frankenstein": {
@@ -2796,7 +2814,9 @@
       "Gorilla",
       "Hippo",
       "Giraffe",
-      "Rhino"
+      "Rhino",
+      "Alpaca",
+      "Beaver"
     ],
     "Uncommon": [
       "Old Boot",
