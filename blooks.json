@@ -2515,7 +2515,8 @@
         "Sheep",
         "Duck",
         "Goat",
-        "Horse"
+        "Horse",
+        "Alpaca"
       ]
     },
     "foods": {
@@ -2536,7 +2537,8 @@
         "Moose",
         "Owl",
         "Raccoon",
-        "Squirrel"
+        "Squirrel",
+        "Beaver"
       ]
     },
     "halloween": {
