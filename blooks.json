@@ -1455,6 +1455,42 @@
       "tradeValue": [1316, 1500],
       "released": "February 3 2022 11:45 AM"
     },
+    "Gorilla": {
+      "id": "gorilla",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#414042",
+      "tradeValue": [0, 0]
+    },
+    "Hippo": {
+      "id": "hippo",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f0c649",
+      "tradeValue": [0, 0]
+    },
+    "Rhino": {
+      "id": "rhino",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#8a9143",
+      "tradeValue": [0, 0]
+    },
+    "Giraffe": {
+      "id": "giraffe",
+      "box": "tropicalAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#f0c649",
+      "tradeValue": [0, 0]
+    },
     "Anaconda": {
       "id": "anaconda",
       "box": "tropicalAnimals",
@@ -2627,7 +2663,11 @@
         "Macaw",
         "Toucan",
         "Panther",
-        "Capuchin"
+        "Capuchin",
+        "Gorilla",
+        "Hippo",
+        "Giraffe",
+        "Rhino"
       ]
     },
     "winterHoliday": {
@@ -2752,7 +2792,11 @@
       "Parrot",
       "Tiger",
       "Toucan",
-      "Dull Blue"
+      "Dull Blue",
+      "Gorilla",
+      "Hippo",
+      "Giraffe",
+      "Rhino"
     ],
     "Uncommon": [
       "Old Boot",
