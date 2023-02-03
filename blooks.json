@@ -2,7 +2,7 @@
   "sourceUrl": "https://blooket.s3.us-east-2.amazonaws.com/blooks/{box}/{id}.svg",
   "imageUrl": "https://undercovergoose.github.io/blooket-src/blooks/{box}/{id}.{type}",
   "packImageUrl": "https://undercovergoose.github.io/blooket-src/userInterface/market/{type}/packs/{pack}.{type}",
-  "obtainableBlooks": 147,
+  "obtainableBlooks": 157,
   "eventObtainedBlooks": 19,
   "blooks": {
     "Old Boot": {
@@ -2142,6 +2142,106 @@
       "tradeValue": [12000000, 0],
       "released": "Dec 8 2022 8:00 PM",
       "count": 13
+    },
+    "Dingo": {
+      "id": "dingo",
+      "box": "outback",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#e38e4d",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Echidna": {
+      "id": "echidna",
+      "box": "outback",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#88766b",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Koala": {
+      "id": "koala",
+      "box": "outback",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#827b8b",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Kookaburra": {
+      "id": "kookaburra",
+      "box": "outback",
+      "rarity": "Uncommon",
+      "chance": 18.75,
+      "sellValue": 5,
+      "color": "#4d4d85",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Platypus": {
+      "id": "platypus",
+      "box": "outback",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#1fa49f",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Joey": {
+      "id": "joey",
+      "box": "outback",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#9f693c",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Kangaroo": {
+      "id": "kangaroo",
+      "box": "outback",
+      "rarity": "Rare",
+      "chance": 7,
+      "sellValue": 20,
+      "color": "#b9853f",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Crocodile": {
+      "id": "crocodile",
+      "box": "outback",
+      "rarity": "Epic",
+      "chance": 3.6,
+      "sellValue": 75,
+      "color": "#679b4f",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Sugar Glider": {
+      "id": "sugarGlider",
+      "box": "outback",
+      "rarity": "Legendary",
+      "chance": 0.37,
+      "sellValue": 200,
+      "color": "#131f2b",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
+    },
+    "Teal Platypus": {
+      "id": "tealPlatypus",
+      "box": "outback",
+      "rarity": "Chroma",
+      "chance": 0.03,
+      "sellValue": 300,
+      "color": "#1fa49f",
+      "tradeValue": [0, 0],
+      "released": "Feb 3 2022 6:00 PM"
     }
   },
   "boxes": {
@@ -2429,6 +2529,24 @@
         "Party Pig"
       ]
     },
+    "outback": {
+      "image": "outback",
+      "isOpenable": true,
+      "tokenPrice": 25,
+      "boxName": "Outpack Pack",
+      "blooks": [
+        "Dingo",
+        "Echidna",
+        "Koala",
+        "Kookaburra",
+        "Platypus",
+        "Joey",
+        "Kangaroo",
+        "Crocodile",
+        "Sugar Glider",
+        "Teal Platypus"
+      ]
+    },
     "pets": {
       "isOpenable": false,
       "boxName": "Default Pets",
@@ -2556,7 +2674,8 @@
     "Safari": "safari",
     "Dino": "dinos",
     "Ice Monster": "iceMonsters",
-    "Blizzard": "winterHoliday"
+    "Blizzard": "winterHoliday",
+    "Outback": "outback"
   },
   "rarity": {
     "Common": [
@@ -2675,7 +2794,11 @@
       "Ice Bug",
       "Ice Elemental",
       "Rock Monster",
-      "Stocking"
+      "Stocking",
+      "Dingo",
+      "Echidna",
+      "Koala",
+      "Kookaburra"
     ],
     "Rare": [
       "Pufferfish",
@@ -2705,7 +2828,11 @@
       "Dink",
       "Donk",
       "Caramel Apple",
-      "Reindeer"
+      "Reindeer",
+      "Dingo",
+      "Platypus",
+      "Joey",
+      "Kangaroo"
     ],
     "Epic": [
       "Narwhal",
@@ -2721,7 +2848,8 @@
       "Mad Hatter",
       "Unicorn",
       "Spaceship",
-      "Bush Monster"
+      "Bush Monster",
+      "Crocodile"
     ],
     "Legendary": [
       "Baby Shark",
@@ -2734,7 +2862,8 @@
       "King of Hearts",
       "King",
       "Astronaut",
-      "Yeti"
+      "Yeti",
+      "Sugar Glider"
     ],
     "Chroma": [
       "Blizzard Clownfish",
@@ -2786,7 +2915,8 @@
       "Japan Snow Globe",
       "Egypt Snow Globe",
       "Paris Snow Globe",
-      "Party Pig"
+      "Party Pig",
+      "Teal Platypus"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -2942,7 +3072,17 @@
     "Paris Snow Globe",
     "Stocking",
     "Reindeer",
-    "Party Pig"
+    "Party Pig",
+    "Dingo",
+    "Echidna",
+    "Koala",
+    "Kookaburra",
+    "Platypus",
+    "Joey",
+    "Kangaroo",
+    "Crocodile",
+    "Sugar Glider",
+    "Teal Platypus"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -2997,7 +3137,11 @@
       "Ice Bug",
       "Ice Elemental",
       "Rock Monster",
-      "Stocking"
+      "Stocking",
+      "Dingo",
+      "Echidna",
+      "Koala",
+      "Kookaburra"
     ],
     "Rare": [
       "Pufferfish",
@@ -3027,7 +3171,10 @@
       "Dink",
       "Donk",
       "Caramel Apple",
-      "Reindeer"
+      "Reindeer",
+      "Platypus",
+      "Joey",
+      "Kangaroo"
     ],
     "Epic": [
       "Narwhal",
@@ -3042,7 +3189,9 @@
       "Mad Hatter",
       "Caterpillar",
       "Spaceship",
-      "Bush Monster"
+      "Bush Monster",
+      "Dingo",
+      "Crocodile"
     ],
     "Legendary": [
       "Baby Shark",
@@ -3055,7 +3204,8 @@
       "King",
       "King of Hearts",
       "Astronaut",
-      "Yeti"
+      "Yeti",
+      "Sugar Glider"
     ],
     "Chroma": [
       "Lovely Frog",
@@ -3096,7 +3246,8 @@
       "Japan Snow Globe",
       "Egypt Snow Globe",
       "Paris Snow Globe",
-      "Party Pig"
+      "Party Pig",
+      "Teal Platypus"
     ],
     "Mystical": [
       "Spooky Ghost",
