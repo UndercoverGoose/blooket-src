@@ -103,7 +103,7 @@
       "sellValue": 75,
       "color": "#4e7197",
       "tradeValue": [0, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Baby Shark": {
       "id": "babyShark",
@@ -2215,7 +2215,7 @@
       "sellValue": 5,
       "color": "#e38e4d",
       "tradeValue": [73, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Echidna": {
       "id": "echidna",
@@ -2225,7 +2225,7 @@
       "sellValue": 5,
       "color": "#88766b",
       "tradeValue": [73, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Koala": {
       "id": "koala",
@@ -2235,7 +2235,7 @@
       "sellValue": 5,
       "color": "#827b8b",
       "tradeValue": [73, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Kookaburra": {
       "id": "kookaburra",
@@ -2245,7 +2245,7 @@
       "sellValue": 5,
       "color": "#4d4d85",
       "tradeValue": [73, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Platypus": {
       "id": "platypus",
@@ -2255,7 +2255,7 @@
       "sellValue": 20,
       "color": "#1fa49f",
       "tradeValue": [166, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Joey": {
       "id": "joey",
@@ -2265,7 +2265,7 @@
       "sellValue": 20,
       "color": "#9f693c",
       "tradeValue": [166, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Kangaroo": {
       "id": "kangaroo",
@@ -2275,7 +2275,7 @@
       "sellValue": 20,
       "color": "#b9853f",
       "tradeValue": [166, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Crocodile": {
       "id": "crocodile",
@@ -2285,7 +2285,7 @@
       "sellValue": 75,
       "color": "#679b4f",
       "tradeValue": [326, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Sugar Glider": {
       "id": "sugarGlider",
@@ -2295,7 +2295,7 @@
       "sellValue": 200,
       "color": "#131f2b",
       "tradeValue": [2684, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     },
     "Teal Platypus": {
       "id": "tealPlatypus",
@@ -2305,7 +2305,7 @@
       "sellValue": 300,
       "color": "#1fa49f",
       "tradeValue": [31469, 0],
-      "released": "Feb 3 2022 6:00 AM"
+      "released": "Feb 3 2023 6:00 AM"
     }
   },
   "boxes": {
