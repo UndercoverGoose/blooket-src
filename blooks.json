@@ -1122,6 +1122,24 @@
       "color": "#995b3c",
       "tradeValue": [0, 0]
     },
+    "Deer": {
+      "id": "deer",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#c2541f",
+      "tradeValue": [0, 0]
+    },
+    "Wolf": {
+      "id": "wolf",
+      "box": "forestAnimals",
+      "rarity": "Common",
+      "chance": -1,
+      "sellValue": -1,
+      "color": "#7b7c81",
+      "tradeValue": [0, 0]
+    },
     "Fox": {
       "id": "fox",
       "box": "forestAnimals",
@@ -2538,7 +2556,9 @@
         "Owl",
         "Raccoon",
         "Squirrel",
-        "Beaver"
+        "Beaver",
+        "Deer",
+        "Wolf"
       ]
     },
     "halloween": {
