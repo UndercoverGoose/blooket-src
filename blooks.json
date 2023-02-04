@@ -2214,7 +2214,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#e38e4d",
-      "tradeValue": [0, 0],
+      "tradeValue": [73, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Echidna": {
@@ -2224,7 +2224,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#88766b",
-      "tradeValue": [0, 0],
+      "tradeValue": [73, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Koala": {
@@ -2234,7 +2234,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#827b8b",
-      "tradeValue": [0, 0],
+      "tradeValue": [73, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Kookaburra": {
@@ -2244,7 +2244,7 @@
       "chance": 18.75,
       "sellValue": 5,
       "color": "#4d4d85",
-      "tradeValue": [0, 0],
+      "tradeValue": [73, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Platypus": {
@@ -2254,7 +2254,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#1fa49f",
-      "tradeValue": [0, 0],
+      "tradeValue": [166, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Joey": {
@@ -2264,7 +2264,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#9f693c",
-      "tradeValue": [0, 0],
+      "tradeValue": [166, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Kangaroo": {
@@ -2274,7 +2274,7 @@
       "chance": 7,
       "sellValue": 20,
       "color": "#b9853f",
-      "tradeValue": [0, 0],
+      "tradeValue": [166, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Crocodile": {
@@ -2284,7 +2284,7 @@
       "chance": 3.6,
       "sellValue": 75,
       "color": "#679b4f",
-      "tradeValue": [0, 0],
+      "tradeValue": [326, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Sugar Glider": {
@@ -2294,7 +2294,7 @@
       "chance": 0.37,
       "sellValue": 200,
       "color": "#131f2b",
-      "tradeValue": [0, 0],
+      "tradeValue": [2684, 0],
       "released": "Feb 3 2022 6:00 AM"
     },
     "Teal Platypus": {
@@ -2304,7 +2304,7 @@
       "chance": 0.03,
       "sellValue": 300,
       "color": "#1fa49f",
-      "tradeValue": [0, 0],
+      "tradeValue": [31469, 0],
       "released": "Feb 3 2022 6:00 AM"
     }
   },
