@@ -114,6 +114,11 @@
       "name": "Scientist",
       "price": 150,
       "rarity": "Uncommon"
+    },
+    "allStar": {
+      "name": "All-Star",
+      "price": 500,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -271,6 +276,16 @@
       "name": "Fish Tank",
       "price": 200,
       "rarity": "Uncommon"
+    },
+    "artClass": {
+      "name": "Art Class",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "clockwork": {
+      "name": "Clockwork",
+      "price": 300,
+      "rarity": "Rare"
     }
   }
 }
