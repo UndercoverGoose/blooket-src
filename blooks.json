@@ -2332,7 +2332,7 @@
       "chance": -1,
       "sellValue": 300,
       "color": "#db302c",
-      "tradeValue": [73, 0],
+      "tradeValue": [0, 0],
       "released": "Feb 14 2023 6:00 AM"
     }
   },
