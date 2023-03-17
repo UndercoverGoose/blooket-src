@@ -2334,6 +2334,16 @@
       "color": "#db302c",
       "tradeValue": [0, 0],
       "released": "Feb 14 2023 2:00 AM"
+    },
+    "Lucky Hamster": {
+      "id": "luckyHamster",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#17a34a",
+      "tradeValue": [0, 0],
+      "released": "Mar 16 2023 11:00 PM"
     }
   },
   "boxes": {
@@ -2453,7 +2463,8 @@
         "Raccoon Bandit",
         "Chicken Chick",
         "Chick Chicken",
-        "Lovely Planet"
+        "Lovely Planet",
+        "Lucky Hamster"
       ]
     },
     "bots": {
@@ -3026,7 +3037,8 @@
       "Paris Snow Globe",
       "Party Pig",
       "Teal Platypus",
-      "Lovely Planet"
+      "Lovely Planet",
+      "Lucky Hamster"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -3194,7 +3206,8 @@
     "Crocodile",
     "Sugar Glider",
     "Teal Platypus",
-    "Dolphin"
+    "Dolphin",
+    "Lucky Hamster"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -3361,7 +3374,8 @@
       "Paris Snow Globe",
       "Party Pig",
       "Teal Platypus",
-      "Lovely Planet"
+      "Lovely Planet",
+      "Lucky Hamster"
     ],
     "Mystical": [
       "Spooky Ghost",
