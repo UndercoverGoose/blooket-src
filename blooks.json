@@ -2622,7 +2622,7 @@
     "medieval": {
       "image": "medieval",
       "isOpenable": true,
-      "tokenPrice": 15,
+      "tokenPrice": 20,
       "boxName": "Medieval Pack",
       "blooks": [
         "Elf",
