@@ -119,6 +119,66 @@
       "name": "All-Star",
       "price": 500,
       "rarity": "Rare"
+    },
+    "friend": {
+      "name": "Friend",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "lover": {
+      "name": "Lover",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "farmer": {
+      "name": "Farmer",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "hungry": {
+      "name": "Hungry",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "coder": {
+      "name": "Coder",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "inspired": {
+      "name": "Inspired",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "prodigy": {
+      "name": "Prodigy",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "leprechaun": {
+      "name": "Leprechaun",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "chef": {
+      "name": "Chef",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "gardener": {
+      "name": "Gardener",
+      "price": 100,
+      "rarity": "Uncommon"
+    },
+    "eggHunter": {
+      "name": "Egg Hunter",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "bunnyRabbit": {
+      "name": "Bunny Rabbit",
+      "price": 500,
+      "rarity": "Rare"
     }
   },
   "banners": {
@@ -285,6 +345,71 @@
     "clockwork": {
       "name": "Clockwork",
       "price": 300,
+      "rarity": "Rare"
+    },
+    "loveLetter": {
+      "name": "Love Letter",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "farm": {
+      "name": "Farm",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "chocolate": {
+      "name": "Chocolate",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "techChip": {
+      "name": "Tech Chip",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "fire": {
+      "name": "Fire",
+      "price": 750,
+      "rarity": "Epic"
+    },
+    "orangeIcePop": {
+      "name": "Orange Ice Pop",
+      "price": 300,
+      "rarity": "Rare"
+    },
+    "endRainbow": {
+      "name": "End of the Rainbow",
+      "price": 200,
+      "rarity": "Uncommon"
+    },
+    "shamrocks": {
+      "name": "Shamrocks",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "flyingKite": {
+      "name": "Flying Kite",
+      "price": 150,
+      "rarity": "Uncommon"
+    },
+    "hotDog": {
+      "name": "Hot Dog",
+      "price": 500,
+      "rarity": "Rare"
+    },
+    "japaneseGarden": {
+      "name": "Japanese Garden View",
+      "price": 200,
+      "rarity": "Uncommon"
+    },
+    "easterField": {
+      "name": "Easter Field",
+      "price": 200,
+      "rarity": "Uncommon"
+    },
+    "carrot": {
+      "name": "Carrot",
+      "price": 500,
       "rarity": "Rare"
     }
   }
