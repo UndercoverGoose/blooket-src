@@ -2344,6 +2344,16 @@
       "color": "#17a34a",
       "tradeValue": [0, 0],
       "released": "Mar 16 2023 11:00 PM"
+    },
+    "Chocolate Rabbit": {
+      "id": "chocolateRabbit",
+      "box": "bonus/chromas",
+      "rarity": "Chroma",
+      "chance": -1,
+      "sellValue": 300,
+      "color": "#f6a9cb",
+      "tradeValue": [0, 0],
+      "released": "Apr 9 2023 5:00 AM"
     }
   },
   "boxes": {
@@ -3038,7 +3048,8 @@
       "Party Pig",
       "Teal Platypus",
       "Lovely Planet",
-      "Lucky Hamster"
+      "Lucky Hamster",
+      "Chocolate Rabbit"
     ],
     "Mystical": [
       "Spooky Ghost",
@@ -3207,7 +3218,8 @@
     "Sugar Glider",
     "Teal Platypus",
     "Dolphin",
-    "Lucky Hamster"
+    "Lucky Hamster",
+    "Chocolate Rabbit"
   ],
   "obtainableRarities": {
     "Common": [],
@@ -3375,7 +3387,8 @@
       "Party Pig",
       "Teal Platypus",
       "Lovely Planet",
-      "Lucky Hamster"
+      "Lucky Hamster",
+      "Chocolate Rabbit"
     ],
     "Mystical": [
       "Spooky Ghost",
