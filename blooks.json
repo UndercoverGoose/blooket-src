@@ -1972,7 +1972,7 @@
       "released": "Sep 13 2022 12:00 PM"
     },
     "Rock Monster": {
-      "id": "iceElemental",
+      "id": "rockMonster",
       "box": "iceMonsters",
       "rarity": "Uncommon",
       "chance": 19.5,
